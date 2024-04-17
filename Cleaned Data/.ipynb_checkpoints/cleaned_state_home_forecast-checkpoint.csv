@@ -1,0 +1,2683 @@
+RegionID,SizeRank,Region Name,Region Type,State Name,Base Date Recorded,Forecast Date,Forecast Growth (%)
+394913,1,"New York, NY",msa,New York,2024-02-29,2024-03-31,0.5
+753899,2,"Los Angeles, CA",msa,California,2024-02-29,2024-03-31,1.0
+394463,3,"Chicago, IL",msa,Illinois,2024-02-29,2024-03-31,1.1
+394514,4,"Dallas, TX",msa,Texas,2024-02-29,2024-03-31,1.1
+394692,5,"Houston, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+395209,6,"Washington, DC",msa,Virginia,2024-02-29,2024-03-31,1.2
+394974,7,"Philadelphia, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.9
+394856,8,"Miami, FL",msa,Florida,2024-02-29,2024-03-31,0.9
+394347,9,"Atlanta, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394404,10,"Boston, MA",msa,Massachusetts,2024-02-29,2024-03-31,1.3
+394976,11,"Phoenix, AZ",msa,Arizona,2024-02-29,2024-03-31,1.2
+395057,12,"San Francisco, CA",msa,California,2024-02-29,2024-03-31,1.5
+395025,13,"Riverside, CA",msa,California,2024-02-29,2024-03-31,1.0
+394532,14,"Detroit, MI",msa,Michigan,2024-02-29,2024-03-31,1.1
+395078,15,"Seattle, WA",msa,Washington,2024-02-29,2024-03-31,2.1
+394865,16,"Minneapolis, MN",msa,Minnesota,2024-02-29,2024-03-31,1.1
+395056,17,"San Diego, CA",msa,California,2024-02-29,2024-03-31,1.5
+395148,18,"Tampa, FL",msa,Florida,2024-02-29,2024-03-31,0.8
+394530,19,"Denver, CO",msa,Colorado,2024-02-29,2024-03-31,1.8
+394358,20,"Baltimore, MD",msa,Maryland,2024-02-29,2024-03-31,0.7
+395121,21,"St. Louis, MO",msa,Missouri,2024-02-29,2024-03-31,1.2
+394943,22,"Orlando, FL",msa,Florida,2024-02-29,2024-03-31,0.8
+394458,23,"Charlotte, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+395055,24,"San Antonio, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+394998,25,"Portland, OR",msa,Oregon,2024-02-29,2024-03-31,1.5
+395045,26,"Sacramento, CA",msa,California,2024-02-29,2024-03-31,1.4
+394982,27,"Pittsburgh, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.9
+394466,28,"Cincinnati, OH",msa,Ohio,2024-02-29,2024-03-31,1.2
+394355,29,"Austin, TX",msa,Texas,2024-02-29,2024-03-31,0.9
+394775,30,"Las Vegas, NV",msa,Nevada,2024-02-29,2024-03-31,1.2
+394735,31,"Kansas City, MO",msa,Missouri,2024-02-29,2024-03-31,1.6
+394492,32,"Columbus, OH",msa,Ohio,2024-02-29,2024-03-31,1.4
+394705,34,"Indianapolis, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394475,35,"Cleveland, OH",msa,Ohio,2024-02-29,2024-03-31,1.2
+395059,36,"San Jose, CA",msa,California,2024-02-29,2024-03-31,1.5
+394902,37,"Nashville, TN",msa,Tennessee,2024-02-29,2024-03-31,0.9
+395194,38,"Virginia Beach, VA",msa,Virginia,2024-02-29,2024-03-31,0.8
+395005,39,"Providence, RI",msa,Rhode Island,2024-02-29,2024-03-31,1.1
+394714,40,"Jacksonville, FL",msa,Florida,2024-02-29,2024-03-31,0.8
+394862,41,"Milwaukee, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.2
+394935,42,"Oklahoma City, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.9
+395012,43,"Raleigh, NC",msa,North Carolina,2024-02-29,2024-03-31,1.1
+394849,44,"Memphis, TN",msa,Tennessee,2024-02-29,2024-03-31,0.9
+395022,45,"Richmond, VA",msa,Virginia,2024-02-29,2024-03-31,1.0
+394807,46,"Louisville, KY",msa,Kentucky,2024-02-29,2024-03-31,0.8
+394910,47,"New Orleans, LA",msa,Louisiana,2024-02-29,2024-03-31,0.4
+395053,48,"Salt Lake City, UT",msa,Utah,2024-02-29,2024-03-31,1.5
+394669,49,"Hartford, CT",msa,Connecticut,2024-02-29,2024-03-31,1.6
+394425,50,"Buffalo, NY",msa,New York,2024-02-29,2024-03-31,1.0
+394388,51,"Birmingham, AL",msa,Alabama,2024-02-29,2024-03-31,0.9
+395031,52,"Rochester, NY",msa,New York,2024-02-29,2024-03-31,1.6
+394640,53,"Grand Rapids, MI",msa,Michigan,2024-02-29,2024-03-31,1.6
+395167,54,"Tucson, AZ",msa,Arizona,2024-02-29,2024-03-31,0.7
+753924,55,"Urban Honolulu, HI",msa,Hawaii,2024-02-29,2024-03-31,0.9
+395169,56,"Tulsa, OK",msa,Oklahoma,2024-02-29,2024-03-31,1.0
+394619,57,"Fresno, CA",msa,California,2024-02-29,2024-03-31,1.0
+395238,58,"Worcester, MA",msa,Massachusetts,2024-02-29,2024-03-31,1.2
+394938,59,"Omaha, NE",msa,Nebraska,2024-02-29,2024-03-31,1.6
+394415,60,"Bridgeport, CT",msa,Connecticut,2024-02-29,2024-03-31,1.3
+394653,61,"Greenville, SC",msa,South Carolina,2024-02-29,2024-03-31,0.9
+394312,62,"Albuquerque, NM",msa,New Mexico,2024-02-29,2024-03-31,1.1
+394357,63,"Bakersfield, CA",msa,California,2024-02-29,2024-03-31,1.0
+394308,64,"Albany, NY",msa,New York,2024-02-29,2024-03-31,0.4
+394753,65,"Knoxville, TN",msa,Tennessee,2024-02-29,2024-03-31,1.1
+394367,66,"Baton Rouge, LA",msa,Louisiana,2024-02-29,2024-03-31,0.5
+394843,67,"McAllen, TX",msa,Texas,2024-02-29,2024-03-31,1.2
+394908,68,"New Haven, CT",msa,Connecticut,2024-02-29,2024-03-31,1.3
+394561,69,"El Paso, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+394318,70,"Allentown, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+394952,71,"Oxnard, CA",msa,California,2024-02-29,2024-03-31,1.3
+394486,72,"Columbia, SC",msa,South Carolina,2024-02-29,2024-03-31,1.0
+753906,73,"North Port, FL",msa,Florida,2024-02-29,2024-03-31,0.8
+394457,75,"Charleston, SC",msa,South Carolina,2024-02-29,2024-03-31,1.0
+394648,76,"Greensboro, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+395134,77,"Stockton, CA",msa,California,2024-02-29,2024-03-31,1.4
+394440,78,"Cape Coral, FL",msa,Florida,2024-02-29,2024-03-31,0.7
+394399,79,"Boise City, ID",msa,Idaho,2024-02-29,2024-03-31,1.8
+394484,80,"Colorado Springs, CO",msa,Colorado,2024-02-29,2024-03-31,1.4
+394798,81,"Little Rock, AR",msa,Arkansas,2024-02-29,2024-03-31,0.8
+394766,82,"Lakeland, FL",msa,Florida,2024-02-29,2024-03-31,0.6
+394304,83,"Akron, OH",msa,Ohio,2024-02-29,2024-03-31,1.0
+394531,84,"Des Moines, IA",msa,Iowa,2024-02-29,2024-03-31,0.8
+395115,85,"Springfield, MA",msa,Massachusetts,2024-02-29,2024-03-31,1.0
+394931,87,"Ogden, UT",msa,Utah,2024-02-29,2024-03-31,1.6
+394816,88,"Madison, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.4
+395235,89,"Winston, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394528,90,"Deltona, FL",msa,Florida,2024-02-29,2024-03-31,0.7
+395143,91,"Syracuse, NY",msa,New York,2024-02-29,2024-03-31,1.1
+395006,92,"Provo, UT",msa,Utah,2024-02-29,2024-03-31,1.5
+395160,93,"Toledo, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+395224,94,"Wichita, KS",msa,Kansas,2024-02-29,2024-03-31,1.1
+394549,95,"Durham, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394352,96,"Augusta, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+394957,97,"Palm Bay, FL",msa,Florida,2024-02-29,2024-03-31,0.7
+394711,98,"Jackson, MS",msa,Mississippi,2024-02-29,2024-03-31,0.7
+394666,99,"Harrisburg, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+395113,100,"Spokane, WA",msa,Washington,2024-02-29,2024-03-31,1.0
+395075,101,"Scranton, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.4
+394460,102,"Chattanooga, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+394871,103,"Modesto, CA",msa,California,2024-02-29,2024-03-31,1.2
+394768,104,"Lancaster, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+394997,105,"Portland, ME",msa,Maine,2024-02-29,2024-03-31,1.2
+395245,106,"Youngstown, OH",msa,Ohio,2024-02-29,2024-03-31,0.8
+394770,107,"Lansing, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+394590,108,"Fayetteville, AR",msa,Arkansas,2024-02-29,2024-03-31,0.9
+394589,109,"Fayetteville, NC",msa,North Carolina,2024-02-29,2024-03-31,1.1
+394792,110,"Lexington, KY",msa,Kentucky,2024-02-29,2024-03-31,1.1
+394971,111,"Pensacola, FL",msa,Florida,2024-02-29,2024-03-31,1.0
+395068,112,"Santa Rosa, CA",msa,California,2024-02-29,2024-03-31,1.2
+395019,113,"Reno, NV",msa,Nevada,2024-02-29,2024-03-31,1.4
+394698,114,"Huntsville, AL",msa,Alabama,2024-02-29,2024-03-31,1.0
+394995,115,"Port St. Lucie, FL",msa,Florida,2024-02-29,2024-03-31,0.8
+394761,116,"Lafayette, LA",msa,Louisiana,2024-02-29,2024-03-31,0.4
+394898,117,"Myrtle Beach, SC",msa,South Carolina,2024-02-29,2024-03-31,0.7
+395116,118,"Springfield, MO",msa,Missouri,2024-02-29,2024-03-31,1.1
+395195,119,"Visalia, CA",msa,California,2024-02-29,2024-03-31,0.9
+394746,120,"Killeen, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+394338,121,"Asheville, NC",msa,North Carolina,2024-02-29,2024-03-31,0.9
+395244,122,"York, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+395183,123,"Vallejo, CA",msa,California,2024-02-29,2024-03-31,1.0
+753917,124,"Santa Maria, CA",msa,California,2024-02-29,2024-03-31,1.4
+395050,125,"Salinas, CA",msa,California,2024-02-29,2024-03-31,1.2
+395048,126,"Salem, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394870,127,"Mobile, AL",msa,Alabama,2024-02-29,2024-03-31,0.8
+395015,128,"Reading, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.2
+394502,129,"Corpus Christi, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+394421,130,"Brownsville, TX",msa,Texas,2024-02-29,2024-03-31,1.0
+394820,131,"Manchester, NH",msa,New Hampshire,2024-02-29,2024-03-31,1.4
+394612,132,"Fort Wayne, IN",msa,Indiana,2024-02-29,2024-03-31,1.1
+394658,133,"Gulfport, MS",msa,Mississippi,2024-02-29,2024-03-31,0.8
+395051,134,"Salisbury, MD",msa,Delaware,2024-02-29,2024-03-31,0.7
+394596,135,"Flint, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+394972,136,"Peoria, IL",msa,Illinois,2024-02-29,2024-03-31,1.0
+394439,137,"Canton, OH",msa,Ohio,2024-02-29,2024-03-31,1.3
+395070,138,"Savannah, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394327,139,"Anchorage, AK",msa,Alaska,2024-02-29,2024-03-31,0.5
+394372,140,"Beaumont, TX",msa,Texas,2024-02-29,2024-03-31,0.2
+395096,141,"Shreveport, LA",msa,Louisiana,2024-02-29,2024-03-31,0.5
+395164,142,"Trenton, NJ",msa,New Jersey,2024-02-29,2024-03-31,1.3
+394875,143,"Montgomery, AL",msa,Alabama,2024-02-29,2024-03-31,0.8
+394520,144,"Davenport, IA",msa,Illinois,2024-02-29,2024-03-31,0.7
+395146,145,"Tallahassee, FL",msa,Florida,2024-02-29,2024-03-31,0.9
+394576,146,"Eugene, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394901,147,"Naples, FL",msa,Florida,2024-02-29,2024-03-31,0.9
+394332,148,"Ann Arbor, MI",msa,Michigan,2024-02-29,2024-03-31,1.4
+394927,149,"Ocala, FL",msa,Florida,2024-02-29,2024-03-31,0.5
+394679,150,"Hickory, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394697,151,"Huntington, WV",msa,Ohio,2024-02-29,2024-03-31,0.5
+394602,152,"Fort Collins, CO",msa,Colorado,2024-02-29,2024-03-31,1.2
+395033,153,"Rockford, IL",msa,Illinois,2024-02-29,2024-03-31,1.1
+394796,154,"Lincoln, NE",msa,Nebraska,2024-02-29,2024-03-31,1.4
+394622,155,"Gainesville, FL",msa,Florida,2024-02-29,2024-03-31,1.0
+394405,156,"Boulder, CO",msa,Colorado,2024-02-29,2024-03-31,1.5
+394646,157,"Green Bay, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.9
+394488,158,"Columbus, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+395107,159,"South Bend, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+395109,160,"Spartanburg, SC",msa,South Carolina,2024-02-29,2024-03-31,1.0
+394645,161,"Greeley, CO",msa,Colorado,2024-02-29,2024-03-31,0.9
+394808,162,"Lubbock, TX",msa,Texas,2024-02-29,2024-03-31,0.9
+394471,163,"Clarksville, TN",msa,Tennessee,2024-02-29,2024-03-31,0.8
+395028,164,"Roanoke, VA",msa,Virginia,2024-02-29,2024-03-31,1.0
+394579,165,"Evansville, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394747,167,"Kingsport, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+394741,168,"Kennewick, WA",msa,Washington,2024-02-29,2024-03-31,0.9
+395179,169,"Utica, NY",msa,New York,2024-02-29,2024-03-31,0.6
+394660,170,"Hagerstown, MD",msa,Maryland,2024-02-29,2024-03-31,1.0
+394543,171,"Duluth, MN",msa,Minnesota,2024-02-29,2024-03-31,0.4
+394937,172,"Olympia, WA",msa,Washington,2024-02-29,2024-03-31,1.4
+394803,173,"Longview, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+395229,174,"Wilmington, NC",msa,North Carolina,2024-02-29,2024-03-31,1.1
+395061,175,"San Luis Obispo, CA",msa,California,2024-02-29,2024-03-31,1.1
+753875,176,"Crestview, FL",msa,Florida,2024-02-29,2024-03-31,0.6
+394851,177,"Merced, CA",msa,California,2024-02-29,2024-03-31,1.0
+395197,178,"Waco, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+394447,179,"Cedar Rapids, IA",msa,Iowa,2024-02-29,2024-03-31,0.7
+394348,180,"Atlantic City, NJ",msa,New Jersey,2024-02-29,2024-03-31,0.9
+394412,181,"Bremerton, WA",msa,Washington,2024-02-29,2024-03-31,1.0
+395103,182,"Sioux Falls, SD",msa,South Dakota,2024-02-29,2024-03-31,1.0
+395065,183,"Santa Cruz, CA",msa,California,2024-02-29,2024-03-31,1.3
+394572,184,"Erie, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.8
+394924,185,"Norwich, CT",msa,Connecticut,2024-02-29,2024-03-31,1.4
+394323,186,"Amarillo, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+394772,187,"Laredo, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+395171,188,"Tuscaloosa, AL",msa,Alabama,2024-02-29,2024-03-31,0.7
+394483,189,"College Station, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+394732,190,"Kalamazoo, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+394811,191,"Lynchburg, VA",msa,Virginia,2024-02-29,2024-03-31,0.9
+394455,192,"Charleston, WV",msa,West Virginia,2024-02-29,2024-03-31,0.6
+395240,193,"Yakima, WA",msa,Washington,2024-02-29,2024-03-31,1.0
+394585,194,"Fargo, ND",msa,North Dakota,2024-02-29,2024-03-31,0.7
+394387,195,"Binghamton, NY",msa,New York,2024-02-29,2024-03-31,0.7
+394609,196,"Fort Smith, AR",msa,Arkansas,2024-02-29,2024-03-31,0.9
+394334,197,"Appleton, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.0
+395161,199,"Topeka, KS",msa,Kansas,2024-02-29,2024-03-31,1.2
+394813,200,"Macon, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+395174,201,"Tyler, TX",msa,Texas,2024-02-29,2024-03-31,1.0
+394361,202,"Barnstable Town, MA",msa,Massachusetts,2024-02-29,2024-03-31,1.1
+394519,203,"Daphne, AL",msa,Alabama,2024-02-29,2024-03-31,0.9
+394378,205,"Bellingham, WA",msa,Washington,2024-02-29,2024-03-31,1.4
+394429,206,"Burlington, VT",msa,Vermont,2024-02-29,2024-03-31,0.9
+395030,207,"Rochester, MN",msa,Minnesota,2024-02-29,2024-03-31,1.2
+753895,208,"Lafayette, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394454,209,"Champaign, IL",msa,Illinois,2024-02-29,2024-03-31,0.9
+394848,210,"Medford, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394459,212,"Charlottesville, VA",msa,Virginia,2024-02-29,2024-03-31,1.0
+394763,213,"Lake Charles, LA",msa,Louisiana,2024-02-29,2024-03-31,0.1
+394773,214,"Las Cruces, NM",msa,New Mexico,2024-02-29,2024-03-31,0.9
+394464,215,"Chico, CA",msa,California,2024-02-29,2024-03-31,0.6
+394681,216,"Hilton Head Island, SC",msa,South Carolina,2024-02-29,2024-03-31,0.8
+394346,217,"Athens, GA",msa,Georgia,2024-02-29,2024-03-31,1.1
+394765,218,"Lake Havasu City, AZ",msa,Arizona,2024-02-29,2024-03-31,0.8
+394485,219,"Columbia, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+395114,220,"Springfield, IL",msa,Illinois,2024-02-29,2024-03-31,0.7
+394691,221,"Houma, LA",msa,Louisiana,2024-02-29,2024-03-31,0.3
+394872,222,"Monroe, LA",msa,Louisiana,2024-02-29,2024-03-31,0.5
+394565,223,"Elkhart, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394726,224,"Johnson City, TN",msa,Tennessee,2024-02-29,2024-03-31,1.1
+395247,225,"Yuma, AZ",msa,Arizona,2024-02-29,2024-03-31,1.0
+394623,226,"Gainesville, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394716,227,"Jacksonville, NC",msa,North Carolina,2024-02-29,2024-03-31,0.9
+394597,228,"Florence, SC",msa,South Carolina,2024-02-29,2024-03-31,0.7
+394680,229,"Hilo, HI",msa,Hawaii,2024-02-29,2024-03-31,0.7
+395118,230,"St. Cloud, MN",msa,Minnesota,2024-02-29,2024-03-31,0.9
+395011,231,"Racine, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.1
+394380,232,"Bend, OR",msa,Oregon,2024-02-29,2024-03-31,1.2
+395047,233,"Saginaw, MI",msa,Michigan,2024-02-29,2024-03-31,1.2
+395202,234,"Warner Robins, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+395151,235,"Terre Haute, IN",msa,Indiana,2024-02-29,2024-03-31,0.8
+395162,236,"Torrington, CT",msa,Connecticut,2024-02-29,2024-03-31,1.3
+395009,237,"Punta Gorda, FL",msa,Florida,2024-02-29,2024-03-31,0.6
+394386,239,"Billings, MT",msa,Montana,2024-02-29,2024-03-31,0.9
+395018,240,"Redding, CA",msa,California,2024-02-29,2024-03-31,0.8
+394748,241,"Kingston, NY",msa,New York,2024-02-29,2024-03-31,0.9
+394960,242,"Panama City, FL",msa,Florida,2024-02-29,2024-03-31,0.9
+394729,243,"Joplin, MO",msa,Missouri,2024-02-29,2024-03-31,1.0
+394539,244,"Dover, DE",msa,Delaware,2024-02-29,2024-03-31,0.9
+394559,245,"El Centro, CA",msa,California,2024-02-29,2024-03-31,0.9
+394712,246,"Jackson, TN",msa,Tennessee,2024-02-29,2024-03-31,0.5
+395246,247,"Yuba City, CA",msa,California,2024-02-29,2024-03-31,0.9
+394406,248,"Bowling Green, KY",msa,Kentucky,2024-02-29,2024-03-31,1.0
+395119,249,"St. George, UT",msa,Utah,2024-02-29,2024-03-31,0.8
+394896,250,"Muskegon, MI",msa,Michigan,2024-02-29,2024-03-31,1.1
+394299,251,"Abilene, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+394707,252,"Iowa City, IA",msa,Iowa,2024-02-29,2024-03-31,0.8
+394351,253,"Auburn, AL",msa,Alabama,2024-02-29,2024-03-31,0.9
+394860,254,"Midland, TX",msa,Texas,2024-02-29,2024-03-31,1.0
+394671,255,"Hattiesburg, MS",msa,Mississippi,2024-02-29,2024-03-31,0.7
+753869,255,"Bloomington, IL",msa,Illinois,2024-02-29,2024-03-31,1.1
+394944,257,"Oshkosh, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.1
+394555,258,"Eau Claire, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.0
+394651,259,"Greenville, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394428,260,"Burlington, NC",msa,North Carolina,2024-02-29,2024-03-31,1.1
+395210,261,"Waterloo, IA",msa,Iowa,2024-02-29,2024-03-31,0.5
+394480,262,"Coeur d'Alene, ID",msa,Idaho,2024-02-29,2024-03-31,1.2
+394553,263,"East Stroudsburg, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+395007,264,"Pueblo, CO",msa,Colorado,2024-02-29,2024-03-31,0.6
+394392,265,"Blacksburg, VA",msa,Virginia,2024-02-29,2024-03-31,0.8
+395215,266,"Wausau, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.8
+394731,267,"Kahului, HI",msa,Hawaii,2024-02-29,2024-03-31,1.1
+394720,268,"Janesville, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.0
+395170,269,"Tupelo, MS",msa,Mississippi,2024-02-29,2024-03-31,0.6
+394393,270,"Bloomington, IN",msa,Indiana,2024-02-29,2024-03-31,1.1
+394930,271,"Odessa, TX",msa,Texas,2024-02-29,2024-03-31,0.9
+394710,272,"Jackson, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+395125,273,"State College, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.8
+395079,274,"Sebastian, FL",msa,Florida,2024-02-29,2024-03-31,0.9
+394814,275,"Madera, CA",msa,California,2024-02-29,2024-03-31,0.9
+394523,276,"Decatur, AL",msa,Alabama,2024-02-29,2024-03-31,0.9
+394453,277,"Chambersburg, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.8
+395193,278,"Vineland, NJ",msa,New Jersey,2024-02-29,2024-03-31,1.1
+394703,279,"Idaho Falls, ID",msa,Idaho,2024-02-29,2024-03-31,1.3
+394639,280,"Grand Junction, CO",msa,Colorado,2024-02-29,2024-03-31,1.0
+394563,281,"Elizabethtown, KY",msa,Kentucky,2024-02-29,2024-03-31,1.0
+394917,282,"Niles, MI",msa,Michigan,2024-02-29,2024-03-31,0.9
+394873,283,"Monroe, MI",msa,Michigan,2024-02-29,2024-03-31,0.8
+395066,284,"Santa Fe, NM",msa,New Mexico,2024-02-29,2024-03-31,1.0
+394493,285,"Concord, NH",msa,New Hampshire,2024-02-29,2024-03-31,1.2
+394314,286,"Alexandria, LA",msa,Louisiana,2024-02-29,2024-03-31,0.2
+395163,287,"Traverse City, MI",msa,Michigan,2024-02-29,2024-03-31,1.3
+394359,288,"Bangor, ME",msa,Maine,2024-02-29,2024-03-31,0.9
+394685,289,"Homosassa Springs, FL",msa,Florida,2024-02-29,2024-03-31,0.8
+394662,290,"Hanford, CA",msa,California,2024-02-29,2024-03-31,1.0
+394723,291,"Jefferson City, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+394598,292,"Florence, AL",msa,Alabama,2024-02-29,2024-03-31,1.0
+394537,293,"Dothan, AL",msa,Alabama,2024-02-29,2024-03-31,0.8
+394802,294,"London, KY",msa,Kentucky,2024-02-29,2024-03-31,0.8
+394306,295,"Albany, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+395102,297,"Sioux City, IA",msa,Iowa,2024-02-29,2024-03-31,0.8
+395223,298,"Wichita Falls, TX",msa,Texas,2024-02-29,2024-03-31,1.0
+395152,299,"Texarkana, TX",msa,Texas,2024-02-29,2024-03-31,0.9
+395182,300,"Valdosta, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394800,301,"Logan, UT",msa,Utah,2024-02-29,2024-03-31,1.2
+394595,302,"Flagstaff, AZ",msa,Arizona,2024-02-29,2024-03-31,1.4
+395036,303,"Rocky Mount, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+395000,304,"Pottsville, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+394515,305,"Dalton, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394783,306,"Lebanon, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+394880,307,"Morristown, TN",msa,Tennessee,2024-02-29,2024-03-31,1.1
+395232,308,"Winchester, VA",msa,Virginia,2024-02-29,2024-03-31,1.0
+395221,309,"Wheeling, WV",msa,Ohio,2024-02-29,2024-03-31,0.7
+394879,310,"Morgantown, WV",msa,West Virginia,2024-02-29,2024-03-31,0.7
+394756,311,"La Crosse, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.9
+394900,312,"Napa, CA",msa,California,2024-02-29,2024-03-31,1.2
+395013,313,"Rapid City, SD",msa,South Dakota,2024-02-29,2024-03-31,1.0
+395139,314,"Sumter, SC",msa,South Carolina,2024-02-29,2024-03-31,0.8
+394577,315,"Eureka, CA",msa,California,2024-02-29,2024-03-31,0.5
+395117,316,"Springfield, OH",msa,Ohio,2024-02-29,2024-03-31,1.1
+394668,317,"Harrisonburg, VA",msa,Virginia,2024-02-29,2024-03-31,0.9
+394368,318,"Battle Creek, MI",msa,Michigan,2024-02-29,2024-03-31,0.9
+395094,319,"Sherman, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+394821,320,"Manhattan, KS",msa,Kansas,2024-02-29,2024-03-31,0.7
+394442,321,"Carbondale, IL",msa,Illinois,2024-02-29,2024-03-31,0.6
+394727,322,"Johnstown, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.4
+394728,323,"Jonesboro, AR",msa,Arkansas,2024-02-29,2024-03-31,0.8
+394390,324,"Bismarck, ND",msa,North Dakota,2024-02-29,2024-03-31,0.6
+394661,325,"Hammond, LA",msa,Louisiana,2024-02-29,2024-03-31,0.6
+394983,326,"Pittsfield, MA",msa,Massachusetts,2024-02-29,2024-03-31,0.9
+394890,327,"Mount Vernon, WA",msa,Washington,2024-02-29,2024-03-31,1.1
+394719,328,"Jamestown, NY",msa,New York,2024-02-29,2024-03-31,0.2
+395153,329,"The Villages, FL",msa,Florida,2024-02-29,2024-03-31,0.5
+394307,330,"Albany, OR",msa,Oregon,2024-02-29,2024-03-31,0.8
+394633,331,"Glens Falls, NY",msa,New York,2024-02-29,2024-03-31,0.6
+394780,332,"Lawton, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.8
+394474,334,"Cleveland, TN",msa,Tennessee,2024-02-29,2024-03-31,1.1
+395098,335,"Sierra Vista, AZ",msa,Arizona,2024-02-29,2024-03-31,0.9
+394325,336,"Ames, IA",msa,Iowa,2024-02-29,2024-03-31,0.7
+394824,337,"Mansfield, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+395128,338,"Staunton, VA",msa,Virginia,2024-02-29,2024-03-31,0.9
+394353,339,"Augusta, ME",msa,Maine,2024-02-29,2024-03-31,0.8
+394321,340,"Altoona, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.4
+394905,341,"New Bern, NC",msa,North Carolina,2024-02-29,2024-03-31,0.9
+394588,342,"Farmington, NM",msa,New Mexico,2024-02-29,2024-03-31,0.7
+395120,343,"St. Joseph, MO",msa,Missouri,2024-02-29,2024-03-31,0.8
+395054,344,"San Angelo, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+395218,345,"Wenatchee, WA",msa,Washington,2024-02-29,2024-03-31,0.9
+394949,346,"Owensboro, KY",msa,Kentucky,2024-02-29,2024-03-31,0.9
+753890,347,"Holland, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+394810,348,"Lumberton, NC",msa,North Carolina,2024-02-29,2024-03-31,1.2
+394778,349,"Lawrence, KS",msa,Kansas,2024-02-29,2024-03-31,1.2
+394635,350,"Goldsboro, NC",msa,North Carolina,2024-02-29,2024-03-31,0.8
+395213,351,"Watertown, NY",msa,New York,2024-02-29,2024-03-31,0.5
+395089,352,"Sheboygan, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.9
+395217,353,"Weirton, WV",msa,Ohio,2024-02-29,2024-03-31,0.9
+394867,354,"Missoula, MT",msa,Montana,2024-02-29,2024-03-31,0.6
+394407,356,"Bozeman, MT",msa,Montana,2024-02-29,2024-03-31,0.9
+394333,357,"Anniston, AL",msa,Alabama,2024-02-29,2024-03-31,0.7
+394374,358,"Beckley, WV",msa,West Virginia,2024-02-29,2024-03-31,1.1
+395225,359,"Williamsport, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.7
+394423,360,"Brunswick, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+395173,361,"Twin Falls, ID",msa,Idaho,2024-02-29,2024-03-31,1.1
+753872,361,"California, MD",msa,Maryland,2024-02-29,2024-03-31,0.4
+394495,363,"Cookeville, TN",msa,Tennessee,2024-02-29,2024-03-31,0.9
+394893,364,"Muncie, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394857,365,"Michigan City, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+395039,366,"Roseburg, OR",msa,Oregon,2024-02-29,2024-03-31,1.0
+394788,367,"Lewiston, ME",msa,Maine,2024-02-29,2024-03-31,1.4
+394804,368,"Longview, WA",msa,Washington,2024-02-29,2024-03-31,1.0
+394932,369,"Ogdensburg, NY",msa,New York,2024-02-29,2024-03-31,0.3
+394734,370,"Kankakee, IL",msa,Illinois,2024-02-29,2024-03-31,0.6
+394396,371,"Bluefield, WV",msa,Virginia,2024-02-29,2024-03-31,0.9
+395095,372,"Show Low, AZ",msa,Arizona,2024-02-29,2024-03-31,0.9
+395023,373,"Richmond, KY",msa,Kentucky,2024-02-29,2024-03-31,0.9
+395168,374,"Tullahoma, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+395222,375,"Whitewater, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.9
+394709,376,"Ithaca, NY",msa,New York,2024-02-29,2024-03-31,0.7
+394637,377,"Grand Forks, ND",msa,Minnesota,2024-02-29,2024-03-31,0.6
+394524,378,"Decatur, IL",msa,Illinois,2024-02-29,2024-03-31,1.2
+394762,379,"LaGrange, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394369,380,"Bay City, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+394599,381,"Fond du Lac, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.9
+394630,382,"Gettysburg, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.9
+394620,383,"Gadsden, AL",msa,Alabama,2024-02-29,2024-03-31,0.9
+394733,384,"Kalispell, MT",msa,Montana,2024-02-29,2024-03-31,1.3
+394518,385,"Danville, VA",msa,Virginia,2024-02-29,2024-03-31,1.0
+394823,386,"Mankato, MN",msa,Minnesota,2024-02-29,2024-03-31,0.7
+394794,387,"Lima, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+753915,388,"Salem, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+395166,389,"Truckee, CA",msa,California,2024-02-29,2024-03-31,0.7
+395080,390,"Sebring, FL",msa,Florida,2024-02-29,2024-03-31,0.9
+394462,391,"Cheyenne, WY",msa,Wyoming,2024-02-29,2024-03-31,0.7
+394689,392,"Hot Springs, AR",msa,Arkansas,2024-02-29,2024-03-31,0.9
+394302,393,"Adrian, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+395090,394,"Shelby, NC",msa,North Carolina,2024-02-29,2024-03-31,1.1
+394542,396,"Dubuque, IA",msa,Iowa,2024-02-29,2024-03-31,0.9
+394852,397,"Meridian, MS",msa,Mississippi,2024-02-29,2024-03-31,0.4
+753912,398,"Pinehurst, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394953,399,"Paducah, KY",msa,Kentucky,2024-02-29,2024-03-31,0.6
+395190,400,"Victoria, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+395038,401,"Rome, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+395086,402,"Sevierville, TN",msa,Tennessee,2024-02-29,2024-03-31,0.6
+394882,403,"Moses Lake, WA",msa,Washington,2024-02-29,2024-03-31,0.9
+394340,404,"Ashtabula, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+394441,405,"Cape Girardeau, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+394311,406,"Albertville, AL",msa,Alabama,2024-02-29,2024-03-31,1.0
+394580,407,"Fairbanks, AK",msa,Alaska,2024-02-29,2024-03-31,0.4
+394410,408,"Brainerd, MN",msa,Minnesota,2024-02-29,2024-03-31,0.8
+394513,409,"Cumberland, MD",msa,Maryland,2024-02-29,2024-03-31,0.4
+394928,410,"Ocean City, NJ",msa,New Jersey,2024-02-29,2024-03-31,0.9
+394505,411,"Corvallis, OR",msa,Oregon,2024-02-29,2024-03-31,1.0
+394988,412,"Pocatello, ID",msa,Idaho,2024-02-29,2024-03-31,1.3
+394501,413,"Corning, NY",msa,New York,2024-02-29,2024-03-31,0.4
+394911,414,"New Philadelphia, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+395140,415,"Sunbury, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.6
+395175,416,"Ukiah, CA",msa,California,2024-02-29,2024-03-31,0.3
+753887,417,"Hermiston, OR",msa,Oregon,2024-02-29,2024-03-31,1.0
+394469,418,"Clarksburg, WV",msa,West Virginia,2024-02-29,2024-03-31,0.6
+394964,419,"Parkersburg, WV",msa,West Virginia,2024-02-29,2024-03-31,0.8
+394373,420,"Beaver Dam, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.9
+394980,421,"Pine Bluff, AR",msa,Arkansas,2024-02-29,2024-03-31,0.7
+394641,422,"Grants Pass, OR",msa,Oregon,2024-02-29,2024-03-31,0.5
+394511,424,"Cullman, AL",msa,Alabama,2024-02-29,2024-03-31,0.8
+394809,425,"Lufkin, TX",msa,Texas,2024-02-29,2024-03-31,1.2
+395248,426,"Zanesville, OH",msa,Ohio,2024-02-29,2024-03-31,1.1
+394907,427,"New Castle, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+394925,428,"Oak Harbor, WA",msa,Washington,2024-02-29,2024-03-31,0.9
+394942,429,"Orangeburg, SC",msa,South Carolina,2024-02-29,2024-03-31,0.7
+395212,430,"Watertown, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.8
+394847,431,"Meadville, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.6
+394568,432,"Elmira, NY",msa,New York,2024-02-29,2024-03-31,0.1
+394644,433,"Great Falls, MT",msa,Montana,2024-02-29,2024-03-31,0.8
+394776,434,"Laurel, MS",msa,Mississippi,2024-02-29,2024-03-31,0.5
+395042,435,"Russellville, AR",msa,Arkansas,2024-02-29,2024-03-31,0.7
+394704,436,"Indiana, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.6
+394859,437,"Midland, MI",msa,Michigan,2024-02-29,2024-03-31,0.9
+394755,438,"Kokomo, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394395,439,"Bloomsburg, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.7
+394941,440,"Opelousas, LA",msa,Louisiana,2024-02-29,2024-03-31,-0.2
+394675,441,"Helena, MT",msa,Montana,2024-02-29,2024-03-31,0.7
+394744,442,"Key West, FL",msa,Florida,2024-02-29,2024-03-31,0.7
+395145,443,"Talladega, AL",msa,Alabama,2024-02-29,2024-03-31,1.0
+395133,444,"Stillwater, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.8
+394489,445,"Columbus, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+394345,446,"Athens, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+394452,447,"Centralia, WA",msa,Washington,2024-02-29,2024-03-31,0.9
+394822,448,"Manitowoc, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.8
+394682,449,"Hinesville, GA",msa,Georgia,2024-02-29,2024-03-31,0.8
+394541,450,"DuBois, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.4
+395205,451,"Warsaw, IN",msa,Indiana,2024-02-29,2024-03-31,0.8
+394986,452,"Plattsburgh, NY",msa,New York,2024-02-29,2024-03-31,0.6
+395126,453,"Statesboro, GA",msa,Georgia,2024-02-29,2024-03-31,1.1
+394445,454,"Casper, WY",msa,Wyoming,2024-02-29,2024-03-31,0.7
+395231,455,"Wilson, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+753881,456,"Glenwood Springs, CO",msa,Colorado,2024-02-29,2024-03-31,1.1
+395085,457,"Seneca, SC",msa,South Carolina,2024-02-29,2024-03-31,1.0
+394866,458,"Minot, ND",msa,North Dakota,2024-02-29,2024-03-31,0.7
+394936,459,"Olean, NY",msa,New York,2024-02-29,2024-03-31,0.6
+394465,460,"Chillicothe, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+395077,461,"Searcy, AR",msa,Arkansas,2024-02-29,2024-03-31,0.9
+394638,462,"Grand Island, NE",msa,Nebraska,2024-02-29,2024-03-31,0.9
+394994,463,"Port Angeles, WA",msa,Washington,2024-02-29,2024-03-31,1.1
+394350,464,"Auburn, NY",msa,New York,2024-02-29,2024-03-31,0.8
+394699,465,"Huntsville, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+394738,466,"Keene, NH",msa,New Hampshire,2024-02-29,2024-03-31,1.2
+394674,467,"Heber, UT",msa,Utah,2024-02-29,2024-03-31,1.6
+395010,468,"Quincy, IL",msa,Illinois,2024-02-29,2024-03-31,0.6
+395062,469,"Sandusky, OH",msa,Ohio,2024-02-29,2024-03-31,0.8
+394593,470,"Findlay, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+394614,471,"Frankfort, KY",msa,Kentucky,2024-02-29,2024-03-31,0.9
+394516,472,"Danville, IL",msa,Illinois,2024-02-29,2024-03-31,0.6
+394298,473,"Aberdeen, WA",msa,Washington,2024-02-29,2024-03-31,0.7
+394999,474,"Portsmouth, OH",msa,Ohio,2024-02-29,2024-03-31,0.8
+395106,475,"Somerset, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.6
+753928,476,"Wisconsin Rapids, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.4
+753893,477,"Jefferson, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394736,478,"Kapaa, HI",msa,Hawaii,2024-02-29,2024-03-31,0.8
+394955,479,"Palatka, FL",msa,Florida,2024-02-29,2024-03-31,1.1
+394626,480,"Gallup, NM",msa,New Mexico,2024-02-29,2024-03-31,0.7
+394683,481,"Hobbs, NM",msa,New Mexico,2024-02-29,2024-03-31,0.4
+395088,482,"Shawnee, OK",msa,Oklahoma,2024-02-29,2024-03-31,1.2
+394884,484,"Mount Airy, NC",msa,North Carolina,2024-02-29,2024-03-31,0.6
+395132,485,"Stevens Point, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.8
+394647,486,"Greeneville, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+394655,488,"Greenwood, SC",msa,South Carolina,2024-02-29,2024-03-31,0.9
+394764,489,"Lake City, FL",msa,Florida,2024-02-29,2024-03-31,1.0
+394752,490,"Klamath Falls, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394877,491,"Morehead City, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394472,492,"Clearlake, CA",msa,California,2024-02-29,2024-03-31,0.5
+394305,493,"Alamogordo, NM",msa,New Mexico,2024-02-29,2024-03-31,1.0
+395027,494,"Roanoke Rapids, NC",msa,North Carolina,2024-02-29,2024-03-31,0.8
+394587,495,"Farmington, MO",msa,Missouri,2024-02-29,2024-03-31,1.0
+394897,496,"Muskogee, OK",msa,Oklahoma,2024-02-29,2024-03-31,1.0
+394826,497,"Marion, IN",msa,Indiana,2024-02-29,2024-03-31,0.8
+394586,498,"Faribault, MN",msa,Minnesota,2024-02-29,2024-03-31,0.8
+395021,499,"Richmond, IN",msa,Indiana,2024-02-29,2024-03-31,0.8
+394829,500,"Marquette, MI",msa,Michigan,2024-02-29,2024-03-31,1.0
+394922,501,"North Wilkesboro, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394885,502,"Mount Pleasant, MI",msa,Michigan,2024-02-29,2024-03-31,0.8
+395024,503,"Rio Grande City, TX",msa,Texas,2024-02-29,2024-03-31,0.3
+394827,504,"Marion, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+394360,505,"Baraboo, WI",msa,Wisconsin,2024-02-29,2024-03-31,1.0
+395016,506,"Red Bluff, CA",msa,California,2024-02-29,2024-03-31,0.8
+394825,507,"Marinette, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.8
+395040,509,"Roswell, NM",msa,New Mexico,2024-02-29,2024-03-31,0.6
+395092,510,"Shelton, WA",msa,Washington,2024-02-29,2024-03-31,0.9
+394540,511,"Dublin, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+394899,512,"Nacogdoches, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+395105,513,"Somerset, KY",msa,Kentucky,2024-02-29,2024-03-31,0.3
+394496,514,"Coos Bay, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394600,515,"Forest City, NC",msa,North Carolina,2024-02-29,2024-03-31,0.8
+394836,516,"Martinsville, VA",msa,Virginia,2024-02-29,2024-03-31,1.1
+395020,517,"Rexburg, ID",msa,Idaho,2024-02-29,2024-03-31,1.0
+394787,518,"Lewiston, ID",msa,Idaho,2024-02-29,2024-03-31,1.0
+394759,519,"Laconia, NH",msa,New Hampshire,2024-02-29,2024-03-31,1.0
+394629,520,"Georgetown, SC",msa,South Carolina,2024-02-29,2024-03-31,0.6
+394343,521,"Athens, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+395063,522,"Sanford, NC",msa,North Carolina,2024-02-29,2024-03-31,1.2
+394570,523,"Enid, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.6
+394889,524,"Mount Vernon, OH",msa,Ohio,2024-02-29,2024-03-31,1.1
+395199,525,"Walla Walla, WA",msa,Washington,2024-02-29,2024-03-31,0.9
+394309,526,"Albemarle, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394701,527,"Hutchinson, KS",msa,Kansas,2024-02-29,2024-03-31,1.2
+394693,528,"Hudson, NY",msa,New York,2024-02-29,2024-03-31,1.0
+395124,529,"Starkville, MS",msa,Mississippi,2024-02-29,2024-03-31,0.6
+394443,530,"Carlsbad, NM",msa,New Mexico,2024-02-29,2024-03-31,0.5
+394631,531,"Gillette, WY",msa,Wyoming,2024-02-29,2024-03-31,0.7
+395136,532,"Sturgis, MI",msa,Michigan,2024-02-29,2024-03-31,0.9
+395044,533,"Rutland, VT",msa,Vermont,2024-02-29,2024-03-31,0.3
+394509,534,"Crossville, TN",msa,Tennessee,2024-02-29,2024-03-31,0.9
+395071,536,"Sayre, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.8
+395049,537,"Salina, KS",msa,Kansas,2024-02-29,2024-03-31,1.0
+753903,538,"Marietta, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+394591,539,"Fergus Falls, MN",msa,Minnesota,2024-02-29,2024-03-31,0.4
+394362,540,"Barre, VT",msa,Vermont,2024-02-29,2024-03-31,0.6
+394618,541,"Fremont, OH",msa,Ohio,2024-02-29,2024-03-31,0.8
+394939,542,"Oneonta, NY",msa,New York,2024-02-29,2024-03-31,0.4
+394490,543,"Columbus, MS",msa,Mississippi,2024-02-29,2024-03-31,0.6
+394923,544,"Norwalk, OH",msa,Ohio,2024-02-29,2024-03-31,0.8
+394365,545,"Batavia, NY",msa,New York,2024-02-29,2024-03-31,0.9
+394336,546,"Ardmore, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.9
+394956,547,"Palestine, TX",msa,Texas,2024-02-29,2024-03-31,0.9
+394605,548,"Fort Madison, IA",msa,Iowa,2024-02-29,2024-03-31,0.5
+394456,549,"Charleston, IL",msa,Illinois,2024-02-29,2024-03-31,0.9
+394592,550,"Fernley, NV",msa,Nevada,2024-02-29,2024-03-31,1.0
+394444,551,"Carson City, NV",msa,Nevada,2024-02-29,2024-03-31,1.4
+394551,552,"Eagle Pass, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+394432,553,"Calhoun, GA",msa,Georgia,2024-02-29,2024-03-31,1.2
+753877,554,"Cullowhee, NC",msa,North Carolina,2024-02-29,2024-03-31,0.9
+394737,555,"Kearney, NE",msa,Nebraska,2024-02-29,2024-03-31,0.7
+394582,556,"Fairmont, WV",msa,West Virginia,2024-02-29,2024-03-31,0.6
+394940,557,"Ontario, OR",msa,Oregon,2024-02-29,2024-03-31,1.1
+394621,558,"Gaffney, SC",msa,South Carolina,2024-02-29,2024-03-31,0.7
+394977,559,"Picayune, MS",msa,Mississippi,2024-02-29,2024-03-31,0.7
+395131,560,"Sterling, IL",msa,Illinois,2024-02-29,2024-03-31,0.6
+394411,561,"Branson, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+394446,562,"Cedar City, UT",msa,Utah,2024-02-29,2024-03-31,0.8
+395216,563,"Waycross, GA",msa,Georgia,2024-02-29,2024-03-31,1.1
+394951,564,"Oxford, MS",msa,Mississippi,2024-02-29,2024-03-31,1.2
+394721,565,"Jasper, IN",msa,Indiana,2024-02-29,2024-03-31,0.8
+394556,566,"Edwards, CO",msa,Colorado,2024-02-29,2024-03-31,1.1
+394547,567,"Durango, CO",msa,Colorado,2024-02-29,2024-03-31,1.0
+394750,568,"Kinston, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+753920,569,"Sonora, CA",msa,California,2024-02-29,2024-03-31,0.4
+395157,570,"Tiffin, OH",msa,Ohio,2024-02-29,2024-03-31,0.8
+394366,571,"Batesville, AR",msa,Arkansas,2024-02-29,2024-03-31,0.5
+394989,572,"Point Pleasant, WV",msa,Ohio,2024-02-29,2024-03-31,0.8
+394566,573,"Elko, NV",msa,Nevada,2024-02-29,2024-03-31,0.8
+394517,574,"Danville, KY",msa,Kentucky,2024-02-29,2024-03-31,0.9
+394632,575,"Glasgow, KY",msa,Kentucky,2024-02-29,2024-03-31,0.7
+395122,576,"St. Marys, GA",msa,Georgia,2024-02-29,2024-03-31,0.8
+394402,577,"Boone, NC",msa,North Carolina,2024-02-29,2024-03-31,1.1
+395204,578,"Warrensburg, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+394634,579,"Gloversville, NY",msa,New York,2024-02-29,2024-03-31,0.1
+394604,580,"Fort Leonard Wood, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+394993,581,"Poplar Bluff, MO",msa,Missouri,2024-02-29,2024-03-31,0.7
+394562,582,"Elizabeth City, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+394967,583,"Payson, AZ",msa,Arizona,2024-02-29,2024-03-31,1.1
+394344,584,"Athens, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+394571,585,"Enterprise, AL",msa,Alabama,2024-02-29,2024-03-31,0.8
+394339,586,"Ashland, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+395073,587,"Scottsboro, AL",msa,Alabama,2024-02-29,2024-03-31,0.9
+394861,588,"Milledgeville, GA",msa,Georgia,2024-02-29,2024-03-31,0.6
+394742,589,"Kerrville, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+394363,590,"Bartlesville, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.9
+394985,591,"Platteville, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.8
+394503,592,"Corsicana, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+394652,593,"Greenville, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+395029,594,"Rochelle, IL",msa,Illinois,2024-02-29,2024-03-31,0.9
+394538,596,"Douglas, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+394933,597,"Oil City, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.6
+394838,598,"Mason City, IA",msa,Iowa,2024-02-29,2024-03-31,0.8
+394717,599,"Jacksonville, TX",msa,Texas,2024-02-29,2024-03-31,1.1
+394625,600,"Galesburg, IL",msa,Illinois,2024-02-29,2024-03-31,0.3
+394954,601,"Pahrump, NV",msa,Nevada,2024-02-29,2024-03-31,1.0
+394963,602,"Paris, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+395234,603,"Winona, MN",msa,Minnesota,2024-02-29,2024-03-31,1.0
+753905,604,"Newport, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394878,605,"Morgan City, LA",msa,Louisiana,2024-02-29,2024-03-31,0.3
+395091,606,"Shelbyville, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+394326,607,"Amsterdam, NY",msa,New York,2024-02-29,2024-03-31,0.5
+753911,608,"Ozark, AL",msa,Alabama,2024-02-29,2024-03-31,0.9
+394316,609,"Alice, TX",msa,Texas,2024-02-29,2024-03-31,0.2
+394628,610,"Gardnerville Ranchos, NV",msa,Nevada,2024-02-29,2024-03-31,0.8
+394608,611,"Fort Polk South, LA",msa,Louisiana,2024-02-29,2024-03-31,-0.2
+394437,612,"Ca-¦on City, CO",msa,Colorado,2024-02-29,2024-03-31,1.0
+394903,613,"Natchez, MS",msa,Louisiana,2024-02-29,2024-03-31,0.1
+394906,614,"New Castle, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394478,615,"Clovis, NM",msa,New Mexico,2024-02-29,2024-03-31,0.5
+394919,616,"Norfolk, NE",msa,Nebraska,2024-02-29,2024-03-31,0.8
+394431,617,"Cadillac, MI",msa,Michigan,2024-02-29,2024-03-31,0.9
+395043,618,"Ruston, LA",msa,Louisiana,2024-02-29,2024-03-31,0.4
+395097,619,"Sidney, OH",msa,Ohio,2024-02-29,2024-03-31,1.0
+395008,620,"Pullman, WA",msa,Washington,2024-02-29,2024-03-31,1.0
+394819,621,"Malone, NY",msa,New York,2024-02-29,2024-03-31,0.5
+394527,622,"Del Rio, TX",msa,Texas,2024-02-29,2024-03-31,0.9
+394391,623,"Blackfoot, ID",msa,Idaho,2024-02-29,2024-03-31,1.6
+395017,624,"Red Wing, MN",msa,Minnesota,2024-02-29,2024-03-31,0.7
+394918,625,"Nogales, AZ",msa,Arizona,2024-02-29,2024-03-31,1.0
+395144,626,"Tahlequah, OK",msa,Oklahoma,2024-02-29,2024-03-31,1.0
+394739,627,"Kendallville, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394876,628,"Montrose, CO",msa,Colorado,2024-02-29,2024-03-31,0.9
+394504,629,"Cortland, NY",msa,New York,2024-02-29,2024-03-31,0.4
+394887,630,"Mount Sterling, KY",msa,Kentucky,2024-02-29,2024-03-31,0.9
+394477,631,"Clinton, IA",msa,Iowa,2024-02-29,2024-03-31,0.5
+753916,632,"Sandpoint, ID",msa,Idaho,2024-02-29,2024-03-31,1.0
+753865,633,"Bardstown, KY",msa,Kentucky,2024-02-29,2024-03-31,1.0
+395201,634,"Wapakoneta, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+394987,635,"Plymouth, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+394789,636,"Lewistown, PA",msa,Pennsylvania,2024-02-29,2024-03-31,1.0
+394379,637,"Bemidji, MN",msa,Minnesota,2024-02-29,2024-03-31,0.2
+394377,638,"Bellefontaine, OH",msa,Ohio,2024-02-29,2024-03-31,1.0
+395087,639,"Seymour, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394426,640,"Burley, ID",msa,Idaho,2024-02-29,2024-03-31,0.9
+394548,641,"Durant, OK",msa,Oklahoma,2024-02-29,2024-03-31,1.1
+394883,642,"Moultrie, GA",msa,Georgia,2024-02-29,2024-03-31,0.8
+394398,643,"Bogalusa, LA",msa,Louisiana,2024-02-29,2024-03-31,0.4
+394500,644,"Cornelia, GA",msa,Georgia,2024-02-29,2024-03-31,1.2
+753889,645,"Hillsdale, MI",msa,Michigan,2024-02-29,2024-03-31,0.7
+395155,646,"Thomasville, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+394961,647,"Paragould, AR",msa,Arkansas,2024-02-29,2024-03-31,0.9
+394650,648,"Greenville, MS",msa,Mississippi,2024-02-29,2024-03-31,-0.9
+394427,649,"Burlington, IA",msa,Iowa,2024-02-29,2024-03-31,0.9
+394817,650,"Madisonville, KY",msa,Kentucky,2024-02-29,2024-03-31,0.8
+394850,651,"Menomonie, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.7
+753918,652,"Shawano, WI",msa,Wisconsin,2024-02-29,2024-03-31,0.7
+395189,653,"Vicksburg, MS",msa,Mississippi,2024-02-29,2024-03-31,0.6
+394375,654,"Bedford, IN",msa,Indiana,2024-02-29,2024-03-31,1.4
+395208,656,"Washington, NC",msa,North Carolina,2024-02-29,2024-03-31,0.9
+394616,657,"Freeport, IL",msa,Illinois,2024-02-29,2024-03-31,1.0
+394667,658,"Harrison, AR",msa,Arkansas,2024-02-29,2024-03-31,0.9
+395037,659,"Rolla, MO",msa,Missouri,2024-02-29,2024-03-31,1.0
+394482,660,"Coldwater, MI",msa,Michigan,2024-02-29,2024-03-31,0.7
+753904,661,"Marion, NC",msa,North Carolina,2024-02-29,2024-03-31,0.9
+394695,662,"Huntingdon, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.4
+394567,663,"Ellensburg, WA",msa,Washington,2024-02-29,2024-03-31,0.7
+394990,664,"Ponca City, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.9
+394779,665,"Lawrenceburg, TN",msa,Tennessee,2024-02-29,2024-03-31,0.9
+394842,666,"McAlester, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.9
+394886,667,"Mount Pleasant, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+395228,668,"Willmar, MN",msa,Minnesota,2024-02-29,2024-03-31,0.6
+395034,669,"Rockingham, NC",msa,North Carolina,2024-02-29,2024-03-31,0.8
+394895,670,"Muscatine, IA",msa,Iowa,2024-02-29,2024-03-31,0.8
+394785,671,"Lewisburg, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.9
+394349,672,"Auburn, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394545,673,"Duncan, OK",msa,Oklahoma,2024-02-29,2024-03-31,1.3
+395081,674,"Sedalia, MO",msa,Missouri,2024-02-29,2024-03-31,1.0
+394448,675,"Cedartown, GA",msa,Georgia,2024-02-29,2024-03-31,1.2
+394677,676,"Henderson, NC",msa,North Carolina,2024-02-29,2024-03-31,0.8
+394297,677,"Aberdeen, SD",msa,South Dakota,2024-02-29,2024-03-31,0.8
+395032,678,"Rock Springs, WY",msa,Wyoming,2024-02-29,2024-03-31,0.7
+394627,679,"Garden City, KS",msa,Kansas,2024-02-29,2024-03-31,0.8
+395129,680,"Stephenville, TX",msa,Texas,2024-02-29,2024-03-31,1.1
+394449,681,"Celina, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+395230,682,"Wilmington, OH",msa,Ohio,2024-02-29,2024-03-31,1.2
+394424,683,"Bucyrus, OH",msa,Ohio,2024-02-29,2024-03-31,1.0
+394319,684,"Alma, MI",msa,Michigan,2024-02-29,2024-03-31,0.5
+394558,685,"El Campo, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+394891,686,"Mountain Home, AR",msa,Arkansas,2024-02-29,2024-03-31,1.0
+394624,687,"Gainesville, TX",msa,Texas,2024-02-29,2024-03-31,0.7
+395158,688,"Tifton, GA",msa,Georgia,2024-02-29,2024-03-31,0.8
+394397,689,"Blytheville, AR",msa,Arkansas,2024-02-29,2024-03-31,0.8
+394845,690,"McMinnville, TN",msa,Tennessee,2024-02-29,2024-03-31,1.1
+394341,691,"Astoria, OR",msa,Oregon,2024-02-29,2024-03-31,0.8
+394409,692,"Bradford, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.6
+394574,693,"Espa-¦ola, NM",msa,New Mexico,2024-02-29,2024-03-31,0.9
+394844,694,"McComb, MS",msa,Mississippi,2024-02-29,2024-03-31,0.1
+753866,695,"Big Stone Gap, VA",msa,Virginia,2024-02-29,2024-03-31,1.0
+394833,696,"Marshalltown, IA",msa,Iowa,2024-02-29,2024-03-31,1.0
+394384,697,"Big Rapids, MI",msa,Michigan,2024-02-29,2024-03-31,0.6
+394354,698,"Austin, MN",msa,Minnesota,2024-02-29,2024-03-31,0.8
+395082,699,"Selinsgrove, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.1
+395219,700,"West Plains, MO",msa,Missouri,2024-02-29,2024-03-31,1.1
+394934,701,"Okeechobee, FL",msa,Florida,2024-02-29,2024-03-31,1.2
+394690,702,"Houghton, MI",msa,Michigan,2024-02-29,2024-03-31,0.3
+394881,703,"Moscow, ID",msa,Idaho,2024-02-29,2024-03-31,1.0
+394476,704,"Clewiston, FL",msa,Florida,2024-02-29,2024-03-31,1.4
+395026,705,"Riverton, WY",msa,Wyoming,2024-02-29,2024-03-31,0.6
+394560,706,"El Dorado, AR",msa,Arkansas,2024-02-29,2024-03-31,0.5
+395083,707,"Selma, AL",msa,Alabama,2024-02-29,2024-03-31,0.4
+394981,708,"Pittsburg, KS",msa,Kansas,2024-02-29,2024-03-31,1.1
+394663,709,"Hannibal, MO",msa,Missouri,2024-02-29,2024-03-31,0.8
+395203,710,"Warren, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.9
+394315,711,"Alexandria, MN",msa,Minnesota,2024-02-29,2024-03-31,0.7
+395178,712,"Urbana, OH",msa,Ohio,2024-02-29,2024-03-31,1.0
+394654,713,"Greenwood, MS",msa,Mississippi,2024-02-29,2024-03-31,0.5
+394434,714,"Cambridge, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+395227,715,"Williston, ND",msa,North Dakota,2024-02-29,2024-03-31,1.6
+394526,716,"Defiance, OH",msa,Ohio,2024-02-29,2024-03-31,1.0
+395099,717,"Sikeston, MO",msa,Missouri,2024-02-29,2024-03-31,0.6
+395046,718,"Safford, AZ",msa,Arizona,2024-02-29,2024-03-31,0.9
+394715,719,"Jacksonville, IL",msa,Illinois,2024-02-29,2024-03-31,0.5
+394300,720,"Ada, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.9
+394422,721,"Brownwood, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+394507,722,"Crawfordsville, IN",msa,Indiana,2024-02-29,2024-03-31,1.1
+394801,723,"Logansport, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+395072,724,"Scottsbluff, NE",msa,Nebraska,2024-02-29,2024-03-31,0.6
+394904,725,"Natchitoches, LA",msa,Louisiana,2024-02-29,2024-03-31,-0.1
+394914,726,"Newberry, SC",msa,South Carolina,2024-02-29,2024-03-31,0.5
+394799,727,"Lock Haven, PA",msa,Pennsylvania,2024-02-29,2024-03-31,0.5
+394451,728,"Centralia, IL",msa,Illinois,2024-02-29,2024-03-31,0.8
+394554,729,"Easton, MD",msa,Maryland,2024-02-29,2024-03-31,1.0
+394948,730,"Owatonna, MN",msa,Minnesota,2024-02-29,2024-03-31,0.8
+394888,731,"Mount Vernon, IL",msa,Illinois,2024-02-29,2024-03-31,0.6
+394771,733,"Laramie, WY",msa,Wyoming,2024-02-29,2024-03-31,0.8
+394894,734,"Murray, KY",msa,Kentucky,2024-02-29,2024-03-31,0.3
+394617,735,"Fremont, NE",msa,Nebraska,2024-02-29,2024-03-31,1.1
+394382,736,"Bennington, VT",msa,Vermont,2024-02-29,2024-03-31,0.8
+395069,738,"Sault Ste. Marie, MI",msa,Michigan,2024-02-29,2024-03-31,0.9
+394436,739,"Campbellsville, KY",msa,Kentucky,2024-02-29,2024-03-31,1.0
+394550,740,"Dyersburg, TN",msa,Tennessee,2024-02-29,2024-03-31,0.7
+394573,742,"Escanaba, MI",msa,Michigan,2024-02-29,2024-03-31,0.3
+394840,743,"Mayfield, KY",msa,Kentucky,2024-02-29,2024-03-31,0.9
+394745,744,"Kill Devil Hills, NC",msa,North Carolina,2024-02-29,2024-03-31,1.1
+395137,745,"Sulphur Springs, TX",msa,Texas,2024-02-29,2024-03-31,1.0
+394702,746,"Hutchinson, MN",msa,Minnesota,2024-02-29,2024-03-31,0.8
+394506,747,"Coshocton, OH",msa,Ohio,2024-02-29,2024-03-31,1.1
+394696,748,"Huntington, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+394522,749,"DeRidder, LA",msa,Louisiana,2024-02-29,2024-03-31,0.1
+395192,750,"Vincennes, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+394370,751,"Bay City, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+394920,752,"North Platte, NE",msa,Nebraska,2024-02-29,2024-03-31,0.8
+394973,753,"Peru, IN",msa,Indiana,2024-02-29,2024-03-31,0.8
+394992,754,"Pontiac, IL",msa,Illinois,2024-02-29,2024-03-31,0.7
+394781,755,"Lebanon, MO",msa,Missouri,2024-02-29,2024-03-31,1.0
+394915,756,"Newport, TN",msa,Tennessee,2024-02-29,2024-03-31,0.9
+394525,757,"Decatur, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+395191,758,"Vidalia, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+394413,759,"Brenham, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+395187,760,"Vernal, UT",msa,Utah,2024-02-29,2024-03-31,1.1
+394947,762,"Ottumwa, IA",msa,Iowa,2024-02-29,2024-03-31,0.9
+394430,764,"Butte, MT",msa,Montana,2024-02-29,2024-03-31,1.3
+394499,765,"Corinth, MS",msa,Mississippi,2024-02-29,2024-03-31,0.5
+394417,766,"Brookhaven, MS",msa,Mississippi,2024-02-29,2024-03-31,0.4
+394569,767,"Emporia, KS",msa,Kansas,2024-02-29,2024-03-31,1.0
+394713,768,"Jackson, WY",msa,Wyoming,2024-02-29,2024-03-31,1.2
+394385,770,"Big Spring, TX",msa,Texas,2024-02-29,2024-03-31,0.3
+394557,771,"Effingham, IL",msa,Illinois,2024-02-29,2024-03-31,0.8
+394536,772,"Dodge City, KS",msa,Kansas,2024-02-29,2024-03-31,1.1
+395211,773,"Watertown, SD",msa,South Dakota,2024-02-29,2024-03-31,0.9
+394331,774,"Angola, IN",msa,Indiana,2024-02-29,2024-03-31,1.1
+394535,775,"Dixon, IL",msa,Illinois,2024-02-29,2024-03-31,0.9
+394777,776,"Laurinburg, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+395149,777,"Taos, NM",msa,New Mexico,2024-02-29,2024-03-31,0.6
+394419,778,"Brookings, SD",msa,South Dakota,2024-02-29,2024-03-31,0.9
+394324,779,"Americus, GA",msa,Georgia,2024-02-29,2024-03-31,1.1
+394491,780,"Columbus, NE",msa,Nebraska,2024-02-29,2024-03-31,0.8
+395150,781,"Taylorville, IL",msa,Illinois,2024-02-29,2024-03-31,0.7
+394335,782,"Arcadia, FL",msa,Florida,2024-02-29,2024-03-31,0.9
+394786,783,"Lewisburg, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+395084,784,"Seneca Falls, NY",msa,New York,2024-02-29,2024-03-31,0.5
+394533,785,"Dickinson, ND",msa,North Dakota,2024-02-29,2024-03-31,0.8
+395207,787,"Washington, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+395165,788,"Troy, AL",msa,Alabama,2024-02-29,2024-03-31,0.6
+753902,789,"Malvern, AR",msa,Arkansas,2024-02-29,2024-03-31,0.8
+394613,790,"Frankfort, IN",msa,Indiana,2024-02-29,2024-03-31,1.2
+394815,791,"Madison, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394414,792,"Brevard, NC",msa,North Carolina,2024-02-29,2024-03-31,1.0
+395141,793,"Susanville, CA",msa,California,2024-02-29,2024-03-31,0.7
+394835,794,"Martin, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+394984,795,"Plainview, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+753878,797,"Dayton, TN",msa,Tennessee,2024-02-29,2024-03-31,1.0
+753892,798,"Jackson, OH",msa,Ohio,2024-02-29,2024-03-31,0.7
+394433,799,"Cambridge, MD",msa,Maryland,2024-02-29,2024-03-31,0.8
+394962,800,"Paris, TN",msa,Tennessee,2024-02-29,2024-03-31,0.9
+394730,802,"Juneau, AK",msa,Alaska,2024-02-29,2024-03-31,0.6
+394481,803,"Coffeyville, KS",msa,Kansas,2024-02-29,2024-03-31,0.7
+394774,804,"Las Vegas, NM",msa,New Mexico,2024-02-29,2024-03-31,0.6
+394383,805,"Berlin, NH",msa,New Hampshire,2024-02-29,2024-03-31,1.0
+394473,806,"Cleveland, MS",msa,Mississippi,2024-02-29,2024-03-31,0.0
+394670,807,"Hastings, NE",msa,Nebraska,2024-02-29,2024-03-31,0.8
+394376,808,"Beeville, TX",msa,Texas,2024-02-29,2024-03-31,0.4
+394749,809,"Kingsville, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+395196,810,"Wabash, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+753871,811,"Breckenridge, CO",msa,Colorado,2024-02-29,2024-03-31,0.4
+394310,814,"Albert Lea, MN",msa,Minnesota,2024-02-29,2024-03-31,1.0
+395093,815,"Sheridan, WY",msa,Wyoming,2024-02-29,2024-03-31,0.8
+395176,816,"Union City, TN",msa,Tennessee,2024-02-29,2024-03-31,0.8
+394855,817,"Miami, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.9
+394708,818,"Iron Mountain, MI",msa,Michigan,2024-02-29,2024-03-31,0.7
+394725,819,"Jesup, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+394846,820,"McPherson, KS",msa,Kansas,2024-02-29,2024-03-31,0.8
+394751,821,"Kirksville, MO",msa,Missouri,2024-02-29,2024-03-31,0.7
+753901,822,"Ludington, MI",msa,Michigan,2024-02-29,2024-03-31,0.6
+394356,823,"Bainbridge, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394320,824,"Alpena, MI",msa,Michigan,2024-02-29,2024-03-31,0.9
+395206,825,"Washington Court House, OH",msa,Ohio,2024-02-29,2024-03-31,0.8
+394673,826,"Hays, KS",msa,Kansas,2024-02-29,2024-03-31,0.8
+394606,827,"Fort Morgan, CO",msa,Colorado,2024-02-29,2024-03-31,0.9
+395185,828,"Van Wert, OH",msa,Ohio,2024-02-29,2024-03-31,0.9
+394740,830,"Kennett, MO",msa,Missouri,2024-02-29,2024-03-31,0.1
+753926,831,"Weatherford, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.8
+394892,832,"Mountain Home, ID",msa,Idaho,2024-02-29,2024-03-31,1.0
+394864,833,"Mineral Wells, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+394795,834,"Lincoln, IL",msa,Illinois,2024-02-29,2024-03-31,0.4
+395100,835,"Silver City, NM",msa,New Mexico,2024-02-29,2024-03-31,0.8
+753879,836,"Elkins, WV",msa,West Virginia,2024-02-29,2024-03-31,0.9
+394812,838,"Macomb, IL",msa,Illinois,2024-02-29,2024-03-31,0.7
+394435,839,"Camden, AR",msa,Arkansas,2024-02-29,2024-03-31,0.6
+394508,840,"Crescent City, CA",msa,California,2024-02-29,2024-03-31,0.8
+394921,841,"North Vernon, IN",msa,Indiana,2024-02-29,2024-03-31,1.1
+395154,843,"Thomaston, GA",msa,Georgia,2024-02-29,2024-03-31,1.4
+394642,845,"Grants, NM",msa,New Mexico,2024-02-29,2024-03-31,0.9
+394381,846,"Bennettsville, SC",msa,South Carolina,2024-02-29,2024-03-31,0.5
+394615,847,"Fredericksburg, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+395159,848,"Toccoa, GA",msa,Georgia,2024-02-29,2024-03-31,1.3
+753923,849,"The Dalles, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394649,850,"Greensburg, IN",msa,Indiana,2024-02-29,2024-03-31,1.0
+394706,851,"Indianola, MS",msa,Mississippi,2024-02-29,2024-03-31,0.9
+394758,852,"La Grande, OR",msa,Oregon,2024-02-29,2024-03-31,1.0
+753909,854,"Ottawa, KS",msa,Kansas,2024-02-29,2024-03-31,1.3
+394912,855,"New Ulm, MN",msa,Minnesota,2024-02-29,2024-03-31,0.6
+394791,856,"Lexington, NE",msa,Nebraska,2024-02-29,2024-03-31,0.7
+394643,857,"Great Bend, KS",msa,Kansas,2024-02-29,2024-03-31,1.2
+395110,858,"Spearfish, SD",msa,South Dakota,2024-02-29,2024-03-31,0.9
+395214,859,"Wauchula, FL",msa,Florida,2024-02-29,2024-03-31,1.4
+394830,860,"Marshall, MN",msa,Minnesota,2024-02-29,2024-03-31,0.7
+394529,861,"Deming, NM",msa,New Mexico,2024-02-29,2024-03-31,0.7
+394854,862,"Mexico, MO",msa,Missouri,2024-02-29,2024-03-31,0.8
+394584,863,"Fallon, NV",msa,Nevada,2024-02-29,2024-03-31,0.6
+394322,864,"Altus, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.6
+395181,865,"Uvalde, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+753884,866,"Hailey, ID",msa,Idaho,2024-02-29,2024-03-31,0.9
+753921,867,"Steamboat Springs, CO",msa,Colorado,2024-02-29,2024-03-31,1.4
+395138,868,"Summerville, GA",msa,Georgia,2024-02-29,2024-03-31,1.0
+394869,869,"Moberly, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+394858,870,"Middlesborough, KY",msa,Kentucky,2024-02-29,2024-03-31,0.2
+395236,871,"Woodward, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.4
+395004,872,"Prineville, OR",msa,Oregon,2024-02-29,2024-03-31,1.0
+394687,875,"Hood River, OR",msa,Oregon,2024-02-29,2024-03-31,0.9
+394601,876,"Forrest City, AR",msa,Arkansas,2024-02-29,2024-03-31,1.1
+394494,877,"Connersville, IN",msa,Indiana,2024-02-29,2024-03-31,0.9
+394868,878,"Mitchell, SD",msa,South Dakota,2024-02-29,2024-03-31,0.9
+394831,879,"Marshall, MO",msa,Missouri,2024-02-29,2024-03-31,0.5
+394418,880,"Brookings, OR",msa,Oregon,2024-02-29,2024-03-31,0.8
+395241,881,"Yankton, SD",msa,South Dakota,2024-02-29,2024-03-31,0.5
+395198,882,"Wahpeton, ND",msa,North Dakota,2024-02-29,2024-03-31,0.7
+394818,883,"Magnolia, AR",msa,Arkansas,2024-02-29,2024-03-31,0.4
+394564,884,"Elk City, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.4
+394793,885,"Liberal, KS",msa,Kansas,2024-02-29,2024-03-31,0.7
+395239,885,"Worthington, MN",msa,Minnesota,2024-02-29,2024-03-31,0.7
+394945,887,"Oskaloosa, IA",msa,Iowa,2024-02-29,2024-03-31,0.9
+394959,888,"Pampa, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+394470,889,"Clarksdale, MS",msa,Mississippi,2024-02-29,2024-03-31,0.1
+395130,890,"Sterling, CO",msa,Colorado,2024-02-29,2024-03-31,0.9
+394371,891,"Beatrice, NE",msa,Nebraska,2024-02-29,2024-03-31,0.7
+394718,892,"Jamestown, ND",msa,North Dakota,2024-02-29,2024-03-31,0.3
+394784,893,"Levelland, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+394656,894,"Grenada, MS",msa,Mississippi,2024-02-29,2024-03-31,0.7
+394837,895,"Maryville, MO",msa,Missouri,2024-02-29,2024-03-31,0.9
+394337,896,"Arkadelphia, AR",msa,Arkansas,2024-02-29,2024-03-31,0.7
+394544,897,"Dumas, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+394659,898,"Guymon, OK",msa,Oklahoma,2024-02-29,2024-03-31,0.7
+394403,899,"Borger, TX",msa,Texas,2024-02-29,2024-03-31,0.3
+394979,900,"Pierre, SD",msa,South Dakota,2024-02-29,2024-03-31,0.7
+394700,901,"Huron, SD",msa,South Dakota,2024-02-29,2024-03-31,0.5
+395135,903,"Storm Lake, IA",msa,Iowa,2024-02-29,2024-03-31,1.0
+394498,905,"Cordele, GA",msa,Georgia,2024-02-29,2024-03-31,0.9
+394578,906,"Evanston, WY",msa,Wyoming,2024-02-29,2024-03-31,0.9
+395014,907,"Raymondville, TX",msa,Texas,2024-02-29,2024-03-31,0.4
+753914,908,"Port Lavaca, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+753908,909,"Othello, WA",msa,Washington,2024-02-29,2024-03-31,1.2
+753925,910,"Vineyard Haven, MA",msa,Massachusetts,2024-02-29,2024-03-31,1.2
+394965,911,"Parsons, KS",msa,Kansas,2024-02-29,2024-03-31,0.8
+395003,912,"Price, UT",msa,Utah,2024-02-29,2024-03-31,1.2
+394996,915,"Portales, NM",msa,New Mexico,2024-02-29,2024-03-31,0.4
+394805,916,"Los Alamos, NM",msa,New Mexico,2024-02-29,2024-03-31,1.0
+394678,918,"Hereford, TX",msa,Texas,2024-02-29,2024-03-31,0.8
+394330,920,"Andrews, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+395112,922,"Spirit Lake, IA",msa,Iowa,2024-02-29,2024-03-31,0.5
+394594,923,"Fitzgerald, GA",msa,Georgia,2024-02-29,2024-03-31,1.1
+753927,924,"Winnemucca, NV",msa,Nevada,2024-02-29,2024-03-31,1.0
+394841,925,"Maysville, KY",msa,Kentucky,2024-02-29,2024-03-31,0.6
+395104,926,"Snyder, TX",msa,Texas,2024-02-29,2024-03-31,0.3
+394676,927,"Helena, AR",msa,Arkansas,2024-02-29,2024-03-31,-0.5
+395111,928,"Spencer, IA",msa,Iowa,2024-02-29,2024-03-31,0.5
+394342,929,"Atchison, KS",msa,Kansas,2024-02-29,2024-03-31,1.8
+753880,930,"Fairfield, IA",msa,Iowa,2024-02-29,2024-03-31,0.8
+395186,932,"Vermillion, SD",msa,South Dakota,2024-02-29,2024-03-31,0.9
+395142,933,"Sweetwater, TX",msa,Texas,2024-02-29,2024-03-31,0.3
+394968,934,"Pecos, TX",msa,Texas,2024-02-29,2024-03-31,-0.2
+753929,935,"Zapata, TX",msa,Texas,2024-02-29,2024-03-31,0.3
+394743,936,"Ketchikan, AK",msa,Alaska,2024-02-29,2024-03-31,0.6
+753874,937,"Craig, CO",msa,Colorado,2024-02-29,2024-03-31,0.8
+395188,938,"Vernon, TX",msa,Texas,2024-02-29,2024-03-31,0.6
+394767,939,"Lamesa, TX",msa,Texas,2024-02-29,2024-03-31,0.5
+394913,1,"New York, NY",msa,New York,2024-02-29,2024-05-31,1.0
+753899,2,"Los Angeles, CA",msa,California,2024-02-29,2024-05-31,2.3
+394463,3,"Chicago, IL",msa,Illinois,2024-02-29,2024-05-31,3.0
+394514,4,"Dallas, TX",msa,Texas,2024-02-29,2024-05-31,2.8
+394692,5,"Houston, TX",msa,Texas,2024-02-29,2024-05-31,1.7
+395209,6,"Washington, DC",msa,Virginia,2024-02-29,2024-05-31,2.4
+394974,7,"Philadelphia, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.4
+394856,8,"Miami, FL",msa,Florida,2024-02-29,2024-05-31,1.7
+394347,9,"Atlanta, GA",msa,Georgia,2024-02-29,2024-05-31,2.5
+394404,10,"Boston, MA",msa,Massachusetts,2024-02-29,2024-05-31,3.4
+394976,11,"Phoenix, AZ",msa,Arizona,2024-02-29,2024-05-31,2.7
+395057,12,"San Francisco, CA",msa,California,2024-02-29,2024-05-31,2.8
+395025,13,"Riverside, CA",msa,California,2024-02-29,2024-05-31,2.1
+394532,14,"Detroit, MI",msa,Michigan,2024-02-29,2024-05-31,3.3
+395078,15,"Seattle, WA",msa,Washington,2024-02-29,2024-05-31,4.5
+394865,16,"Minneapolis, MN",msa,Minnesota,2024-02-29,2024-05-31,3.2
+395056,17,"San Diego, CA",msa,California,2024-02-29,2024-05-31,3.4
+395148,18,"Tampa, FL",msa,Florida,2024-02-29,2024-05-31,2.2
+394530,19,"Denver, CO",msa,Colorado,2024-02-29,2024-05-31,3.7
+394358,20,"Baltimore, MD",msa,Maryland,2024-02-29,2024-05-31,1.8
+395121,21,"St. Louis, MO",msa,Missouri,2024-02-29,2024-05-31,3.4
+394943,22,"Orlando, FL",msa,Florida,2024-02-29,2024-05-31,1.9
+394458,23,"Charlotte, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+395055,24,"San Antonio, TX",msa,Texas,2024-02-29,2024-05-31,1.6
+394998,25,"Portland, OR",msa,Oregon,2024-02-29,2024-05-31,3.2
+395045,26,"Sacramento, CA",msa,California,2024-02-29,2024-05-31,3.0
+394982,27,"Pittsburgh, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.8
+394466,28,"Cincinnati, OH",msa,Ohio,2024-02-29,2024-05-31,3.4
+394355,29,"Austin, TX",msa,Texas,2024-02-29,2024-05-31,2.9
+394775,30,"Las Vegas, NV",msa,Nevada,2024-02-29,2024-05-31,2.4
+394735,31,"Kansas City, MO",msa,Missouri,2024-02-29,2024-05-31,4.0
+394492,32,"Columbus, OH",msa,Ohio,2024-02-29,2024-05-31,3.7
+394705,34,"Indianapolis, IN",msa,Indiana,2024-02-29,2024-05-31,2.9
+394475,35,"Cleveland, OH",msa,Ohio,2024-02-29,2024-05-31,3.5
+395059,36,"San Jose, CA",msa,California,2024-02-29,2024-05-31,3.0
+394902,37,"Nashville, TN",msa,Tennessee,2024-02-29,2024-05-31,2.2
+395194,38,"Virginia Beach, VA",msa,Virginia,2024-02-29,2024-05-31,1.8
+395005,39,"Providence, RI",msa,Rhode Island,2024-02-29,2024-05-31,3.0
+394714,40,"Jacksonville, FL",msa,Florida,2024-02-29,2024-05-31,2.0
+394862,41,"Milwaukee, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.8
+394935,42,"Oklahoma City, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.2
+395012,43,"Raleigh, NC",msa,North Carolina,2024-02-29,2024-05-31,3.0
+394849,44,"Memphis, TN",msa,Tennessee,2024-02-29,2024-05-31,2.4
+395022,45,"Richmond, VA",msa,Virginia,2024-02-29,2024-05-31,2.6
+394807,46,"Louisville, KY",msa,Kentucky,2024-02-29,2024-05-31,2.2
+394910,47,"New Orleans, LA",msa,Louisiana,2024-02-29,2024-05-31,0.8
+395053,48,"Salt Lake City, UT",msa,Utah,2024-02-29,2024-05-31,3.6
+394669,49,"Hartford, CT",msa,Connecticut,2024-02-29,2024-05-31,4.3
+394425,50,"Buffalo, NY",msa,New York,2024-02-29,2024-05-31,3.2
+394388,51,"Birmingham, AL",msa,Alabama,2024-02-29,2024-05-31,2.2
+395031,52,"Rochester, NY",msa,New York,2024-02-29,2024-05-31,5.2
+394640,53,"Grand Rapids, MI",msa,Michigan,2024-02-29,2024-05-31,4.4
+395167,54,"Tucson, AZ",msa,Arizona,2024-02-29,2024-05-31,1.8
+753924,55,"Urban Honolulu, HI",msa,Hawaii,2024-02-29,2024-05-31,1.3
+395169,56,"Tulsa, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.6
+394619,57,"Fresno, CA",msa,California,2024-02-29,2024-05-31,2.0
+395238,58,"Worcester, MA",msa,Massachusetts,2024-02-29,2024-05-31,3.3
+394938,59,"Omaha, NE",msa,Nebraska,2024-02-29,2024-05-31,4.0
+394415,60,"Bridgeport, CT",msa,Connecticut,2024-02-29,2024-05-31,3.6
+394653,61,"Greenville, SC",msa,South Carolina,2024-02-29,2024-05-31,2.2
+394312,62,"Albuquerque, NM",msa,New Mexico,2024-02-29,2024-05-31,3.0
+394357,63,"Bakersfield, CA",msa,California,2024-02-29,2024-05-31,2.1
+394308,64,"Albany, NY",msa,New York,2024-02-29,2024-05-31,1.5
+394753,65,"Knoxville, TN",msa,Tennessee,2024-02-29,2024-05-31,3.3
+394367,66,"Baton Rouge, LA",msa,Louisiana,2024-02-29,2024-05-31,1.1
+394843,67,"McAllen, TX",msa,Texas,2024-02-29,2024-05-31,3.1
+394908,68,"New Haven, CT",msa,Connecticut,2024-02-29,2024-05-31,3.5
+394561,69,"El Paso, TX",msa,Texas,2024-02-29,2024-05-31,1.8
+394318,70,"Allentown, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.6
+394952,71,"Oxnard, CA",msa,California,2024-02-29,2024-05-31,2.0
+394486,72,"Columbia, SC",msa,South Carolina,2024-02-29,2024-05-31,2.5
+753906,73,"North Port, FL",msa,Florida,2024-02-29,2024-05-31,1.8
+394457,75,"Charleston, SC",msa,South Carolina,2024-02-29,2024-05-31,2.5
+394648,76,"Greensboro, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+395134,77,"Stockton, CA",msa,California,2024-02-29,2024-05-31,2.8
+394440,78,"Cape Coral, FL",msa,Florida,2024-02-29,2024-05-31,1.7
+394399,79,"Boise City, ID",msa,Idaho,2024-02-29,2024-05-31,5.1
+394484,80,"Colorado Springs, CO",msa,Colorado,2024-02-29,2024-05-31,3.0
+394798,81,"Little Rock, AR",msa,Arkansas,2024-02-29,2024-05-31,1.8
+394766,82,"Lakeland, FL",msa,Florida,2024-02-29,2024-05-31,1.4
+394304,83,"Akron, OH",msa,Ohio,2024-02-29,2024-05-31,3.2
+394531,84,"Des Moines, IA",msa,Iowa,2024-02-29,2024-05-31,2.1
+395115,85,"Springfield, MA",msa,Massachusetts,2024-02-29,2024-05-31,2.9
+394931,87,"Ogden, UT",msa,Utah,2024-02-29,2024-05-31,4.0
+394816,88,"Madison, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.9
+395235,89,"Winston, NC",msa,North Carolina,2024-02-29,2024-05-31,2.8
+394528,90,"Deltona, FL",msa,Florida,2024-02-29,2024-05-31,1.8
+395143,91,"Syracuse, NY",msa,New York,2024-02-29,2024-05-31,3.5
+395006,92,"Provo, UT",msa,Utah,2024-02-29,2024-05-31,3.5
+395160,93,"Toledo, OH",msa,Ohio,2024-02-29,2024-05-31,3.1
+395224,94,"Wichita, KS",msa,Kansas,2024-02-29,2024-05-31,2.9
+394549,95,"Durham, NC",msa,North Carolina,2024-02-29,2024-05-31,3.1
+394352,96,"Augusta, GA",msa,Georgia,2024-02-29,2024-05-31,2.3
+394957,97,"Palm Bay, FL",msa,Florida,2024-02-29,2024-05-31,2.0
+394711,98,"Jackson, MS",msa,Mississippi,2024-02-29,2024-05-31,1.9
+394666,99,"Harrisburg, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.6
+395113,100,"Spokane, WA",msa,Washington,2024-02-29,2024-05-31,3.2
+395075,101,"Scranton, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.9
+394460,102,"Chattanooga, TN",msa,Tennessee,2024-02-29,2024-05-31,2.8
+394871,103,"Modesto, CA",msa,California,2024-02-29,2024-05-31,2.4
+394768,104,"Lancaster, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.4
+394997,105,"Portland, ME",msa,Maine,2024-02-29,2024-05-31,3.8
+395245,106,"Youngstown, OH",msa,Ohio,2024-02-29,2024-05-31,3.2
+394770,107,"Lansing, MI",msa,Michigan,2024-02-29,2024-05-31,3.5
+394590,108,"Fayetteville, AR",msa,Arkansas,2024-02-29,2024-05-31,2.5
+394589,109,"Fayetteville, NC",msa,North Carolina,2024-02-29,2024-05-31,2.9
+394792,110,"Lexington, KY",msa,Kentucky,2024-02-29,2024-05-31,2.8
+394971,111,"Pensacola, FL",msa,Florida,2024-02-29,2024-05-31,2.4
+395068,112,"Santa Rosa, CA",msa,California,2024-02-29,2024-05-31,2.1
+395019,113,"Reno, NV",msa,Nevada,2024-02-29,2024-05-31,2.5
+394698,114,"Huntsville, AL",msa,Alabama,2024-02-29,2024-05-31,2.6
+394995,115,"Port St. Lucie, FL",msa,Florida,2024-02-29,2024-05-31,1.9
+394761,116,"Lafayette, LA",msa,Louisiana,2024-02-29,2024-05-31,0.8
+394898,117,"Myrtle Beach, SC",msa,South Carolina,2024-02-29,2024-05-31,1.7
+395116,118,"Springfield, MO",msa,Missouri,2024-02-29,2024-05-31,2.9
+395195,119,"Visalia, CA",msa,California,2024-02-29,2024-05-31,2.0
+394746,120,"Killeen, TX",msa,Texas,2024-02-29,2024-05-31,1.5
+394338,121,"Asheville, NC",msa,North Carolina,2024-02-29,2024-05-31,2.5
+395244,122,"York, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.5
+395183,123,"Vallejo, CA",msa,California,2024-02-29,2024-05-31,1.9
+753917,124,"Santa Maria, CA",msa,California,2024-02-29,2024-05-31,3.2
+395050,125,"Salinas, CA",msa,California,2024-02-29,2024-05-31,2.4
+395048,126,"Salem, OR",msa,Oregon,2024-02-29,2024-05-31,2.2
+394870,127,"Mobile, AL",msa,Alabama,2024-02-29,2024-05-31,2.3
+395015,128,"Reading, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.8
+394502,129,"Corpus Christi, TX",msa,Texas,2024-02-29,2024-05-31,1.6
+394421,130,"Brownsville, TX",msa,Texas,2024-02-29,2024-05-31,2.3
+394820,131,"Manchester, NH",msa,New Hampshire,2024-02-29,2024-05-31,3.7
+394612,132,"Fort Wayne, IN",msa,Indiana,2024-02-29,2024-05-31,3.5
+394658,133,"Gulfport, MS",msa,Mississippi,2024-02-29,2024-05-31,2.0
+395051,134,"Salisbury, MD",msa,Delaware,2024-02-29,2024-05-31,1.9
+394596,135,"Flint, MI",msa,Michigan,2024-02-29,2024-05-31,3.5
+394972,136,"Peoria, IL",msa,Illinois,2024-02-29,2024-05-31,3.3
+394439,137,"Canton, OH",msa,Ohio,2024-02-29,2024-05-31,3.8
+395070,138,"Savannah, GA",msa,Georgia,2024-02-29,2024-05-31,2.2
+394327,139,"Anchorage, AK",msa,Alaska,2024-02-29,2024-05-31,1.3
+394372,140,"Beaumont, TX",msa,Texas,2024-02-29,2024-05-31,0.7
+395096,141,"Shreveport, LA",msa,Louisiana,2024-02-29,2024-05-31,1.5
+395164,142,"Trenton, NJ",msa,New Jersey,2024-02-29,2024-05-31,3.2
+394875,143,"Montgomery, AL",msa,Alabama,2024-02-29,2024-05-31,2.0
+394520,144,"Davenport, IA",msa,Illinois,2024-02-29,2024-05-31,2.5
+395146,145,"Tallahassee, FL",msa,Florida,2024-02-29,2024-05-31,2.4
+394576,146,"Eugene, OR",msa,Oregon,2024-02-29,2024-05-31,2.6
+394901,147,"Naples, FL",msa,Florida,2024-02-29,2024-05-31,1.9
+394332,148,"Ann Arbor, MI",msa,Michigan,2024-02-29,2024-05-31,3.7
+394927,149,"Ocala, FL",msa,Florida,2024-02-29,2024-05-31,1.2
+394679,150,"Hickory, NC",msa,North Carolina,2024-02-29,2024-05-31,3.0
+394697,151,"Huntington, WV",msa,Ohio,2024-02-29,2024-05-31,1.8
+394602,152,"Fort Collins, CO",msa,Colorado,2024-02-29,2024-05-31,2.6
+395033,153,"Rockford, IL",msa,Illinois,2024-02-29,2024-05-31,3.7
+394796,154,"Lincoln, NE",msa,Nebraska,2024-02-29,2024-05-31,3.4
+394622,155,"Gainesville, FL",msa,Florida,2024-02-29,2024-05-31,2.6
+394405,156,"Boulder, CO",msa,Colorado,2024-02-29,2024-05-31,3.7
+394646,157,"Green Bay, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.4
+394488,158,"Columbus, GA",msa,Georgia,2024-02-29,2024-05-31,2.4
+395107,159,"South Bend, IN",msa,Indiana,2024-02-29,2024-05-31,3.6
+395109,160,"Spartanburg, SC",msa,South Carolina,2024-02-29,2024-05-31,2.8
+394645,161,"Greeley, CO",msa,Colorado,2024-02-29,2024-05-31,1.9
+394808,162,"Lubbock, TX",msa,Texas,2024-02-29,2024-05-31,2.1
+394471,163,"Clarksville, TN",msa,Tennessee,2024-02-29,2024-05-31,2.1
+395028,164,"Roanoke, VA",msa,Virginia,2024-02-29,2024-05-31,3.0
+394579,165,"Evansville, IN",msa,Indiana,2024-02-29,2024-05-31,2.8
+394747,167,"Kingsport, TN",msa,Tennessee,2024-02-29,2024-05-31,2.7
+394741,168,"Kennewick, WA",msa,Washington,2024-02-29,2024-05-31,2.3
+395179,169,"Utica, NY",msa,New York,2024-02-29,2024-05-31,2.2
+394660,170,"Hagerstown, MD",msa,Maryland,2024-02-29,2024-05-31,2.5
+394543,171,"Duluth, MN",msa,Minnesota,2024-02-29,2024-05-31,2.7
+394937,172,"Olympia, WA",msa,Washington,2024-02-29,2024-05-31,3.5
+394803,173,"Longview, TX",msa,Texas,2024-02-29,2024-05-31,2.2
+395229,174,"Wilmington, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+395061,175,"San Luis Obispo, CA",msa,California,2024-02-29,2024-05-31,2.3
+753875,176,"Crestview, FL",msa,Florida,2024-02-29,2024-05-31,1.7
+394851,177,"Merced, CA",msa,California,2024-02-29,2024-05-31,2.1
+395197,178,"Waco, TX",msa,Texas,2024-02-29,2024-05-31,2.4
+394447,179,"Cedar Rapids, IA",msa,Iowa,2024-02-29,2024-05-31,2.1
+394348,180,"Atlantic City, NJ",msa,New Jersey,2024-02-29,2024-05-31,3.0
+394412,181,"Bremerton, WA",msa,Washington,2024-02-29,2024-05-31,2.5
+395103,182,"Sioux Falls, SD",msa,South Dakota,2024-02-29,2024-05-31,2.6
+395065,183,"Santa Cruz, CA",msa,California,2024-02-29,2024-05-31,2.8
+394572,184,"Erie, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.8
+394924,185,"Norwich, CT",msa,Connecticut,2024-02-29,2024-05-31,4.0
+394323,186,"Amarillo, TX",msa,Texas,2024-02-29,2024-05-31,2.1
+394772,187,"Laredo, TX",msa,Texas,2024-02-29,2024-05-31,1.1
+395171,188,"Tuscaloosa, AL",msa,Alabama,2024-02-29,2024-05-31,1.6
+394483,189,"College Station, TX",msa,Texas,2024-02-29,2024-05-31,1.5
+394732,190,"Kalamazoo, MI",msa,Michigan,2024-02-29,2024-05-31,3.3
+394811,191,"Lynchburg, VA",msa,Virginia,2024-02-29,2024-05-31,2.6
+394455,192,"Charleston, WV",msa,West Virginia,2024-02-29,2024-05-31,1.9
+395240,193,"Yakima, WA",msa,Washington,2024-02-29,2024-05-31,2.7
+394585,194,"Fargo, ND",msa,North Dakota,2024-02-29,2024-05-31,1.6
+394387,195,"Binghamton, NY",msa,New York,2024-02-29,2024-05-31,2.4
+394609,196,"Fort Smith, AR",msa,Arkansas,2024-02-29,2024-05-31,2.4
+394334,197,"Appleton, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.2
+395161,199,"Topeka, KS",msa,Kansas,2024-02-29,2024-05-31,3.3
+394813,200,"Macon, GA",msa,Georgia,2024-02-29,2024-05-31,2.7
+395174,201,"Tyler, TX",msa,Texas,2024-02-29,2024-05-31,2.6
+394361,202,"Barnstable Town, MA",msa,Massachusetts,2024-02-29,2024-05-31,3.1
+394519,203,"Daphne, AL",msa,Alabama,2024-02-29,2024-05-31,2.2
+394378,205,"Bellingham, WA",msa,Washington,2024-02-29,2024-05-31,3.2
+394429,206,"Burlington, VT",msa,Vermont,2024-02-29,2024-05-31,2.6
+395030,207,"Rochester, MN",msa,Minnesota,2024-02-29,2024-05-31,3.1
+753895,208,"Lafayette, IN",msa,Indiana,2024-02-29,2024-05-31,3.1
+394454,209,"Champaign, IL",msa,Illinois,2024-02-29,2024-05-31,2.7
+394848,210,"Medford, OR",msa,Oregon,2024-02-29,2024-05-31,2.2
+394459,212,"Charlottesville, VA",msa,Virginia,2024-02-29,2024-05-31,3.0
+394763,213,"Lake Charles, LA",msa,Louisiana,2024-02-29,2024-05-31,-0.5
+394773,214,"Las Cruces, NM",msa,New Mexico,2024-02-29,2024-05-31,1.9
+394464,215,"Chico, CA",msa,California,2024-02-29,2024-05-31,1.5
+394681,216,"Hilton Head Island, SC",msa,South Carolina,2024-02-29,2024-05-31,1.9
+394346,217,"Athens, GA",msa,Georgia,2024-02-29,2024-05-31,3.2
+394765,218,"Lake Havasu City, AZ",msa,Arizona,2024-02-29,2024-05-31,2.1
+394485,219,"Columbia, MO",msa,Missouri,2024-02-29,2024-05-31,2.5
+395114,220,"Springfield, IL",msa,Illinois,2024-02-29,2024-05-31,2.0
+394691,221,"Houma, LA",msa,Louisiana,2024-02-29,2024-05-31,0.8
+394872,222,"Monroe, LA",msa,Louisiana,2024-02-29,2024-05-31,1.1
+394565,223,"Elkhart, IN",msa,Indiana,2024-02-29,2024-05-31,2.8
+394726,224,"Johnson City, TN",msa,Tennessee,2024-02-29,2024-05-31,2.9
+395247,225,"Yuma, AZ",msa,Arizona,2024-02-29,2024-05-31,2.2
+394623,226,"Gainesville, GA",msa,Georgia,2024-02-29,2024-05-31,2.9
+394716,227,"Jacksonville, NC",msa,North Carolina,2024-02-29,2024-05-31,2.2
+394597,228,"Florence, SC",msa,South Carolina,2024-02-29,2024-05-31,2.0
+394680,229,"Hilo, HI",msa,Hawaii,2024-02-29,2024-05-31,1.3
+395118,230,"St. Cloud, MN",msa,Minnesota,2024-02-29,2024-05-31,2.9
+395011,231,"Racine, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.3
+394380,232,"Bend, OR",msa,Oregon,2024-02-29,2024-05-31,3.2
+395047,233,"Saginaw, MI",msa,Michigan,2024-02-29,2024-05-31,4.1
+395202,234,"Warner Robins, GA",msa,Georgia,2024-02-29,2024-05-31,2.4
+395151,235,"Terre Haute, IN",msa,Indiana,2024-02-29,2024-05-31,3.1
+395162,236,"Torrington, CT",msa,Connecticut,2024-02-29,2024-05-31,3.5
+395009,237,"Punta Gorda, FL",msa,Florida,2024-02-29,2024-05-31,1.6
+394386,239,"Billings, MT",msa,Montana,2024-02-29,2024-05-31,2.6
+395018,240,"Redding, CA",msa,California,2024-02-29,2024-05-31,2.0
+394748,241,"Kingston, NY",msa,New York,2024-02-29,2024-05-31,2.7
+394960,242,"Panama City, FL",msa,Florida,2024-02-29,2024-05-31,2.5
+394729,243,"Joplin, MO",msa,Missouri,2024-02-29,2024-05-31,2.9
+394539,244,"Dover, DE",msa,Delaware,2024-02-29,2024-05-31,2.2
+394559,245,"El Centro, CA",msa,California,2024-02-29,2024-05-31,1.8
+394712,246,"Jackson, TN",msa,Tennessee,2024-02-29,2024-05-31,2.7
+395246,247,"Yuba City, CA",msa,California,2024-02-29,2024-05-31,2.2
+394406,248,"Bowling Green, KY",msa,Kentucky,2024-02-29,2024-05-31,2.5
+395119,249,"St. George, UT",msa,Utah,2024-02-29,2024-05-31,2.3
+394896,250,"Muskegon, MI",msa,Michigan,2024-02-29,2024-05-31,3.7
+394299,251,"Abilene, TX",msa,Texas,2024-02-29,2024-05-31,2.4
+394707,252,"Iowa City, IA",msa,Iowa,2024-02-29,2024-05-31,2.0
+394351,253,"Auburn, AL",msa,Alabama,2024-02-29,2024-05-31,2.3
+394860,254,"Midland, TX",msa,Texas,2024-02-29,2024-05-31,2.0
+394671,255,"Hattiesburg, MS",msa,Mississippi,2024-02-29,2024-05-31,1.6
+753869,255,"Bloomington, IL",msa,Illinois,2024-02-29,2024-05-31,3.2
+394944,257,"Oshkosh, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.3
+394555,258,"Eau Claire, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.6
+394651,259,"Greenville, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+394428,260,"Burlington, NC",msa,North Carolina,2024-02-29,2024-05-31,3.1
+395210,261,"Waterloo, IA",msa,Iowa,2024-02-29,2024-05-31,2.3
+394480,262,"Coeur d'Alene, ID",msa,Idaho,2024-02-29,2024-05-31,3.9
+394553,263,"East Stroudsburg, PA",msa,Pennsylvania,2024-02-29,2024-05-31,3.1
+395007,264,"Pueblo, CO",msa,Colorado,2024-02-29,2024-05-31,1.9
+394392,265,"Blacksburg, VA",msa,Virginia,2024-02-29,2024-05-31,2.4
+395215,266,"Wausau, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.0
+394731,267,"Kahului, HI",msa,Hawaii,2024-02-29,2024-05-31,2.4
+394720,268,"Janesville, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.3
+395170,269,"Tupelo, MS",msa,Mississippi,2024-02-29,2024-05-31,2.0
+394393,270,"Bloomington, IN",msa,Indiana,2024-02-29,2024-05-31,3.3
+394930,271,"Odessa, TX",msa,Texas,2024-02-29,2024-05-31,2.0
+394710,272,"Jackson, MI",msa,Michigan,2024-02-29,2024-05-31,3.2
+395125,273,"State College, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.3
+395079,274,"Sebastian, FL",msa,Florida,2024-02-29,2024-05-31,2.1
+394814,275,"Madera, CA",msa,California,2024-02-29,2024-05-31,2.1
+394523,276,"Decatur, AL",msa,Alabama,2024-02-29,2024-05-31,2.3
+394453,277,"Chambersburg, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.2
+395193,278,"Vineland, NJ",msa,New Jersey,2024-02-29,2024-05-31,2.9
+394703,279,"Idaho Falls, ID",msa,Idaho,2024-02-29,2024-05-31,3.5
+394639,280,"Grand Junction, CO",msa,Colorado,2024-02-29,2024-05-31,2.5
+394563,281,"Elizabethtown, KY",msa,Kentucky,2024-02-29,2024-05-31,2.5
+394917,282,"Niles, MI",msa,Michigan,2024-02-29,2024-05-31,3.5
+394873,283,"Monroe, MI",msa,Michigan,2024-02-29,2024-05-31,2.5
+395066,284,"Santa Fe, NM",msa,New Mexico,2024-02-29,2024-05-31,2.5
+394493,285,"Concord, NH",msa,New Hampshire,2024-02-29,2024-05-31,3.5
+394314,286,"Alexandria, LA",msa,Louisiana,2024-02-29,2024-05-31,1.2
+395163,287,"Traverse City, MI",msa,Michigan,2024-02-29,2024-05-31,4.0
+394359,288,"Bangor, ME",msa,Maine,2024-02-29,2024-05-31,3.1
+394685,289,"Homosassa Springs, FL",msa,Florida,2024-02-29,2024-05-31,2.2
+394662,290,"Hanford, CA",msa,California,2024-02-29,2024-05-31,2.0
+394723,291,"Jefferson City, MO",msa,Missouri,2024-02-29,2024-05-31,2.5
+394598,292,"Florence, AL",msa,Alabama,2024-02-29,2024-05-31,2.6
+394537,293,"Dothan, AL",msa,Alabama,2024-02-29,2024-05-31,2.1
+394802,294,"London, KY",msa,Kentucky,2024-02-29,2024-05-31,2.6
+394306,295,"Albany, GA",msa,Georgia,2024-02-29,2024-05-31,2.9
+395102,297,"Sioux City, IA",msa,Iowa,2024-02-29,2024-05-31,2.5
+395223,298,"Wichita Falls, TX",msa,Texas,2024-02-29,2024-05-31,3.1
+395152,299,"Texarkana, TX",msa,Texas,2024-02-29,2024-05-31,2.5
+395182,300,"Valdosta, GA",msa,Georgia,2024-02-29,2024-05-31,2.6
+394800,301,"Logan, UT",msa,Utah,2024-02-29,2024-05-31,3.5
+394595,302,"Flagstaff, AZ",msa,Arizona,2024-02-29,2024-05-31,3.5
+395036,303,"Rocky Mount, NC",msa,North Carolina,2024-02-29,2024-05-31,2.8
+395000,304,"Pottsville, PA",msa,Pennsylvania,2024-02-29,2024-05-31,3.1
+394515,305,"Dalton, GA",msa,Georgia,2024-02-29,2024-05-31,2.7
+394783,306,"Lebanon, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.4
+394880,307,"Morristown, TN",msa,Tennessee,2024-02-29,2024-05-31,2.8
+395232,308,"Winchester, VA",msa,Virginia,2024-02-29,2024-05-31,2.4
+395221,309,"Wheeling, WV",msa,Ohio,2024-02-29,2024-05-31,1.9
+394879,310,"Morgantown, WV",msa,West Virginia,2024-02-29,2024-05-31,1.9
+394756,311,"La Crosse, WI",msa,Wisconsin,2024-02-29,2024-05-31,2.9
+394900,312,"Napa, CA",msa,California,2024-02-29,2024-05-31,2.2
+395013,313,"Rapid City, SD",msa,South Dakota,2024-02-29,2024-05-31,2.9
+395139,314,"Sumter, SC",msa,South Carolina,2024-02-29,2024-05-31,2.3
+394577,315,"Eureka, CA",msa,California,2024-02-29,2024-05-31,1.1
+395117,316,"Springfield, OH",msa,Ohio,2024-02-29,2024-05-31,3.2
+394668,317,"Harrisonburg, VA",msa,Virginia,2024-02-29,2024-05-31,2.2
+394368,318,"Battle Creek, MI",msa,Michigan,2024-02-29,2024-05-31,3.4
+395094,319,"Sherman, TX",msa,Texas,2024-02-29,2024-05-31,2.4
+394821,320,"Manhattan, KS",msa,Kansas,2024-02-29,2024-05-31,1.8
+394442,321,"Carbondale, IL",msa,Illinois,2024-02-29,2024-05-31,2.1
+394727,322,"Johnstown, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.2
+394728,323,"Jonesboro, AR",msa,Arkansas,2024-02-29,2024-05-31,2.1
+394390,324,"Bismarck, ND",msa,North Dakota,2024-02-29,2024-05-31,1.5
+394661,325,"Hammond, LA",msa,Louisiana,2024-02-29,2024-05-31,1.2
+394983,326,"Pittsfield, MA",msa,Massachusetts,2024-02-29,2024-05-31,2.8
+394890,327,"Mount Vernon, WA",msa,Washington,2024-02-29,2024-05-31,3.0
+394719,328,"Jamestown, NY",msa,New York,2024-02-29,2024-05-31,2.2
+395153,329,"The Villages, FL",msa,Florida,2024-02-29,2024-05-31,0.8
+394307,330,"Albany, OR",msa,Oregon,2024-02-29,2024-05-31,2.3
+394633,331,"Glens Falls, NY",msa,New York,2024-02-29,2024-05-31,2.1
+394780,332,"Lawton, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.1
+394474,334,"Cleveland, TN",msa,Tennessee,2024-02-29,2024-05-31,2.7
+395098,335,"Sierra Vista, AZ",msa,Arizona,2024-02-29,2024-05-31,2.3
+394325,336,"Ames, IA",msa,Iowa,2024-02-29,2024-05-31,2.0
+394824,337,"Mansfield, OH",msa,Ohio,2024-02-29,2024-05-31,2.9
+395128,338,"Staunton, VA",msa,Virginia,2024-02-29,2024-05-31,2.3
+394353,339,"Augusta, ME",msa,Maine,2024-02-29,2024-05-31,3.4
+394321,340,"Altoona, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.4
+394905,341,"New Bern, NC",msa,North Carolina,2024-02-29,2024-05-31,2.6
+394588,342,"Farmington, NM",msa,New Mexico,2024-02-29,2024-05-31,1.8
+395120,343,"St. Joseph, MO",msa,Missouri,2024-02-29,2024-05-31,2.5
+395054,344,"San Angelo, TX",msa,Texas,2024-02-29,2024-05-31,2.2
+395218,345,"Wenatchee, WA",msa,Washington,2024-02-29,2024-05-31,2.3
+394949,346,"Owensboro, KY",msa,Kentucky,2024-02-29,2024-05-31,2.3
+753890,347,"Holland, MI",msa,Michigan,2024-02-29,2024-05-31,3.1
+394810,348,"Lumberton, NC",msa,North Carolina,2024-02-29,2024-05-31,3.6
+394778,349,"Lawrence, KS",msa,Kansas,2024-02-29,2024-05-31,3.4
+394635,350,"Goldsboro, NC",msa,North Carolina,2024-02-29,2024-05-31,2.4
+395213,351,"Watertown, NY",msa,New York,2024-02-29,2024-05-31,1.8
+395089,352,"Sheboygan, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.2
+395217,353,"Weirton, WV",msa,Ohio,2024-02-29,2024-05-31,2.9
+394867,354,"Missoula, MT",msa,Montana,2024-02-29,2024-05-31,2.3
+394407,356,"Bozeman, MT",msa,Montana,2024-02-29,2024-05-31,2.7
+394333,357,"Anniston, AL",msa,Alabama,2024-02-29,2024-05-31,1.7
+394374,358,"Beckley, WV",msa,West Virginia,2024-02-29,2024-05-31,3.5
+395225,359,"Williamsport, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.2
+394423,360,"Brunswick, GA",msa,Georgia,2024-02-29,2024-05-31,2.5
+395173,361,"Twin Falls, ID",msa,Idaho,2024-02-29,2024-05-31,3.4
+753872,361,"California, MD",msa,Maryland,2024-02-29,2024-05-31,1.0
+394495,363,"Cookeville, TN",msa,Tennessee,2024-02-29,2024-05-31,2.7
+394893,364,"Muncie, IN",msa,Indiana,2024-02-29,2024-05-31,3.3
+394857,365,"Michigan City, IN",msa,Indiana,2024-02-29,2024-05-31,2.8
+395039,366,"Roseburg, OR",msa,Oregon,2024-02-29,2024-05-31,2.4
+394788,367,"Lewiston, ME",msa,Maine,2024-02-29,2024-05-31,4.1
+394804,368,"Longview, WA",msa,Washington,2024-02-29,2024-05-31,2.5
+394932,369,"Ogdensburg, NY",msa,New York,2024-02-29,2024-05-31,1.7
+394734,370,"Kankakee, IL",msa,Illinois,2024-02-29,2024-05-31,2.3
+394396,371,"Bluefield, WV",msa,Virginia,2024-02-29,2024-05-31,2.6
+395095,372,"Show Low, AZ",msa,Arizona,2024-02-29,2024-05-31,2.5
+395023,373,"Richmond, KY",msa,Kentucky,2024-02-29,2024-05-31,2.5
+395168,374,"Tullahoma, TN",msa,Tennessee,2024-02-29,2024-05-31,2.8
+395222,375,"Whitewater, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.0
+394709,376,"Ithaca, NY",msa,New York,2024-02-29,2024-05-31,2.6
+394637,377,"Grand Forks, ND",msa,Minnesota,2024-02-29,2024-05-31,1.5
+394524,378,"Decatur, IL",msa,Illinois,2024-02-29,2024-05-31,3.6
+394762,379,"LaGrange, GA",msa,Georgia,2024-02-29,2024-05-31,2.6
+394369,380,"Bay City, MI",msa,Michigan,2024-02-29,2024-05-31,4.0
+394599,381,"Fond du Lac, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.1
+394630,382,"Gettysburg, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.4
+394620,383,"Gadsden, AL",msa,Alabama,2024-02-29,2024-05-31,2.5
+394733,384,"Kalispell, MT",msa,Montana,2024-02-29,2024-05-31,3.5
+394518,385,"Danville, VA",msa,Virginia,2024-02-29,2024-05-31,3.0
+394823,386,"Mankato, MN",msa,Minnesota,2024-02-29,2024-05-31,2.7
+394794,387,"Lima, OH",msa,Ohio,2024-02-29,2024-05-31,2.8
+753915,388,"Salem, OH",msa,Ohio,2024-02-29,2024-05-31,3.3
+395166,389,"Truckee, CA",msa,California,2024-02-29,2024-05-31,1.8
+395080,390,"Sebring, FL",msa,Florida,2024-02-29,2024-05-31,2.4
+394462,391,"Cheyenne, WY",msa,Wyoming,2024-02-29,2024-05-31,1.7
+394689,392,"Hot Springs, AR",msa,Arkansas,2024-02-29,2024-05-31,2.5
+394302,393,"Adrian, MI",msa,Michigan,2024-02-29,2024-05-31,3.3
+395090,394,"Shelby, NC",msa,North Carolina,2024-02-29,2024-05-31,3.3
+394542,396,"Dubuque, IA",msa,Iowa,2024-02-29,2024-05-31,2.6
+394852,397,"Meridian, MS",msa,Mississippi,2024-02-29,2024-05-31,1.9
+753912,398,"Pinehurst, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+394953,399,"Paducah, KY",msa,Kentucky,2024-02-29,2024-05-31,2.3
+395190,400,"Victoria, TX",msa,Texas,2024-02-29,2024-05-31,1.9
+395038,401,"Rome, GA",msa,Georgia,2024-02-29,2024-05-31,3.0
+395086,402,"Sevierville, TN",msa,Tennessee,2024-02-29,2024-05-31,2.1
+394882,403,"Moses Lake, WA",msa,Washington,2024-02-29,2024-05-31,2.6
+394340,404,"Ashtabula, OH",msa,Ohio,2024-02-29,2024-05-31,2.9
+394441,405,"Cape Girardeau, MO",msa,Missouri,2024-02-29,2024-05-31,2.3
+394311,406,"Albertville, AL",msa,Alabama,2024-02-29,2024-05-31,2.5
+394580,407,"Fairbanks, AK",msa,Alaska,2024-02-29,2024-05-31,1.0
+394410,408,"Brainerd, MN",msa,Minnesota,2024-02-29,2024-05-31,3.4
+394513,409,"Cumberland, MD",msa,Maryland,2024-02-29,2024-05-31,2.0
+394928,410,"Ocean City, NJ",msa,New Jersey,2024-02-29,2024-05-31,2.9
+394505,411,"Corvallis, OR",msa,Oregon,2024-02-29,2024-05-31,2.4
+394988,412,"Pocatello, ID",msa,Idaho,2024-02-29,2024-05-31,3.8
+394501,413,"Corning, NY",msa,New York,2024-02-29,2024-05-31,1.8
+394911,414,"New Philadelphia, OH",msa,Ohio,2024-02-29,2024-05-31,3.0
+395140,415,"Sunbury, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.5
+395175,416,"Ukiah, CA",msa,California,2024-02-29,2024-05-31,0.4
+753887,417,"Hermiston, OR",msa,Oregon,2024-02-29,2024-05-31,2.5
+394469,418,"Clarksburg, WV",msa,West Virginia,2024-02-29,2024-05-31,2.1
+394964,419,"Parkersburg, WV",msa,West Virginia,2024-02-29,2024-05-31,2.2
+394373,420,"Beaver Dam, WI",msa,Wisconsin,2024-02-29,2024-05-31,2.9
+394980,421,"Pine Bluff, AR",msa,Arkansas,2024-02-29,2024-05-31,1.9
+394641,422,"Grants Pass, OR",msa,Oregon,2024-02-29,2024-05-31,0.8
+394511,424,"Cullman, AL",msa,Alabama,2024-02-29,2024-05-31,2.4
+394809,425,"Lufkin, TX",msa,Texas,2024-02-29,2024-05-31,3.0
+395248,426,"Zanesville, OH",msa,Ohio,2024-02-29,2024-05-31,3.6
+394907,427,"New Castle, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.8
+394925,428,"Oak Harbor, WA",msa,Washington,2024-02-29,2024-05-31,3.0
+394942,429,"Orangeburg, SC",msa,South Carolina,2024-02-29,2024-05-31,2.7
+395212,430,"Watertown, WI",msa,Wisconsin,2024-02-29,2024-05-31,2.9
+394847,431,"Meadville, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.8
+394568,432,"Elmira, NY",msa,New York,2024-02-29,2024-05-31,1.5
+394644,433,"Great Falls, MT",msa,Montana,2024-02-29,2024-05-31,2.2
+394776,434,"Laurel, MS",msa,Mississippi,2024-02-29,2024-05-31,1.9
+395042,435,"Russellville, AR",msa,Arkansas,2024-02-29,2024-05-31,1.8
+394704,436,"Indiana, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.1
+394859,437,"Midland, MI",msa,Michigan,2024-02-29,2024-05-31,3.8
+394755,438,"Kokomo, IN",msa,Indiana,2024-02-29,2024-05-31,2.7
+394395,439,"Bloomsburg, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.4
+394941,440,"Opelousas, LA",msa,Louisiana,2024-02-29,2024-05-31,-0.4
+394675,441,"Helena, MT",msa,Montana,2024-02-29,2024-05-31,2.5
+394744,442,"Key West, FL",msa,Florida,2024-02-29,2024-05-31,2.1
+395145,443,"Talladega, AL",msa,Alabama,2024-02-29,2024-05-31,3.5
+395133,444,"Stillwater, OK",msa,Oklahoma,2024-02-29,2024-05-31,1.9
+394489,445,"Columbus, IN",msa,Indiana,2024-02-29,2024-05-31,2.6
+394345,446,"Athens, TX",msa,Texas,2024-02-29,2024-05-31,1.7
+394452,447,"Centralia, WA",msa,Washington,2024-02-29,2024-05-31,2.8
+394822,448,"Manitowoc, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.5
+394682,449,"Hinesville, GA",msa,Georgia,2024-02-29,2024-05-31,1.9
+394541,450,"DuBois, PA",msa,Pennsylvania,2024-02-29,2024-05-31,0.5
+395205,451,"Warsaw, IN",msa,Indiana,2024-02-29,2024-05-31,2.6
+394986,452,"Plattsburgh, NY",msa,New York,2024-02-29,2024-05-31,2.1
+395126,453,"Statesboro, GA",msa,Georgia,2024-02-29,2024-05-31,2.7
+394445,454,"Casper, WY",msa,Wyoming,2024-02-29,2024-05-31,1.4
+395231,455,"Wilson, NC",msa,North Carolina,2024-02-29,2024-05-31,3.0
+753881,456,"Glenwood Springs, CO",msa,Colorado,2024-02-29,2024-05-31,2.6
+395085,457,"Seneca, SC",msa,South Carolina,2024-02-29,2024-05-31,2.6
+394866,458,"Minot, ND",msa,North Dakota,2024-02-29,2024-05-31,1.6
+394936,459,"Olean, NY",msa,New York,2024-02-29,2024-05-31,2.3
+394465,460,"Chillicothe, OH",msa,Ohio,2024-02-29,2024-05-31,2.7
+395077,461,"Searcy, AR",msa,Arkansas,2024-02-29,2024-05-31,2.3
+394638,462,"Grand Island, NE",msa,Nebraska,2024-02-29,2024-05-31,2.5
+394994,463,"Port Angeles, WA",msa,Washington,2024-02-29,2024-05-31,3.2
+394350,464,"Auburn, NY",msa,New York,2024-02-29,2024-05-31,2.7
+394699,465,"Huntsville, TX",msa,Texas,2024-02-29,2024-05-31,1.5
+394738,466,"Keene, NH",msa,New Hampshire,2024-02-29,2024-05-31,3.9
+394674,467,"Heber, UT",msa,Utah,2024-02-29,2024-05-31,3.9
+395010,468,"Quincy, IL",msa,Illinois,2024-02-29,2024-05-31,1.9
+395062,469,"Sandusky, OH",msa,Ohio,2024-02-29,2024-05-31,2.8
+394593,470,"Findlay, OH",msa,Ohio,2024-02-29,2024-05-31,2.8
+394614,471,"Frankfort, KY",msa,Kentucky,2024-02-29,2024-05-31,2.6
+394516,472,"Danville, IL",msa,Illinois,2024-02-29,2024-05-31,2.1
+394298,473,"Aberdeen, WA",msa,Washington,2024-02-29,2024-05-31,2.6
+394999,474,"Portsmouth, OH",msa,Ohio,2024-02-29,2024-05-31,2.9
+395106,475,"Somerset, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.2
+753928,476,"Wisconsin Rapids, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.3
+753893,477,"Jefferson, GA",msa,Georgia,2024-02-29,2024-05-31,2.8
+394736,478,"Kapaa, HI",msa,Hawaii,2024-02-29,2024-05-31,1.5
+394955,479,"Palatka, FL",msa,Florida,2024-02-29,2024-05-31,3.5
+394626,480,"Gallup, NM",msa,New Mexico,2024-02-29,2024-05-31,1.4
+394683,481,"Hobbs, NM",msa,New Mexico,2024-02-29,2024-05-31,0.1
+395088,482,"Shawnee, OK",msa,Oklahoma,2024-02-29,2024-05-31,3.1
+394884,484,"Mount Airy, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+395132,485,"Stevens Point, WI",msa,Wisconsin,2024-02-29,2024-05-31,2.9
+394647,486,"Greeneville, TN",msa,Tennessee,2024-02-29,2024-05-31,2.9
+394655,488,"Greenwood, SC",msa,South Carolina,2024-02-29,2024-05-31,2.7
+394764,489,"Lake City, FL",msa,Florida,2024-02-29,2024-05-31,2.8
+394752,490,"Klamath Falls, OR",msa,Oregon,2024-02-29,2024-05-31,2.5
+394877,491,"Morehead City, NC",msa,North Carolina,2024-02-29,2024-05-31,2.5
+394472,492,"Clearlake, CA",msa,California,2024-02-29,2024-05-31,1.0
+394305,493,"Alamogordo, NM",msa,New Mexico,2024-02-29,2024-05-31,2.6
+395027,494,"Roanoke Rapids, NC",msa,North Carolina,2024-02-29,2024-05-31,1.9
+394587,495,"Farmington, MO",msa,Missouri,2024-02-29,2024-05-31,2.9
+394897,496,"Muskogee, OK",msa,Oklahoma,2024-02-29,2024-05-31,3.0
+394826,497,"Marion, IN",msa,Indiana,2024-02-29,2024-05-31,2.6
+394586,498,"Faribault, MN",msa,Minnesota,2024-02-29,2024-05-31,2.6
+395021,499,"Richmond, IN",msa,Indiana,2024-02-29,2024-05-31,2.4
+394829,500,"Marquette, MI",msa,Michigan,2024-02-29,2024-05-31,3.6
+394922,501,"North Wilkesboro, NC",msa,North Carolina,2024-02-29,2024-05-31,2.6
+394885,502,"Mount Pleasant, MI",msa,Michigan,2024-02-29,2024-05-31,3.2
+395024,503,"Rio Grande City, TX",msa,Texas,2024-02-29,2024-05-31,0.3
+394827,504,"Marion, OH",msa,Ohio,2024-02-29,2024-05-31,2.3
+394360,505,"Baraboo, WI",msa,Wisconsin,2024-02-29,2024-05-31,2.9
+395016,506,"Red Bluff, CA",msa,California,2024-02-29,2024-05-31,1.9
+394825,507,"Marinette, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.5
+395040,509,"Roswell, NM",msa,New Mexico,2024-02-29,2024-05-31,1.3
+395092,510,"Shelton, WA",msa,Washington,2024-02-29,2024-05-31,2.8
+394540,511,"Dublin, GA",msa,Georgia,2024-02-29,2024-05-31,2.6
+394899,512,"Nacogdoches, TX",msa,Texas,2024-02-29,2024-05-31,2.4
+395105,513,"Somerset, KY",msa,Kentucky,2024-02-29,2024-05-31,2.4
+394496,514,"Coos Bay, OR",msa,Oregon,2024-02-29,2024-05-31,2.0
+394600,515,"Forest City, NC",msa,North Carolina,2024-02-29,2024-05-31,2.6
+394836,516,"Martinsville, VA",msa,Virginia,2024-02-29,2024-05-31,3.1
+395020,517,"Rexburg, ID",msa,Idaho,2024-02-29,2024-05-31,3.2
+394787,518,"Lewiston, ID",msa,Idaho,2024-02-29,2024-05-31,2.8
+394759,519,"Laconia, NH",msa,New Hampshire,2024-02-29,2024-05-31,3.4
+394629,520,"Georgetown, SC",msa,South Carolina,2024-02-29,2024-05-31,1.7
+394343,521,"Athens, OH",msa,Ohio,2024-02-29,2024-05-31,2.0
+395063,522,"Sanford, NC",msa,North Carolina,2024-02-29,2024-05-31,3.2
+394570,523,"Enid, OK",msa,Oklahoma,2024-02-29,2024-05-31,1.5
+394889,524,"Mount Vernon, OH",msa,Ohio,2024-02-29,2024-05-31,3.3
+395199,525,"Walla Walla, WA",msa,Washington,2024-02-29,2024-05-31,2.5
+394309,526,"Albemarle, NC",msa,North Carolina,2024-02-29,2024-05-31,2.9
+394701,527,"Hutchinson, KS",msa,Kansas,2024-02-29,2024-05-31,3.8
+394693,528,"Hudson, NY",msa,New York,2024-02-29,2024-05-31,2.8
+395124,529,"Starkville, MS",msa,Mississippi,2024-02-29,2024-05-31,1.6
+394443,530,"Carlsbad, NM",msa,New Mexico,2024-02-29,2024-05-31,0.9
+394631,531,"Gillette, WY",msa,Wyoming,2024-02-29,2024-05-31,1.6
+395136,532,"Sturgis, MI",msa,Michigan,2024-02-29,2024-05-31,3.1
+395044,533,"Rutland, VT",msa,Vermont,2024-02-29,2024-05-31,2.3
+394509,534,"Crossville, TN",msa,Tennessee,2024-02-29,2024-05-31,2.8
+395071,536,"Sayre, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.6
+395049,537,"Salina, KS",msa,Kansas,2024-02-29,2024-05-31,2.7
+753903,538,"Marietta, OH",msa,Ohio,2024-02-29,2024-05-31,2.5
+394591,539,"Fergus Falls, MN",msa,Minnesota,2024-02-29,2024-05-31,2.6
+394362,540,"Barre, VT",msa,Vermont,2024-02-29,2024-05-31,2.8
+394618,541,"Fremont, OH",msa,Ohio,2024-02-29,2024-05-31,3.2
+394939,542,"Oneonta, NY",msa,New York,2024-02-29,2024-05-31,1.5
+394490,543,"Columbus, MS",msa,Mississippi,2024-02-29,2024-05-31,2.1
+394923,544,"Norwalk, OH",msa,Ohio,2024-02-29,2024-05-31,3.0
+394365,545,"Batavia, NY",msa,New York,2024-02-29,2024-05-31,3.0
+394336,546,"Ardmore, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.2
+394956,547,"Palestine, TX",msa,Texas,2024-02-29,2024-05-31,2.9
+394605,548,"Fort Madison, IA",msa,Iowa,2024-02-29,2024-05-31,1.6
+394456,549,"Charleston, IL",msa,Illinois,2024-02-29,2024-05-31,2.7
+394592,550,"Fernley, NV",msa,Nevada,2024-02-29,2024-05-31,1.9
+394444,551,"Carson City, NV",msa,Nevada,2024-02-29,2024-05-31,2.4
+394551,552,"Eagle Pass, TX",msa,Texas,2024-02-29,2024-05-31,1.8
+394432,553,"Calhoun, GA",msa,Georgia,2024-02-29,2024-05-31,3.3
+753877,554,"Cullowhee, NC",msa,North Carolina,2024-02-29,2024-05-31,2.6
+394737,555,"Kearney, NE",msa,Nebraska,2024-02-29,2024-05-31,2.1
+394582,556,"Fairmont, WV",msa,West Virginia,2024-02-29,2024-05-31,2.0
+394940,557,"Ontario, OR",msa,Oregon,2024-02-29,2024-05-31,3.2
+394621,558,"Gaffney, SC",msa,South Carolina,2024-02-29,2024-05-31,2.2
+394977,559,"Picayune, MS",msa,Mississippi,2024-02-29,2024-05-31,2.5
+395131,560,"Sterling, IL",msa,Illinois,2024-02-29,2024-05-31,2.4
+394411,561,"Branson, MO",msa,Missouri,2024-02-29,2024-05-31,2.7
+394446,562,"Cedar City, UT",msa,Utah,2024-02-29,2024-05-31,2.3
+395216,563,"Waycross, GA",msa,Georgia,2024-02-29,2024-05-31,3.2
+394951,564,"Oxford, MS",msa,Mississippi,2024-02-29,2024-05-31,2.9
+394721,565,"Jasper, IN",msa,Indiana,2024-02-29,2024-05-31,2.6
+394556,566,"Edwards, CO",msa,Colorado,2024-02-29,2024-05-31,2.9
+394547,567,"Durango, CO",msa,Colorado,2024-02-29,2024-05-31,2.5
+394750,568,"Kinston, NC",msa,North Carolina,2024-02-29,2024-05-31,3.1
+753920,569,"Sonora, CA",msa,California,2024-02-29,2024-05-31,1.0
+395157,570,"Tiffin, OH",msa,Ohio,2024-02-29,2024-05-31,2.4
+394366,571,"Batesville, AR",msa,Arkansas,2024-02-29,2024-05-31,1.1
+394989,572,"Point Pleasant, WV",msa,Ohio,2024-02-29,2024-05-31,2.0
+394566,573,"Elko, NV",msa,Nevada,2024-02-29,2024-05-31,1.6
+394517,574,"Danville, KY",msa,Kentucky,2024-02-29,2024-05-31,2.8
+394632,575,"Glasgow, KY",msa,Kentucky,2024-02-29,2024-05-31,2.5
+395122,576,"St. Marys, GA",msa,Georgia,2024-02-29,2024-05-31,1.7
+394402,577,"Boone, NC",msa,North Carolina,2024-02-29,2024-05-31,3.1
+395204,578,"Warrensburg, MO",msa,Missouri,2024-02-29,2024-05-31,2.4
+394634,579,"Gloversville, NY",msa,New York,2024-02-29,2024-05-31,1.8
+394604,580,"Fort Leonard Wood, MO",msa,Missouri,2024-02-29,2024-05-31,2.3
+394993,581,"Poplar Bluff, MO",msa,Missouri,2024-02-29,2024-05-31,1.9
+394562,582,"Elizabeth City, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+394967,583,"Payson, AZ",msa,Arizona,2024-02-29,2024-05-31,2.9
+394344,584,"Athens, TN",msa,Tennessee,2024-02-29,2024-05-31,2.6
+394571,585,"Enterprise, AL",msa,Alabama,2024-02-29,2024-05-31,1.9
+394339,586,"Ashland, OH",msa,Ohio,2024-02-29,2024-05-31,3.2
+395073,587,"Scottsboro, AL",msa,Alabama,2024-02-29,2024-05-31,2.6
+394861,588,"Milledgeville, GA",msa,Georgia,2024-02-29,2024-05-31,2.2
+394742,589,"Kerrville, TX",msa,Texas,2024-02-29,2024-05-31,2.1
+394363,590,"Bartlesville, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.2
+394985,591,"Platteville, WI",msa,Wisconsin,2024-02-29,2024-05-31,2.7
+394503,592,"Corsicana, TX",msa,Texas,2024-02-29,2024-05-31,2.6
+394652,593,"Greenville, OH",msa,Ohio,2024-02-29,2024-05-31,2.7
+395029,594,"Rochelle, IL",msa,Illinois,2024-02-29,2024-05-31,2.5
+394538,596,"Douglas, GA",msa,Georgia,2024-02-29,2024-05-31,2.7
+394933,597,"Oil City, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.3
+394838,598,"Mason City, IA",msa,Iowa,2024-02-29,2024-05-31,2.5
+394717,599,"Jacksonville, TX",msa,Texas,2024-02-29,2024-05-31,2.8
+394625,600,"Galesburg, IL",msa,Illinois,2024-02-29,2024-05-31,1.8
+394954,601,"Pahrump, NV",msa,Nevada,2024-02-29,2024-05-31,2.5
+394963,602,"Paris, TX",msa,Texas,2024-02-29,2024-05-31,2.1
+395234,603,"Winona, MN",msa,Minnesota,2024-02-29,2024-05-31,2.9
+753905,604,"Newport, OR",msa,Oregon,2024-02-29,2024-05-31,2.5
+394878,605,"Morgan City, LA",msa,Louisiana,2024-02-29,2024-05-31,1.0
+395091,606,"Shelbyville, TN",msa,Tennessee,2024-02-29,2024-05-31,2.7
+394326,607,"Amsterdam, NY",msa,New York,2024-02-29,2024-05-31,2.1
+753911,608,"Ozark, AL",msa,Alabama,2024-02-29,2024-05-31,2.4
+394316,609,"Alice, TX",msa,Texas,2024-02-29,2024-05-31,-0.1
+394628,610,"Gardnerville Ranchos, NV",msa,Nevada,2024-02-29,2024-05-31,1.9
+394608,611,"Fort Polk South, LA",msa,Louisiana,2024-02-29,2024-05-31,0.5
+394437,612,"Ca-¦on City, CO",msa,Colorado,2024-02-29,2024-05-31,2.5
+394903,613,"Natchez, MS",msa,Louisiana,2024-02-29,2024-05-31,1.9
+394906,614,"New Castle, IN",msa,Indiana,2024-02-29,2024-05-31,3.0
+394478,615,"Clovis, NM",msa,New Mexico,2024-02-29,2024-05-31,0.7
+394919,616,"Norfolk, NE",msa,Nebraska,2024-02-29,2024-05-31,2.5
+394431,617,"Cadillac, MI",msa,Michigan,2024-02-29,2024-05-31,3.9
+395043,618,"Ruston, LA",msa,Louisiana,2024-02-29,2024-05-31,0.8
+395097,619,"Sidney, OH",msa,Ohio,2024-02-29,2024-05-31,3.3
+395008,620,"Pullman, WA",msa,Washington,2024-02-29,2024-05-31,2.7
+394819,621,"Malone, NY",msa,New York,2024-02-29,2024-05-31,2.0
+394527,622,"Del Rio, TX",msa,Texas,2024-02-29,2024-05-31,2.5
+394391,623,"Blackfoot, ID",msa,Idaho,2024-02-29,2024-05-31,4.8
+395017,624,"Red Wing, MN",msa,Minnesota,2024-02-29,2024-05-31,2.4
+394918,625,"Nogales, AZ",msa,Arizona,2024-02-29,2024-05-31,2.6
+395144,626,"Tahlequah, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.9
+394739,627,"Kendallville, IN",msa,Indiana,2024-02-29,2024-05-31,3.0
+394876,628,"Montrose, CO",msa,Colorado,2024-02-29,2024-05-31,2.4
+394504,629,"Cortland, NY",msa,New York,2024-02-29,2024-05-31,1.4
+394887,630,"Mount Sterling, KY",msa,Kentucky,2024-02-29,2024-05-31,2.4
+394477,631,"Clinton, IA",msa,Iowa,2024-02-29,2024-05-31,1.5
+753916,632,"Sandpoint, ID",msa,Idaho,2024-02-29,2024-05-31,3.0
+753865,633,"Bardstown, KY",msa,Kentucky,2024-02-29,2024-05-31,2.6
+395201,634,"Wapakoneta, OH",msa,Ohio,2024-02-29,2024-05-31,2.9
+394987,635,"Plymouth, IN",msa,Indiana,2024-02-29,2024-05-31,3.2
+394789,636,"Lewistown, PA",msa,Pennsylvania,2024-02-29,2024-05-31,3.1
+394379,637,"Bemidji, MN",msa,Minnesota,2024-02-29,2024-05-31,2.5
+394377,638,"Bellefontaine, OH",msa,Ohio,2024-02-29,2024-05-31,2.9
+395087,639,"Seymour, IN",msa,Indiana,2024-02-29,2024-05-31,3.0
+394426,640,"Burley, ID",msa,Idaho,2024-02-29,2024-05-31,2.7
+394548,641,"Durant, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.8
+394883,642,"Moultrie, GA",msa,Georgia,2024-02-29,2024-05-31,2.3
+394398,643,"Bogalusa, LA",msa,Louisiana,2024-02-29,2024-05-31,1.0
+394500,644,"Cornelia, GA",msa,Georgia,2024-02-29,2024-05-31,3.2
+753889,645,"Hillsdale, MI",msa,Michigan,2024-02-29,2024-05-31,2.5
+395155,646,"Thomasville, GA",msa,Georgia,2024-02-29,2024-05-31,2.5
+394961,647,"Paragould, AR",msa,Arkansas,2024-02-29,2024-05-31,2.3
+394650,648,"Greenville, MS",msa,Mississippi,2024-02-29,2024-05-31,-2.4
+394427,649,"Burlington, IA",msa,Iowa,2024-02-29,2024-05-31,2.4
+394817,650,"Madisonville, KY",msa,Kentucky,2024-02-29,2024-05-31,3.4
+394850,651,"Menomonie, WI",msa,Wisconsin,2024-02-29,2024-05-31,2.9
+753918,652,"Shawano, WI",msa,Wisconsin,2024-02-29,2024-05-31,3.7
+395189,653,"Vicksburg, MS",msa,Mississippi,2024-02-29,2024-05-31,2.0
+394375,654,"Bedford, IN",msa,Indiana,2024-02-29,2024-05-31,4.2
+395208,656,"Washington, NC",msa,North Carolina,2024-02-29,2024-05-31,2.6
+394616,657,"Freeport, IL",msa,Illinois,2024-02-29,2024-05-31,3.7
+394667,658,"Harrison, AR",msa,Arkansas,2024-02-29,2024-05-31,2.8
+395037,659,"Rolla, MO",msa,Missouri,2024-02-29,2024-05-31,2.7
+394482,660,"Coldwater, MI",msa,Michigan,2024-02-29,2024-05-31,3.0
+753904,661,"Marion, NC",msa,North Carolina,2024-02-29,2024-05-31,2.7
+394695,662,"Huntingdon, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.8
+394567,663,"Ellensburg, WA",msa,Washington,2024-02-29,2024-05-31,2.1
+394990,664,"Ponca City, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.4
+394779,665,"Lawrenceburg, TN",msa,Tennessee,2024-02-29,2024-05-31,2.9
+394842,666,"McAlester, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.4
+394886,667,"Mount Pleasant, TX",msa,Texas,2024-02-29,2024-05-31,2.4
+395228,668,"Willmar, MN",msa,Minnesota,2024-02-29,2024-05-31,2.6
+395034,669,"Rockingham, NC",msa,North Carolina,2024-02-29,2024-05-31,2.4
+394895,670,"Muscatine, IA",msa,Iowa,2024-02-29,2024-05-31,2.3
+394785,671,"Lewisburg, PA",msa,Pennsylvania,2024-02-29,2024-05-31,2.4
+394349,672,"Auburn, IN",msa,Indiana,2024-02-29,2024-05-31,2.5
+394545,673,"Duncan, OK",msa,Oklahoma,2024-02-29,2024-05-31,3.1
+395081,674,"Sedalia, MO",msa,Missouri,2024-02-29,2024-05-31,3.6
+394448,675,"Cedartown, GA",msa,Georgia,2024-02-29,2024-05-31,3.4
+394677,676,"Henderson, NC",msa,North Carolina,2024-02-29,2024-05-31,2.3
+394297,677,"Aberdeen, SD",msa,South Dakota,2024-02-29,2024-05-31,2.2
+395032,678,"Rock Springs, WY",msa,Wyoming,2024-02-29,2024-05-31,1.7
+394627,679,"Garden City, KS",msa,Kansas,2024-02-29,2024-05-31,2.2
+395129,680,"Stephenville, TX",msa,Texas,2024-02-29,2024-05-31,3.2
+394449,681,"Celina, OH",msa,Ohio,2024-02-29,2024-05-31,3.5
+395230,682,"Wilmington, OH",msa,Ohio,2024-02-29,2024-05-31,3.6
+394424,683,"Bucyrus, OH",msa,Ohio,2024-02-29,2024-05-31,3.2
+394319,684,"Alma, MI",msa,Michigan,2024-02-29,2024-05-31,2.5
+394558,685,"El Campo, TX",msa,Texas,2024-02-29,2024-05-31,1.9
+394891,686,"Mountain Home, AR",msa,Arkansas,2024-02-29,2024-05-31,2.6
+394624,687,"Gainesville, TX",msa,Texas,2024-02-29,2024-05-31,2.7
+395158,688,"Tifton, GA",msa,Georgia,2024-02-29,2024-05-31,2.4
+394397,689,"Blytheville, AR",msa,Arkansas,2024-02-29,2024-05-31,1.2
+394845,690,"McMinnville, TN",msa,Tennessee,2024-02-29,2024-05-31,3.1
+394341,691,"Astoria, OR",msa,Oregon,2024-02-29,2024-05-31,2.3
+394409,692,"Bradford, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.4
+394574,693,"Espa-¦ola, NM",msa,New Mexico,2024-02-29,2024-05-31,2.3
+394844,694,"McComb, MS",msa,Mississippi,2024-02-29,2024-05-31,0.2
+753866,695,"Big Stone Gap, VA",msa,Virginia,2024-02-29,2024-05-31,2.4
+394833,696,"Marshalltown, IA",msa,Iowa,2024-02-29,2024-05-31,2.4
+394384,697,"Big Rapids, MI",msa,Michigan,2024-02-29,2024-05-31,3.0
+394354,698,"Austin, MN",msa,Minnesota,2024-02-29,2024-05-31,3.2
+395082,699,"Selinsgrove, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.1
+395219,700,"West Plains, MO",msa,Missouri,2024-02-29,2024-05-31,2.9
+394934,701,"Okeechobee, FL",msa,Florida,2024-02-29,2024-05-31,3.2
+394690,702,"Houghton, MI",msa,Michigan,2024-02-29,2024-05-31,3.0
+394881,703,"Moscow, ID",msa,Idaho,2024-02-29,2024-05-31,2.8
+394476,704,"Clewiston, FL",msa,Florida,2024-02-29,2024-05-31,3.8
+395026,705,"Riverton, WY",msa,Wyoming,2024-02-29,2024-05-31,1.4
+394560,706,"El Dorado, AR",msa,Arkansas,2024-02-29,2024-05-31,1.2
+395083,707,"Selma, AL",msa,Alabama,2024-02-29,2024-05-31,0.7
+394981,708,"Pittsburg, KS",msa,Kansas,2024-02-29,2024-05-31,3.3
+394663,709,"Hannibal, MO",msa,Missouri,2024-02-29,2024-05-31,2.4
+395203,710,"Warren, PA",msa,Pennsylvania,2024-02-29,2024-05-31,3.5
+394315,711,"Alexandria, MN",msa,Minnesota,2024-02-29,2024-05-31,2.7
+395178,712,"Urbana, OH",msa,Ohio,2024-02-29,2024-05-31,2.9
+394654,713,"Greenwood, MS",msa,Mississippi,2024-02-29,2024-05-31,1.9
+394434,714,"Cambridge, OH",msa,Ohio,2024-02-29,2024-05-31,3.0
+395227,715,"Williston, ND",msa,North Dakota,2024-02-29,2024-05-31,4.4
+394526,716,"Defiance, OH",msa,Ohio,2024-02-29,2024-05-31,2.8
+395099,717,"Sikeston, MO",msa,Missouri,2024-02-29,2024-05-31,1.9
+395046,718,"Safford, AZ",msa,Arizona,2024-02-29,2024-05-31,2.1
+394715,719,"Jacksonville, IL",msa,Illinois,2024-02-29,2024-05-31,2.2
+394300,720,"Ada, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.5
+394422,721,"Brownwood, TX",msa,Texas,2024-02-29,2024-05-31,2.3
+394507,722,"Crawfordsville, IN",msa,Indiana,2024-02-29,2024-05-31,3.4
+394801,723,"Logansport, IN",msa,Indiana,2024-02-29,2024-05-31,2.8
+395072,724,"Scottsbluff, NE",msa,Nebraska,2024-02-29,2024-05-31,2.3
+394904,725,"Natchitoches, LA",msa,Louisiana,2024-02-29,2024-05-31,-0.5
+394914,726,"Newberry, SC",msa,South Carolina,2024-02-29,2024-05-31,1.8
+394799,727,"Lock Haven, PA",msa,Pennsylvania,2024-02-29,2024-05-31,1.9
+394451,728,"Centralia, IL",msa,Illinois,2024-02-29,2024-05-31,2.7
+394554,729,"Easton, MD",msa,Maryland,2024-02-29,2024-05-31,2.1
+394948,730,"Owatonna, MN",msa,Minnesota,2024-02-29,2024-05-31,2.9
+394888,731,"Mount Vernon, IL",msa,Illinois,2024-02-29,2024-05-31,2.4
+394771,733,"Laramie, WY",msa,Wyoming,2024-02-29,2024-05-31,2.1
+394894,734,"Murray, KY",msa,Kentucky,2024-02-29,2024-05-31,1.3
+394617,735,"Fremont, NE",msa,Nebraska,2024-02-29,2024-05-31,3.5
+394382,736,"Bennington, VT",msa,Vermont,2024-02-29,2024-05-31,3.0
+395069,738,"Sault Ste. Marie, MI",msa,Michigan,2024-02-29,2024-05-31,3.5
+394436,739,"Campbellsville, KY",msa,Kentucky,2024-02-29,2024-05-31,2.9
+394550,740,"Dyersburg, TN",msa,Tennessee,2024-02-29,2024-05-31,2.0
+394573,742,"Escanaba, MI",msa,Michigan,2024-02-29,2024-05-31,3.3
+394840,743,"Mayfield, KY",msa,Kentucky,2024-02-29,2024-05-31,3.4
+394745,744,"Kill Devil Hills, NC",msa,North Carolina,2024-02-29,2024-05-31,3.0
+395137,745,"Sulphur Springs, TX",msa,Texas,2024-02-29,2024-05-31,2.5
+394702,746,"Hutchinson, MN",msa,Minnesota,2024-02-29,2024-05-31,2.6
+394506,747,"Coshocton, OH",msa,Ohio,2024-02-29,2024-05-31,3.5
+394696,748,"Huntington, IN",msa,Indiana,2024-02-29,2024-05-31,2.7
+394522,749,"DeRidder, LA",msa,Louisiana,2024-02-29,2024-05-31,-0.4
+395192,750,"Vincennes, IN",msa,Indiana,2024-02-29,2024-05-31,3.1
+394370,751,"Bay City, TX",msa,Texas,2024-02-29,2024-05-31,1.6
+394920,752,"North Platte, NE",msa,Nebraska,2024-02-29,2024-05-31,2.5
+394973,753,"Peru, IN",msa,Indiana,2024-02-29,2024-05-31,2.6
+394992,754,"Pontiac, IL",msa,Illinois,2024-02-29,2024-05-31,2.5
+394781,755,"Lebanon, MO",msa,Missouri,2024-02-29,2024-05-31,2.8
+394915,756,"Newport, TN",msa,Tennessee,2024-02-29,2024-05-31,2.3
+394525,757,"Decatur, IN",msa,Indiana,2024-02-29,2024-05-31,2.8
+395191,758,"Vidalia, GA",msa,Georgia,2024-02-29,2024-05-31,2.6
+394413,759,"Brenham, TX",msa,Texas,2024-02-29,2024-05-31,1.9
+395187,760,"Vernal, UT",msa,Utah,2024-02-29,2024-05-31,3.1
+394947,762,"Ottumwa, IA",msa,Iowa,2024-02-29,2024-05-31,2.5
+394430,764,"Butte, MT",msa,Montana,2024-02-29,2024-05-31,3.9
+394499,765,"Corinth, MS",msa,Mississippi,2024-02-29,2024-05-31,1.5
+394417,766,"Brookhaven, MS",msa,Mississippi,2024-02-29,2024-05-31,1.5
+394569,767,"Emporia, KS",msa,Kansas,2024-02-29,2024-05-31,2.7
+394713,768,"Jackson, WY",msa,Wyoming,2024-02-29,2024-05-31,2.9
+394385,770,"Big Spring, TX",msa,Texas,2024-02-29,2024-05-31,1.4
+394557,771,"Effingham, IL",msa,Illinois,2024-02-29,2024-05-31,2.4
+394536,772,"Dodge City, KS",msa,Kansas,2024-02-29,2024-05-31,3.5
+395211,773,"Watertown, SD",msa,South Dakota,2024-02-29,2024-05-31,2.8
+394331,774,"Angola, IN",msa,Indiana,2024-02-29,2024-05-31,3.0
+394535,775,"Dixon, IL",msa,Illinois,2024-02-29,2024-05-31,3.1
+394777,776,"Laurinburg, NC",msa,North Carolina,2024-02-29,2024-05-31,3.1
+395149,777,"Taos, NM",msa,New Mexico,2024-02-29,2024-05-31,1.8
+394419,778,"Brookings, SD",msa,South Dakota,2024-02-29,2024-05-31,2.7
+394324,779,"Americus, GA",msa,Georgia,2024-02-29,2024-05-31,2.7
+394491,780,"Columbus, NE",msa,Nebraska,2024-02-29,2024-05-31,2.3
+395150,781,"Taylorville, IL",msa,Illinois,2024-02-29,2024-05-31,2.5
+394335,782,"Arcadia, FL",msa,Florida,2024-02-29,2024-05-31,2.7
+394786,783,"Lewisburg, TN",msa,Tennessee,2024-02-29,2024-05-31,2.7
+395084,784,"Seneca Falls, NY",msa,New York,2024-02-29,2024-05-31,1.7
+394533,785,"Dickinson, ND",msa,North Dakota,2024-02-29,2024-05-31,2.1
+395207,787,"Washington, IN",msa,Indiana,2024-02-29,2024-05-31,2.8
+395165,788,"Troy, AL",msa,Alabama,2024-02-29,2024-05-31,1.5
+753902,789,"Malvern, AR",msa,Arkansas,2024-02-29,2024-05-31,2.1
+394613,790,"Frankfort, IN",msa,Indiana,2024-02-29,2024-05-31,3.6
+394815,791,"Madison, IN",msa,Indiana,2024-02-29,2024-05-31,3.0
+394414,792,"Brevard, NC",msa,North Carolina,2024-02-29,2024-05-31,2.9
+395141,793,"Susanville, CA",msa,California,2024-02-29,2024-05-31,1.4
+394835,794,"Martin, TN",msa,Tennessee,2024-02-29,2024-05-31,2.8
+394984,795,"Plainview, TX",msa,Texas,2024-02-29,2024-05-31,1.9
+753878,797,"Dayton, TN",msa,Tennessee,2024-02-29,2024-05-31,3.1
+753892,798,"Jackson, OH",msa,Ohio,2024-02-29,2024-05-31,2.2
+394433,799,"Cambridge, MD",msa,Maryland,2024-02-29,2024-05-31,2.4
+394962,800,"Paris, TN",msa,Tennessee,2024-02-29,2024-05-31,2.5
+394730,802,"Juneau, AK",msa,Alaska,2024-02-29,2024-05-31,1.2
+394481,803,"Coffeyville, KS",msa,Kansas,2024-02-29,2024-05-31,3.3
+394774,804,"Las Vegas, NM",msa,New Mexico,2024-02-29,2024-05-31,1.4
+394383,805,"Berlin, NH",msa,New Hampshire,2024-02-29,2024-05-31,3.7
+394473,806,"Cleveland, MS",msa,Mississippi,2024-02-29,2024-05-31,-0.1
+394670,807,"Hastings, NE",msa,Nebraska,2024-02-29,2024-05-31,3.2
+394376,808,"Beeville, TX",msa,Texas,2024-02-29,2024-05-31,0.5
+394749,809,"Kingsville, TX",msa,Texas,2024-02-29,2024-05-31,1.8
+395196,810,"Wabash, IN",msa,Indiana,2024-02-29,2024-05-31,3.0
+753871,811,"Breckenridge, CO",msa,Colorado,2024-02-29,2024-05-31,1.4
+394310,814,"Albert Lea, MN",msa,Minnesota,2024-02-29,2024-05-31,3.9
+395093,815,"Sheridan, WY",msa,Wyoming,2024-02-29,2024-05-31,2.2
+395176,816,"Union City, TN",msa,Tennessee,2024-02-29,2024-05-31,2.0
+394855,817,"Miami, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.5
+394708,818,"Iron Mountain, MI",msa,Michigan,2024-02-29,2024-05-31,3.0
+394725,819,"Jesup, GA",msa,Georgia,2024-02-29,2024-05-31,2.8
+394846,820,"McPherson, KS",msa,Kansas,2024-02-29,2024-05-31,2.2
+394751,821,"Kirksville, MO",msa,Missouri,2024-02-29,2024-05-31,2.1
+753901,822,"Ludington, MI",msa,Michigan,2024-02-29,2024-05-31,3.4
+394356,823,"Bainbridge, GA",msa,Georgia,2024-02-29,2024-05-31,3.2
+394320,824,"Alpena, MI",msa,Michigan,2024-02-29,2024-05-31,3.4
+395206,825,"Washington Court House, OH",msa,Ohio,2024-02-29,2024-05-31,2.5
+394673,826,"Hays, KS",msa,Kansas,2024-02-29,2024-05-31,2.0
+394606,827,"Fort Morgan, CO",msa,Colorado,2024-02-29,2024-05-31,2.2
+395185,828,"Van Wert, OH",msa,Ohio,2024-02-29,2024-05-31,3.5
+394740,830,"Kennett, MO",msa,Missouri,2024-02-29,2024-05-31,0.2
+753926,831,"Weatherford, OK",msa,Oklahoma,2024-02-29,2024-05-31,1.6
+394892,832,"Mountain Home, ID",msa,Idaho,2024-02-29,2024-05-31,3.1
+394864,833,"Mineral Wells, TX",msa,Texas,2024-02-29,2024-05-31,2.6
+394795,834,"Lincoln, IL",msa,Illinois,2024-02-29,2024-05-31,1.9
+395100,835,"Silver City, NM",msa,New Mexico,2024-02-29,2024-05-31,1.9
+753879,836,"Elkins, WV",msa,West Virginia,2024-02-29,2024-05-31,2.5
+394812,838,"Macomb, IL",msa,Illinois,2024-02-29,2024-05-31,2.0
+394435,839,"Camden, AR",msa,Arkansas,2024-02-29,2024-05-31,1.5
+394508,840,"Crescent City, CA",msa,California,2024-02-29,2024-05-31,2.1
+394921,841,"North Vernon, IN",msa,Indiana,2024-02-29,2024-05-31,3.1
+395154,843,"Thomaston, GA",msa,Georgia,2024-02-29,2024-05-31,4.0
+394642,845,"Grants, NM",msa,New Mexico,2024-02-29,2024-05-31,2.4
+394381,846,"Bennettsville, SC",msa,South Carolina,2024-02-29,2024-05-31,0.3
+394615,847,"Fredericksburg, TX",msa,Texas,2024-02-29,2024-05-31,2.2
+395159,848,"Toccoa, GA",msa,Georgia,2024-02-29,2024-05-31,3.9
+753923,849,"The Dalles, OR",msa,Oregon,2024-02-29,2024-05-31,2.5
+394649,850,"Greensburg, IN",msa,Indiana,2024-02-29,2024-05-31,2.8
+394706,851,"Indianola, MS",msa,Mississippi,2024-02-29,2024-05-31,2.3
+394758,852,"La Grande, OR",msa,Oregon,2024-02-29,2024-05-31,2.6
+753909,854,"Ottawa, KS",msa,Kansas,2024-02-29,2024-05-31,3.8
+394912,855,"New Ulm, MN",msa,Minnesota,2024-02-29,2024-05-31,2.5
+394791,856,"Lexington, NE",msa,Nebraska,2024-02-29,2024-05-31,3.0
+394643,857,"Great Bend, KS",msa,Kansas,2024-02-29,2024-05-31,3.3
+395110,858,"Spearfish, SD",msa,South Dakota,2024-02-29,2024-05-31,2.6
+395214,859,"Wauchula, FL",msa,Florida,2024-02-29,2024-05-31,3.8
+394830,860,"Marshall, MN",msa,Minnesota,2024-02-29,2024-05-31,2.1
+394529,861,"Deming, NM",msa,New Mexico,2024-02-29,2024-05-31,1.9
+394854,862,"Mexico, MO",msa,Missouri,2024-02-29,2024-05-31,3.1
+394584,863,"Fallon, NV",msa,Nevada,2024-02-29,2024-05-31,1.8
+394322,864,"Altus, OK",msa,Oklahoma,2024-02-29,2024-05-31,1.7
+395181,865,"Uvalde, TX",msa,Texas,2024-02-29,2024-05-31,2.4
+753884,866,"Hailey, ID",msa,Idaho,2024-02-29,2024-05-31,2.6
+753921,867,"Steamboat Springs, CO",msa,Colorado,2024-02-29,2024-05-31,4.2
+395138,868,"Summerville, GA",msa,Georgia,2024-02-29,2024-05-31,3.1
+394869,869,"Moberly, MO",msa,Missouri,2024-02-29,2024-05-31,2.7
+394858,870,"Middlesborough, KY",msa,Kentucky,2024-02-29,2024-05-31,0.0
+395236,871,"Woodward, OK",msa,Oklahoma,2024-02-29,2024-05-31,1.0
+395004,872,"Prineville, OR",msa,Oregon,2024-02-29,2024-05-31,2.6
+394687,875,"Hood River, OR",msa,Oregon,2024-02-29,2024-05-31,2.4
+394601,876,"Forrest City, AR",msa,Arkansas,2024-02-29,2024-05-31,2.3
+394494,877,"Connersville, IN",msa,Indiana,2024-02-29,2024-05-31,3.3
+394868,878,"Mitchell, SD",msa,South Dakota,2024-02-29,2024-05-31,2.9
+394831,879,"Marshall, MO",msa,Missouri,2024-02-29,2024-05-31,0.8
+394418,880,"Brookings, OR",msa,Oregon,2024-02-29,2024-05-31,2.0
+395241,881,"Yankton, SD",msa,South Dakota,2024-02-29,2024-05-31,1.2
+395198,882,"Wahpeton, ND",msa,North Dakota,2024-02-29,2024-05-31,2.6
+394818,883,"Magnolia, AR",msa,Arkansas,2024-02-29,2024-05-31,0.5
+394564,884,"Elk City, OK",msa,Oklahoma,2024-02-29,2024-05-31,0.9
+394793,885,"Liberal, KS",msa,Kansas,2024-02-29,2024-05-31,1.8
+395239,885,"Worthington, MN",msa,Minnesota,2024-02-29,2024-05-31,2.7
+394945,887,"Oskaloosa, IA",msa,Iowa,2024-02-29,2024-05-31,2.7
+394959,888,"Pampa, TX",msa,Texas,2024-02-29,2024-05-31,1.8
+394470,889,"Clarksdale, MS",msa,Mississippi,2024-02-29,2024-05-31,1.2
+395130,890,"Sterling, CO",msa,Colorado,2024-02-29,2024-05-31,2.3
+394371,891,"Beatrice, NE",msa,Nebraska,2024-02-29,2024-05-31,3.1
+394718,892,"Jamestown, ND",msa,North Dakota,2024-02-29,2024-05-31,1.5
+394784,893,"Levelland, TX",msa,Texas,2024-02-29,2024-05-31,1.2
+394656,894,"Grenada, MS",msa,Mississippi,2024-02-29,2024-05-31,1.9
+394837,895,"Maryville, MO",msa,Missouri,2024-02-29,2024-05-31,2.7
+394337,896,"Arkadelphia, AR",msa,Arkansas,2024-02-29,2024-05-31,1.7
+394544,897,"Dumas, TX",msa,Texas,2024-02-29,2024-05-31,0.7
+394659,898,"Guymon, OK",msa,Oklahoma,2024-02-29,2024-05-31,2.2
+394403,899,"Borger, TX",msa,Texas,2024-02-29,2024-05-31,1.8
+394979,900,"Pierre, SD",msa,South Dakota,2024-02-29,2024-05-31,2.2
+394700,901,"Huron, SD",msa,South Dakota,2024-02-29,2024-05-31,1.6
+395135,903,"Storm Lake, IA",msa,Iowa,2024-02-29,2024-05-31,3.1
+394498,905,"Cordele, GA",msa,Georgia,2024-02-29,2024-05-31,2.8
+394578,906,"Evanston, WY",msa,Wyoming,2024-02-29,2024-05-31,2.5
+395014,907,"Raymondville, TX",msa,Texas,2024-02-29,2024-05-31,1.9
+753914,908,"Port Lavaca, TX",msa,Texas,2024-02-29,2024-05-31,1.8
+753908,909,"Othello, WA",msa,Washington,2024-02-29,2024-05-31,3.0
+753925,910,"Vineyard Haven, MA",msa,Massachusetts,2024-02-29,2024-05-31,3.7
+394965,911,"Parsons, KS",msa,Kansas,2024-02-29,2024-05-31,3.1
+395003,912,"Price, UT",msa,Utah,2024-02-29,2024-05-31,3.2
+394996,915,"Portales, NM",msa,New Mexico,2024-02-29,2024-05-31,1.5
+394805,916,"Los Alamos, NM",msa,New Mexico,2024-02-29,2024-05-31,2.5
+394678,918,"Hereford, TX",msa,Texas,2024-02-29,2024-05-31,2.4
+394330,920,"Andrews, TX",msa,Texas,2024-02-29,2024-05-31,1.3
+395112,922,"Spirit Lake, IA",msa,Iowa,2024-02-29,2024-05-31,1.8
+394594,923,"Fitzgerald, GA",msa,Georgia,2024-02-29,2024-05-31,3.4
+753927,924,"Winnemucca, NV",msa,Nevada,2024-02-29,2024-05-31,2.4
+394841,925,"Maysville, KY",msa,Kentucky,2024-02-29,2024-05-31,2.4
+395104,926,"Snyder, TX",msa,Texas,2024-02-29,2024-05-31,0.7
+394676,927,"Helena, AR",msa,Arkansas,2024-02-29,2024-05-31,-1.2
+395111,928,"Spencer, IA",msa,Iowa,2024-02-29,2024-05-31,2.1
+394342,929,"Atchison, KS",msa,Kansas,2024-02-29,2024-05-31,4.8
+753880,930,"Fairfield, IA",msa,Iowa,2024-02-29,2024-05-31,2.4
+395186,932,"Vermillion, SD",msa,South Dakota,2024-02-29,2024-05-31,2.4
+395142,933,"Sweetwater, TX",msa,Texas,2024-02-29,2024-05-31,1.1
+394968,934,"Pecos, TX",msa,Texas,2024-02-29,2024-05-31,0.0
+753929,935,"Zapata, TX",msa,Texas,2024-02-29,2024-05-31,1.4
+394743,936,"Ketchikan, AK",msa,Alaska,2024-02-29,2024-05-31,1.7
+753874,937,"Craig, CO",msa,Colorado,2024-02-29,2024-05-31,2.4
+395188,938,"Vernon, TX",msa,Texas,2024-02-29,2024-05-31,2.0
+394767,939,"Lamesa, TX",msa,Texas,2024-02-29,2024-05-31,1.2
+394913,1,"New York, NY",msa,New York,2024-02-29,2025-02-28,-1.6
+753899,2,"Los Angeles, CA",msa,California,2024-02-29,2025-02-28,-0.9
+394463,3,"Chicago, IL",msa,Illinois,2024-02-29,2025-02-28,-1.0
+394514,4,"Dallas, TX",msa,Texas,2024-02-29,2025-02-28,0.8
+394692,5,"Houston, TX",msa,Texas,2024-02-29,2025-02-28,-0.4
+395209,6,"Washington, DC",msa,Virginia,2024-02-29,2025-02-28,-1.2
+394974,7,"Philadelphia, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.5
+394856,8,"Miami, FL",msa,Florida,2024-02-29,2025-02-28,2.5
+394347,9,"Atlanta, GA",msa,Georgia,2024-02-29,2025-02-28,2.4
+394404,10,"Boston, MA",msa,Massachusetts,2024-02-29,2025-02-28,0.0
+394976,11,"Phoenix, AZ",msa,Arizona,2024-02-29,2025-02-28,3.2
+395057,12,"San Francisco, CA",msa,California,2024-02-29,2025-02-28,-2.6
+395025,13,"Riverside, CA",msa,California,2024-02-29,2025-02-28,1.2
+394532,14,"Detroit, MI",msa,Michigan,2024-02-29,2025-02-28,-0.2
+395078,15,"Seattle, WA",msa,Washington,2024-02-29,2025-02-28,0.7
+394865,16,"Minneapolis, MN",msa,Minnesota,2024-02-29,2025-02-28,-2.0
+395056,17,"San Diego, CA",msa,California,2024-02-29,2025-02-28,2.4
+395148,18,"Tampa, FL",msa,Florida,2024-02-29,2025-02-28,3.2
+394530,19,"Denver, CO",msa,Colorado,2024-02-29,2025-02-28,0.0
+394358,20,"Baltimore, MD",msa,Maryland,2024-02-29,2025-02-28,-1.7
+395121,21,"St. Louis, MO",msa,Missouri,2024-02-29,2025-02-28,0.0
+394943,22,"Orlando, FL",msa,Florida,2024-02-29,2025-02-28,2.0
+394458,23,"Charlotte, NC",msa,North Carolina,2024-02-29,2025-02-28,2.9
+395055,24,"San Antonio, TX",msa,Texas,2024-02-29,2025-02-28,-0.8
+394998,25,"Portland, OR",msa,Oregon,2024-02-29,2025-02-28,-1.1
+395045,26,"Sacramento, CA",msa,California,2024-02-29,2025-02-28,-0.1
+394982,27,"Pittsburgh, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-1.2
+394466,28,"Cincinnati, OH",msa,Ohio,2024-02-29,2025-02-28,0.9
+394355,29,"Austin, TX",msa,Texas,2024-02-29,2025-02-28,0.6
+394775,30,"Las Vegas, NV",msa,Nevada,2024-02-29,2025-02-28,1.0
+394735,31,"Kansas City, MO",msa,Missouri,2024-02-29,2025-02-28,1.1
+394492,32,"Columbus, OH",msa,Ohio,2024-02-29,2025-02-28,2.0
+394705,34,"Indianapolis, IN",msa,Indiana,2024-02-29,2025-02-28,1.6
+394475,35,"Cleveland, OH",msa,Ohio,2024-02-29,2025-02-28,0.6
+395059,36,"San Jose, CA",msa,California,2024-02-29,2025-02-28,-2.8
+394902,37,"Nashville, TN",msa,Tennessee,2024-02-29,2025-02-28,1.6
+395194,38,"Virginia Beach, VA",msa,Virginia,2024-02-29,2025-02-28,-0.3
+395005,39,"Providence, RI",msa,Rhode Island,2024-02-29,2025-02-28,1.4
+394714,40,"Jacksonville, FL",msa,Florida,2024-02-29,2025-02-28,1.9
+394862,41,"Milwaukee, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.0
+394935,42,"Oklahoma City, OK",msa,Oklahoma,2024-02-29,2025-02-28,0.5
+395012,43,"Raleigh, NC",msa,North Carolina,2024-02-29,2025-02-28,2.4
+394849,44,"Memphis, TN",msa,Tennessee,2024-02-29,2025-02-28,1.7
+395022,45,"Richmond, VA",msa,Virginia,2024-02-29,2025-02-28,0.7
+394807,46,"Louisville, KY",msa,Kentucky,2024-02-29,2025-02-28,-0.7
+394910,47,"New Orleans, LA",msa,Louisiana,2024-02-29,2025-02-28,-4.8
+395053,48,"Salt Lake City, UT",msa,Utah,2024-02-29,2025-02-28,1.9
+394669,49,"Hartford, CT",msa,Connecticut,2024-02-29,2025-02-28,2.5
+394425,50,"Buffalo, NY",msa,New York,2024-02-29,2025-02-28,1.6
+394388,51,"Birmingham, AL",msa,Alabama,2024-02-29,2025-02-28,0.4
+395031,52,"Rochester, NY",msa,New York,2024-02-29,2025-02-28,2.8
+394640,53,"Grand Rapids, MI",msa,Michigan,2024-02-29,2025-02-28,1.4
+395167,54,"Tucson, AZ",msa,Arizona,2024-02-29,2025-02-28,2.2
+753924,55,"Urban Honolulu, HI",msa,Hawaii,2024-02-29,2025-02-28,-1.9
+395169,56,"Tulsa, OK",msa,Oklahoma,2024-02-29,2025-02-28,1.2
+394619,57,"Fresno, CA",msa,California,2024-02-29,2025-02-28,0.9
+395238,58,"Worcester, MA",msa,Massachusetts,2024-02-29,2025-02-28,1.7
+394938,59,"Omaha, NE",msa,Nebraska,2024-02-29,2025-02-28,1.3
+394415,60,"Bridgeport, CT",msa,Connecticut,2024-02-29,2025-02-28,1.6
+394653,61,"Greenville, SC",msa,South Carolina,2024-02-29,2025-02-28,1.5
+394312,62,"Albuquerque, NM",msa,New Mexico,2024-02-29,2025-02-28,2.9
+394357,63,"Bakersfield, CA",msa,California,2024-02-29,2025-02-28,1.8
+394308,64,"Albany, NY",msa,New York,2024-02-29,2025-02-28,-0.6
+394753,65,"Knoxville, TN",msa,Tennessee,2024-02-29,2025-02-28,5.0
+394367,66,"Baton Rouge, LA",msa,Louisiana,2024-02-29,2025-02-28,-3.0
+394843,67,"McAllen, TX",msa,Texas,2024-02-29,2025-02-28,3.2
+394908,68,"New Haven, CT",msa,Connecticut,2024-02-29,2025-02-28,2.5
+394561,69,"El Paso, TX",msa,Texas,2024-02-29,2025-02-28,1.6
+394318,70,"Allentown, PA",msa,Pennsylvania,2024-02-29,2025-02-28,1.7
+394952,71,"Oxnard, CA",msa,California,2024-02-29,2025-02-28,-0.2
+394486,72,"Columbia, SC",msa,South Carolina,2024-02-29,2025-02-28,1.8
+753906,73,"North Port, FL",msa,Florida,2024-02-29,2025-02-28,3.1
+394457,75,"Charleston, SC",msa,South Carolina,2024-02-29,2025-02-28,2.3
+394648,76,"Greensboro, NC",msa,North Carolina,2024-02-29,2025-02-28,1.7
+395134,77,"Stockton, CA",msa,California,2024-02-29,2025-02-28,0.2
+394440,78,"Cape Coral, FL",msa,Florida,2024-02-29,2025-02-28,2.7
+394399,79,"Boise City, ID",msa,Idaho,2024-02-29,2025-02-28,4.3
+394484,80,"Colorado Springs, CO",msa,Colorado,2024-02-29,2025-02-28,0.4
+394798,81,"Little Rock, AR",msa,Arkansas,2024-02-29,2025-02-28,-1.1
+394766,82,"Lakeland, FL",msa,Florida,2024-02-29,2025-02-28,2.7
+394304,83,"Akron, OH",msa,Ohio,2024-02-29,2025-02-28,0.3
+394531,84,"Des Moines, IA",msa,Iowa,2024-02-29,2025-02-28,-1.3
+395115,85,"Springfield, MA",msa,Massachusetts,2024-02-29,2025-02-28,0.6
+394931,87,"Ogden, UT",msa,Utah,2024-02-29,2025-02-28,2.7
+394816,88,"Madison, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.0
+395235,89,"Winston, NC",msa,North Carolina,2024-02-29,2025-02-28,1.8
+394528,90,"Deltona, FL",msa,Florida,2024-02-29,2025-02-28,2.0
+395143,91,"Syracuse, NY",msa,New York,2024-02-29,2025-02-28,2.5
+395006,92,"Provo, UT",msa,Utah,2024-02-29,2025-02-28,2.1
+395160,93,"Toledo, OH",msa,Ohio,2024-02-29,2025-02-28,0.0
+395224,94,"Wichita, KS",msa,Kansas,2024-02-29,2025-02-28,1.1
+394549,95,"Durham, NC",msa,North Carolina,2024-02-29,2025-02-28,2.4
+394352,96,"Augusta, GA",msa,Georgia,2024-02-29,2025-02-28,1.3
+394957,97,"Palm Bay, FL",msa,Florida,2024-02-29,2025-02-28,2.0
+394711,98,"Jackson, MS",msa,Mississippi,2024-02-29,2025-02-28,-1.4
+394666,99,"Harrisburg, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.5
+395113,100,"Spokane, WA",msa,Washington,2024-02-29,2025-02-28,2.1
+395075,101,"Scranton, PA",msa,Pennsylvania,2024-02-29,2025-02-28,1.1
+394460,102,"Chattanooga, TN",msa,Tennessee,2024-02-29,2025-02-28,2.2
+394871,103,"Modesto, CA",msa,California,2024-02-29,2025-02-28,0.6
+394768,104,"Lancaster, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.6
+394997,105,"Portland, ME",msa,Maine,2024-02-29,2025-02-28,2.9
+395245,106,"Youngstown, OH",msa,Ohio,2024-02-29,2025-02-28,1.2
+394770,107,"Lansing, MI",msa,Michigan,2024-02-29,2025-02-28,0.1
+394590,108,"Fayetteville, AR",msa,Arkansas,2024-02-29,2025-02-28,3.0
+394589,109,"Fayetteville, NC",msa,North Carolina,2024-02-29,2025-02-28,3.0
+394792,110,"Lexington, KY",msa,Kentucky,2024-02-29,2025-02-28,1.0
+394971,111,"Pensacola, FL",msa,Florida,2024-02-29,2025-02-28,2.8
+395068,112,"Santa Rosa, CA",msa,California,2024-02-29,2025-02-28,-3.0
+395019,113,"Reno, NV",msa,Nevada,2024-02-29,2025-02-28,0.5
+394698,114,"Huntsville, AL",msa,Alabama,2024-02-29,2025-02-28,2.4
+394995,115,"Port St. Lucie, FL",msa,Florida,2024-02-29,2025-02-28,3.3
+394761,116,"Lafayette, LA",msa,Louisiana,2024-02-29,2025-02-28,-5.4
+394898,117,"Myrtle Beach, SC",msa,South Carolina,2024-02-29,2025-02-28,2.5
+395116,118,"Springfield, MO",msa,Missouri,2024-02-29,2025-02-28,2.3
+395195,119,"Visalia, CA",msa,California,2024-02-29,2025-02-28,0.6
+394746,120,"Killeen, TX",msa,Texas,2024-02-29,2025-02-28,1.4
+394338,121,"Asheville, NC",msa,North Carolina,2024-02-29,2025-02-28,1.5
+395244,122,"York, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.8
+395183,123,"Vallejo, CA",msa,California,2024-02-29,2025-02-28,-1.4
+753917,124,"Santa Maria, CA",msa,California,2024-02-29,2025-02-28,2.5
+395050,125,"Salinas, CA",msa,California,2024-02-29,2025-02-28,0.7
+395048,126,"Salem, OR",msa,Oregon,2024-02-29,2025-02-28,-0.1
+394870,127,"Mobile, AL",msa,Alabama,2024-02-29,2025-02-28,0.5
+395015,128,"Reading, PA",msa,Pennsylvania,2024-02-29,2025-02-28,1.8
+394502,129,"Corpus Christi, TX",msa,Texas,2024-02-29,2025-02-28,-2.1
+394421,130,"Brownsville, TX",msa,Texas,2024-02-29,2025-02-28,2.5
+394820,131,"Manchester, NH",msa,New Hampshire,2024-02-29,2025-02-28,2.7
+394612,132,"Fort Wayne, IN",msa,Indiana,2024-02-29,2025-02-28,2.2
+394658,133,"Gulfport, MS",msa,Mississippi,2024-02-29,2025-02-28,-0.2
+395051,134,"Salisbury, MD",msa,Delaware,2024-02-29,2025-02-28,0.9
+394596,135,"Flint, MI",msa,Michigan,2024-02-29,2025-02-28,1.1
+394972,136,"Peoria, IL",msa,Illinois,2024-02-29,2025-02-28,-1.1
+394439,137,"Canton, OH",msa,Ohio,2024-02-29,2025-02-28,0.6
+395070,138,"Savannah, GA",msa,Georgia,2024-02-29,2025-02-28,2.8
+394327,139,"Anchorage, AK",msa,Alaska,2024-02-29,2025-02-28,-3.3
+394372,140,"Beaumont, TX",msa,Texas,2024-02-29,2025-02-28,-4.7
+395096,141,"Shreveport, LA",msa,Louisiana,2024-02-29,2025-02-28,-4.7
+395164,142,"Trenton, NJ",msa,New Jersey,2024-02-29,2025-02-28,2.4
+394875,143,"Montgomery, AL",msa,Alabama,2024-02-29,2025-02-28,-0.9
+394520,144,"Davenport, IA",msa,Illinois,2024-02-29,2025-02-28,-2.3
+395146,145,"Tallahassee, FL",msa,Florida,2024-02-29,2025-02-28,0.8
+394576,146,"Eugene, OR",msa,Oregon,2024-02-29,2025-02-28,0.2
+394901,147,"Naples, FL",msa,Florida,2024-02-29,2025-02-28,3.6
+394332,148,"Ann Arbor, MI",msa,Michigan,2024-02-29,2025-02-28,-1.4
+394927,149,"Ocala, FL",msa,Florida,2024-02-29,2025-02-28,3.3
+394679,150,"Hickory, NC",msa,North Carolina,2024-02-29,2025-02-28,3.1
+394697,151,"Huntington, WV",msa,Ohio,2024-02-29,2025-02-28,-2.2
+394602,152,"Fort Collins, CO",msa,Colorado,2024-02-29,2025-02-28,-0.8
+395033,153,"Rockford, IL",msa,Illinois,2024-02-29,2025-02-28,1.9
+394796,154,"Lincoln, NE",msa,Nebraska,2024-02-29,2025-02-28,0.0
+394622,155,"Gainesville, FL",msa,Florida,2024-02-29,2025-02-28,1.7
+394405,156,"Boulder, CO",msa,Colorado,2024-02-29,2025-02-28,-0.7
+394646,157,"Green Bay, WI",msa,Wisconsin,2024-02-29,2025-02-28,1.3
+394488,158,"Columbus, GA",msa,Georgia,2024-02-29,2025-02-28,0.8
+395107,159,"South Bend, IN",msa,Indiana,2024-02-29,2025-02-28,1.4
+395109,160,"Spartanburg, SC",msa,South Carolina,2024-02-29,2025-02-28,2.7
+394645,161,"Greeley, CO",msa,Colorado,2024-02-29,2025-02-28,-1.0
+394808,162,"Lubbock, TX",msa,Texas,2024-02-29,2025-02-28,-0.7
+394471,163,"Clarksville, TN",msa,Tennessee,2024-02-29,2025-02-28,2.6
+395028,164,"Roanoke, VA",msa,Virginia,2024-02-29,2025-02-28,1.5
+394579,165,"Evansville, IN",msa,Indiana,2024-02-29,2025-02-28,0.3
+394747,167,"Kingsport, TN",msa,Tennessee,2024-02-29,2025-02-28,2.5
+394741,168,"Kennewick, WA",msa,Washington,2024-02-29,2025-02-28,0.9
+395179,169,"Utica, NY",msa,New York,2024-02-29,2025-02-28,1.5
+394660,170,"Hagerstown, MD",msa,Maryland,2024-02-29,2025-02-28,1.0
+394543,171,"Duluth, MN",msa,Minnesota,2024-02-29,2025-02-28,0.1
+394937,172,"Olympia, WA",msa,Washington,2024-02-29,2025-02-28,2.1
+394803,173,"Longview, TX",msa,Texas,2024-02-29,2025-02-28,-1.4
+395229,174,"Wilmington, NC",msa,North Carolina,2024-02-29,2025-02-28,2.9
+395061,175,"San Luis Obispo, CA",msa,California,2024-02-29,2025-02-28,-0.2
+753875,176,"Crestview, FL",msa,Florida,2024-02-29,2025-02-28,1.5
+394851,177,"Merced, CA",msa,California,2024-02-29,2025-02-28,1.0
+395197,178,"Waco, TX",msa,Texas,2024-02-29,2025-02-28,1.8
+394447,179,"Cedar Rapids, IA",msa,Iowa,2024-02-29,2025-02-28,-1.4
+394348,180,"Atlantic City, NJ",msa,New Jersey,2024-02-29,2025-02-28,4.1
+394412,181,"Bremerton, WA",msa,Washington,2024-02-29,2025-02-28,0.1
+395103,182,"Sioux Falls, SD",msa,South Dakota,2024-02-29,2025-02-28,0.7
+395065,183,"Santa Cruz, CA",msa,California,2024-02-29,2025-02-28,-0.2
+394572,184,"Erie, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.5
+394924,185,"Norwich, CT",msa,Connecticut,2024-02-29,2025-02-28,2.8
+394323,186,"Amarillo, TX",msa,Texas,2024-02-29,2025-02-28,-0.1
+394772,187,"Laredo, TX",msa,Texas,2024-02-29,2025-02-28,-2.4
+395171,188,"Tuscaloosa, AL",msa,Alabama,2024-02-29,2025-02-28,-0.9
+394483,189,"College Station, TX",msa,Texas,2024-02-29,2025-02-28,-2.0
+394732,190,"Kalamazoo, MI",msa,Michigan,2024-02-29,2025-02-28,0.1
+394811,191,"Lynchburg, VA",msa,Virginia,2024-02-29,2025-02-28,1.1
+394455,192,"Charleston, WV",msa,West Virginia,2024-02-29,2025-02-28,-1.5
+395240,193,"Yakima, WA",msa,Washington,2024-02-29,2025-02-28,1.2
+394585,194,"Fargo, ND",msa,North Dakota,2024-02-29,2025-02-28,-2.8
+394387,195,"Binghamton, NY",msa,New York,2024-02-29,2025-02-28,1.2
+394609,196,"Fort Smith, AR",msa,Arkansas,2024-02-29,2025-02-28,0.0
+394334,197,"Appleton, WI",msa,Wisconsin,2024-02-29,2025-02-28,1.1
+395161,199,"Topeka, KS",msa,Kansas,2024-02-29,2025-02-28,1.5
+394813,200,"Macon, GA",msa,Georgia,2024-02-29,2025-02-28,1.8
+395174,201,"Tyler, TX",msa,Texas,2024-02-29,2025-02-28,1.4
+394361,202,"Barnstable Town, MA",msa,Massachusetts,2024-02-29,2025-02-28,2.7
+394519,203,"Daphne, AL",msa,Alabama,2024-02-29,2025-02-28,1.7
+394378,205,"Bellingham, WA",msa,Washington,2024-02-29,2025-02-28,0.9
+394429,206,"Burlington, VT",msa,Vermont,2024-02-29,2025-02-28,0.6
+395030,207,"Rochester, MN",msa,Minnesota,2024-02-29,2025-02-28,-0.9
+753895,208,"Lafayette, IN",msa,Indiana,2024-02-29,2025-02-28,1.6
+394454,209,"Champaign, IL",msa,Illinois,2024-02-29,2025-02-28,-2.0
+394848,210,"Medford, OR",msa,Oregon,2024-02-29,2025-02-28,-1.6
+394459,212,"Charlottesville, VA",msa,Virginia,2024-02-29,2025-02-28,-0.1
+394763,213,"Lake Charles, LA",msa,Louisiana,2024-02-29,2025-02-28,-8.4
+394773,214,"Las Cruces, NM",msa,New Mexico,2024-02-29,2025-02-28,1.6
+394464,215,"Chico, CA",msa,California,2024-02-29,2025-02-28,-2.9
+394681,216,"Hilton Head Island, SC",msa,South Carolina,2024-02-29,2025-02-28,3.2
+394346,217,"Athens, GA",msa,Georgia,2024-02-29,2025-02-28,3.2
+394765,218,"Lake Havasu City, AZ",msa,Arizona,2024-02-29,2025-02-28,1.8
+394485,219,"Columbia, MO",msa,Missouri,2024-02-29,2025-02-28,0.7
+395114,220,"Springfield, IL",msa,Illinois,2024-02-29,2025-02-28,-2.9
+394691,221,"Houma, LA",msa,Louisiana,2024-02-29,2025-02-28,-6.9
+394872,222,"Monroe, LA",msa,Louisiana,2024-02-29,2025-02-28,-4.1
+394565,223,"Elkhart, IN",msa,Indiana,2024-02-29,2025-02-28,0.5
+394726,224,"Johnson City, TN",msa,Tennessee,2024-02-29,2025-02-28,3.0
+395247,225,"Yuma, AZ",msa,Arizona,2024-02-29,2025-02-28,3.4
+394623,226,"Gainesville, GA",msa,Georgia,2024-02-29,2025-02-28,3.3
+394716,227,"Jacksonville, NC",msa,North Carolina,2024-02-29,2025-02-28,2.3
+394597,228,"Florence, SC",msa,South Carolina,2024-02-29,2025-02-28,0.1
+394680,229,"Hilo, HI",msa,Hawaii,2024-02-29,2025-02-28,0.7
+395118,230,"St. Cloud, MN",msa,Minnesota,2024-02-29,2025-02-28,0.0
+395011,231,"Racine, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.2
+394380,232,"Bend, OR",msa,Oregon,2024-02-29,2025-02-28,2.3
+395047,233,"Saginaw, MI",msa,Michigan,2024-02-29,2025-02-28,2.6
+395202,234,"Warner Robins, GA",msa,Georgia,2024-02-29,2025-02-28,1.7
+395151,235,"Terre Haute, IN",msa,Indiana,2024-02-29,2025-02-28,0.2
+395162,236,"Torrington, CT",msa,Connecticut,2024-02-29,2025-02-28,3.1
+395009,237,"Punta Gorda, FL",msa,Florida,2024-02-29,2025-02-28,2.8
+394386,239,"Billings, MT",msa,Montana,2024-02-29,2025-02-28,1.2
+395018,240,"Redding, CA",msa,California,2024-02-29,2025-02-28,-0.9
+394748,241,"Kingston, NY",msa,New York,2024-02-29,2025-02-28,4.1
+394960,242,"Panama City, FL",msa,Florida,2024-02-29,2025-02-28,2.8
+394729,243,"Joplin, MO",msa,Missouri,2024-02-29,2025-02-28,2.1
+394539,244,"Dover, DE",msa,Delaware,2024-02-29,2025-02-28,1.5
+394559,245,"El Centro, CA",msa,California,2024-02-29,2025-02-28,0.1
+394712,246,"Jackson, TN",msa,Tennessee,2024-02-29,2025-02-28,1.8
+395246,247,"Yuba City, CA",msa,California,2024-02-29,2025-02-28,0.2
+394406,248,"Bowling Green, KY",msa,Kentucky,2024-02-29,2025-02-28,1.2
+395119,249,"St. George, UT",msa,Utah,2024-02-29,2025-02-28,2.2
+394896,250,"Muskegon, MI",msa,Michigan,2024-02-29,2025-02-28,2.1
+394299,251,"Abilene, TX",msa,Texas,2024-02-29,2025-02-28,-1.3
+394707,252,"Iowa City, IA",msa,Iowa,2024-02-29,2025-02-28,-2.1
+394351,253,"Auburn, AL",msa,Alabama,2024-02-29,2025-02-28,0.2
+394860,254,"Midland, TX",msa,Texas,2024-02-29,2025-02-28,-3.7
+394671,255,"Hattiesburg, MS",msa,Mississippi,2024-02-29,2025-02-28,-1.7
+753869,255,"Bloomington, IL",msa,Illinois,2024-02-29,2025-02-28,-0.2
+394944,257,"Oshkosh, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.6
+394555,258,"Eau Claire, WI",msa,Wisconsin,2024-02-29,2025-02-28,1.0
+394651,259,"Greenville, NC",msa,North Carolina,2024-02-29,2025-02-28,3.0
+394428,260,"Burlington, NC",msa,North Carolina,2024-02-29,2025-02-28,3.3
+395210,261,"Waterloo, IA",msa,Iowa,2024-02-29,2025-02-28,-1.5
+394480,262,"Coeur d'Alene, ID",msa,Idaho,2024-02-29,2025-02-28,4.4
+394553,263,"East Stroudsburg, PA",msa,Pennsylvania,2024-02-29,2025-02-28,4.0
+395007,264,"Pueblo, CO",msa,Colorado,2024-02-29,2025-02-28,1.0
+394392,265,"Blacksburg, VA",msa,Virginia,2024-02-29,2025-02-28,0.1
+395215,266,"Wausau, WI",msa,Wisconsin,2024-02-29,2025-02-28,-0.4
+394731,267,"Kahului, HI",msa,Hawaii,2024-02-29,2025-02-28,2.4
+394720,268,"Janesville, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.8
+395170,269,"Tupelo, MS",msa,Mississippi,2024-02-29,2025-02-28,-2.4
+394393,270,"Bloomington, IN",msa,Indiana,2024-02-29,2025-02-28,0.7
+394930,271,"Odessa, TX",msa,Texas,2024-02-29,2025-02-28,-3.1
+394710,272,"Jackson, MI",msa,Michigan,2024-02-29,2025-02-28,0.0
+395125,273,"State College, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-1.8
+395079,274,"Sebastian, FL",msa,Florida,2024-02-29,2025-02-28,2.6
+394814,275,"Madera, CA",msa,California,2024-02-29,2025-02-28,0.8
+394523,276,"Decatur, AL",msa,Alabama,2024-02-29,2025-02-28,0.4
+394453,277,"Chambersburg, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-0.3
+395193,278,"Vineland, NJ",msa,New Jersey,2024-02-29,2025-02-28,2.8
+394703,279,"Idaho Falls, ID",msa,Idaho,2024-02-29,2025-02-28,3.6
+394639,280,"Grand Junction, CO",msa,Colorado,2024-02-29,2025-02-28,1.2
+394563,281,"Elizabethtown, KY",msa,Kentucky,2024-02-29,2025-02-28,1.2
+394917,282,"Niles, MI",msa,Michigan,2024-02-29,2025-02-28,0.8
+394873,283,"Monroe, MI",msa,Michigan,2024-02-29,2025-02-28,-1.2
+395066,284,"Santa Fe, NM",msa,New Mexico,2024-02-29,2025-02-28,1.3
+394493,285,"Concord, NH",msa,New Hampshire,2024-02-29,2025-02-28,3.5
+394314,286,"Alexandria, LA",msa,Louisiana,2024-02-29,2025-02-28,-5.7
+395163,287,"Traverse City, MI",msa,Michigan,2024-02-29,2025-02-28,2.5
+394359,288,"Bangor, ME",msa,Maine,2024-02-29,2025-02-28,2.9
+394685,289,"Homosassa Springs, FL",msa,Florida,2024-02-29,2025-02-28,3.3
+394662,290,"Hanford, CA",msa,California,2024-02-29,2025-02-28,0.9
+394723,291,"Jefferson City, MO",msa,Missouri,2024-02-29,2025-02-28,-0.1
+394598,292,"Florence, AL",msa,Alabama,2024-02-29,2025-02-28,1.1
+394537,293,"Dothan, AL",msa,Alabama,2024-02-29,2025-02-28,-0.9
+394802,294,"London, KY",msa,Kentucky,2024-02-29,2025-02-28,-0.4
+394306,295,"Albany, GA",msa,Georgia,2024-02-29,2025-02-28,2.8
+395102,297,"Sioux City, IA",msa,Iowa,2024-02-29,2025-02-28,-0.4
+395223,298,"Wichita Falls, TX",msa,Texas,2024-02-29,2025-02-28,1.4
+395152,299,"Texarkana, TX",msa,Texas,2024-02-29,2025-02-28,-1.4
+395182,300,"Valdosta, GA",msa,Georgia,2024-02-29,2025-02-28,1.7
+394800,301,"Logan, UT",msa,Utah,2024-02-29,2025-02-28,2.9
+394595,302,"Flagstaff, AZ",msa,Arizona,2024-02-29,2025-02-28,3.7
+395036,303,"Rocky Mount, NC",msa,North Carolina,2024-02-29,2025-02-28,3.3
+395000,304,"Pottsville, PA",msa,Pennsylvania,2024-02-29,2025-02-28,3.3
+394515,305,"Dalton, GA",msa,Georgia,2024-02-29,2025-02-28,2.0
+394783,306,"Lebanon, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.5
+394880,307,"Morristown, TN",msa,Tennessee,2024-02-29,2025-02-28,2.5
+395232,308,"Winchester, VA",msa,Virginia,2024-02-29,2025-02-28,0.4
+395221,309,"Wheeling, WV",msa,Ohio,2024-02-29,2025-02-28,-3.0
+394879,310,"Morgantown, WV",msa,West Virginia,2024-02-29,2025-02-28,-2.8
+394756,311,"La Crosse, WI",msa,Wisconsin,2024-02-29,2025-02-28,-0.1
+394900,312,"Napa, CA",msa,California,2024-02-29,2025-02-28,-1.9
+395013,313,"Rapid City, SD",msa,South Dakota,2024-02-29,2025-02-28,1.9
+395139,314,"Sumter, SC",msa,South Carolina,2024-02-29,2025-02-28,-1.3
+394577,315,"Eureka, CA",msa,California,2024-02-29,2025-02-28,-3.9
+395117,316,"Springfield, OH",msa,Ohio,2024-02-29,2025-02-28,1.7
+394668,317,"Harrisonburg, VA",msa,Virginia,2024-02-29,2025-02-28,0.0
+394368,318,"Battle Creek, MI",msa,Michigan,2024-02-29,2025-02-28,2.5
+395094,319,"Sherman, TX",msa,Texas,2024-02-29,2025-02-28,0.9
+394821,320,"Manhattan, KS",msa,Kansas,2024-02-29,2025-02-28,-2.2
+394442,321,"Carbondale, IL",msa,Illinois,2024-02-29,2025-02-28,-3.1
+394727,322,"Johnstown, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-5.7
+394728,323,"Jonesboro, AR",msa,Arkansas,2024-02-29,2025-02-28,-0.7
+394390,324,"Bismarck, ND",msa,North Dakota,2024-02-29,2025-02-28,-2.7
+394661,325,"Hammond, LA",msa,Louisiana,2024-02-29,2025-02-28,-4.1
+394983,326,"Pittsfield, MA",msa,Massachusetts,2024-02-29,2025-02-28,2.3
+394890,327,"Mount Vernon, WA",msa,Washington,2024-02-29,2025-02-28,1.1
+394719,328,"Jamestown, NY",msa,New York,2024-02-29,2025-02-28,2.8
+395153,329,"The Villages, FL",msa,Florida,2024-02-29,2025-02-28,0.2
+394307,330,"Albany, OR",msa,Oregon,2024-02-29,2025-02-28,0.9
+394633,331,"Glens Falls, NY",msa,New York,2024-02-29,2025-02-28,0.6
+394780,332,"Lawton, OK",msa,Oklahoma,2024-02-29,2025-02-28,-0.8
+394474,334,"Cleveland, TN",msa,Tennessee,2024-02-29,2025-02-28,3.1
+395098,335,"Sierra Vista, AZ",msa,Arizona,2024-02-29,2025-02-28,1.8
+394325,336,"Ames, IA",msa,Iowa,2024-02-29,2025-02-28,-2.3
+394824,337,"Mansfield, OH",msa,Ohio,2024-02-29,2025-02-28,2.0
+395128,338,"Staunton, VA",msa,Virginia,2024-02-29,2025-02-28,0.1
+394353,339,"Augusta, ME",msa,Maine,2024-02-29,2025-02-28,4.3
+394321,340,"Altoona, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-4.7
+394905,341,"New Bern, NC",msa,North Carolina,2024-02-29,2025-02-28,2.5
+394588,342,"Farmington, NM",msa,New Mexico,2024-02-29,2025-02-28,-1.8
+395120,343,"St. Joseph, MO",msa,Missouri,2024-02-29,2025-02-28,-0.7
+395054,344,"San Angelo, TX",msa,Texas,2024-02-29,2025-02-28,-0.2
+395218,345,"Wenatchee, WA",msa,Washington,2024-02-29,2025-02-28,0.3
+394949,346,"Owensboro, KY",msa,Kentucky,2024-02-29,2025-02-28,0.2
+753890,347,"Holland, MI",msa,Michigan,2024-02-29,2025-02-28,0.8
+394810,348,"Lumberton, NC",msa,North Carolina,2024-02-29,2025-02-28,3.8
+394778,349,"Lawrence, KS",msa,Kansas,2024-02-29,2025-02-28,0.1
+394635,350,"Goldsboro, NC",msa,North Carolina,2024-02-29,2025-02-28,-0.1
+395213,351,"Watertown, NY",msa,New York,2024-02-29,2025-02-28,0.0
+395089,352,"Sheboygan, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.7
+395217,353,"Weirton, WV",msa,Ohio,2024-02-29,2025-02-28,-0.4
+394867,354,"Missoula, MT",msa,Montana,2024-02-29,2025-02-28,2.6
+394407,356,"Bozeman, MT",msa,Montana,2024-02-29,2025-02-28,2.5
+394333,357,"Anniston, AL",msa,Alabama,2024-02-29,2025-02-28,-2.8
+394374,358,"Beckley, WV",msa,West Virginia,2024-02-29,2025-02-28,1.9
+395225,359,"Williamsport, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-1.6
+394423,360,"Brunswick, GA",msa,Georgia,2024-02-29,2025-02-28,2.1
+395173,361,"Twin Falls, ID",msa,Idaho,2024-02-29,2025-02-28,3.8
+753872,361,"California, MD",msa,Maryland,2024-02-29,2025-02-28,-2.3
+394495,363,"Cookeville, TN",msa,Tennessee,2024-02-29,2025-02-28,2.5
+394893,364,"Muncie, IN",msa,Indiana,2024-02-29,2025-02-28,2.2
+394857,365,"Michigan City, IN",msa,Indiana,2024-02-29,2025-02-28,1.3
+395039,366,"Roseburg, OR",msa,Oregon,2024-02-29,2025-02-28,1.4
+394788,367,"Lewiston, ME",msa,Maine,2024-02-29,2025-02-28,4.5
+394804,368,"Longview, WA",msa,Washington,2024-02-29,2025-02-28,0.8
+394932,369,"Ogdensburg, NY",msa,New York,2024-02-29,2025-02-28,0.0
+394734,370,"Kankakee, IL",msa,Illinois,2024-02-29,2025-02-28,-0.8
+394396,371,"Bluefield, WV",msa,Virginia,2024-02-29,2025-02-28,1.6
+395095,372,"Show Low, AZ",msa,Arizona,2024-02-29,2025-02-28,3.7
+395023,373,"Richmond, KY",msa,Kentucky,2024-02-29,2025-02-28,0.4
+395168,374,"Tullahoma, TN",msa,Tennessee,2024-02-29,2025-02-28,3.6
+395222,375,"Whitewater, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.6
+394709,376,"Ithaca, NY",msa,New York,2024-02-29,2025-02-28,-0.2
+394637,377,"Grand Forks, ND",msa,Minnesota,2024-02-29,2025-02-28,-3.9
+394524,378,"Decatur, IL",msa,Illinois,2024-02-29,2025-02-28,-1.3
+394762,379,"LaGrange, GA",msa,Georgia,2024-02-29,2025-02-28,2.3
+394369,380,"Bay City, MI",msa,Michigan,2024-02-29,2025-02-28,1.7
+394599,381,"Fond du Lac, WI",msa,Wisconsin,2024-02-29,2025-02-28,1.1
+394630,382,"Gettysburg, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-0.2
+394620,383,"Gadsden, AL",msa,Alabama,2024-02-29,2025-02-28,0.2
+394733,384,"Kalispell, MT",msa,Montana,2024-02-29,2025-02-28,6.5
+394518,385,"Danville, VA",msa,Virginia,2024-02-29,2025-02-28,2.5
+394823,386,"Mankato, MN",msa,Minnesota,2024-02-29,2025-02-28,-1.3
+394794,387,"Lima, OH",msa,Ohio,2024-02-29,2025-02-28,0.6
+753915,388,"Salem, OH",msa,Ohio,2024-02-29,2025-02-28,-0.4
+395166,389,"Truckee, CA",msa,California,2024-02-29,2025-02-28,-2.1
+395080,390,"Sebring, FL",msa,Florida,2024-02-29,2025-02-28,4.0
+394462,391,"Cheyenne, WY",msa,Wyoming,2024-02-29,2025-02-28,-2.1
+394689,392,"Hot Springs, AR",msa,Arkansas,2024-02-29,2025-02-28,2.8
+394302,393,"Adrian, MI",msa,Michigan,2024-02-29,2025-02-28,0.7
+395090,394,"Shelby, NC",msa,North Carolina,2024-02-29,2025-02-28,2.3
+394542,396,"Dubuque, IA",msa,Iowa,2024-02-29,2025-02-28,-0.8
+394852,397,"Meridian, MS",msa,Mississippi,2024-02-29,2025-02-28,-3.7
+753912,398,"Pinehurst, NC",msa,North Carolina,2024-02-29,2025-02-28,3.3
+394953,399,"Paducah, KY",msa,Kentucky,2024-02-29,2025-02-28,-1.3
+395190,400,"Victoria, TX",msa,Texas,2024-02-29,2025-02-28,-1.3
+395038,401,"Rome, GA",msa,Georgia,2024-02-29,2025-02-28,2.3
+395086,402,"Sevierville, TN",msa,Tennessee,2024-02-29,2025-02-28,4.1
+394882,403,"Moses Lake, WA",msa,Washington,2024-02-29,2025-02-28,2.5
+394340,404,"Ashtabula, OH",msa,Ohio,2024-02-29,2025-02-28,1.3
+394441,405,"Cape Girardeau, MO",msa,Missouri,2024-02-29,2025-02-28,-0.5
+394311,406,"Albertville, AL",msa,Alabama,2024-02-29,2025-02-28,1.5
+394580,407,"Fairbanks, AK",msa,Alaska,2024-02-29,2025-02-28,-4.1
+394410,408,"Brainerd, MN",msa,Minnesota,2024-02-29,2025-02-28,1.7
+394513,409,"Cumberland, MD",msa,Maryland,2024-02-29,2025-02-28,-0.9
+394928,410,"Ocean City, NJ",msa,New Jersey,2024-02-29,2025-02-28,3.4
+394505,411,"Corvallis, OR",msa,Oregon,2024-02-29,2025-02-28,-0.1
+394988,412,"Pocatello, ID",msa,Idaho,2024-02-29,2025-02-28,4.5
+394501,413,"Corning, NY",msa,New York,2024-02-29,2025-02-28,-0.5
+394911,414,"New Philadelphia, OH",msa,Ohio,2024-02-29,2025-02-28,-0.2
+395140,415,"Sunbury, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-3.6
+395175,416,"Ukiah, CA",msa,California,2024-02-29,2025-02-28,-6.2
+753887,417,"Hermiston, OR",msa,Oregon,2024-02-29,2025-02-28,1.7
+394469,418,"Clarksburg, WV",msa,West Virginia,2024-02-29,2025-02-28,-2.7
+394964,419,"Parkersburg, WV",msa,West Virginia,2024-02-29,2025-02-28,-1.1
+394373,420,"Beaver Dam, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.3
+394980,421,"Pine Bluff, AR",msa,Arkansas,2024-02-29,2025-02-28,-2.7
+394641,422,"Grants Pass, OR",msa,Oregon,2024-02-29,2025-02-28,-2.0
+394511,424,"Cullman, AL",msa,Alabama,2024-02-29,2025-02-28,0.1
+394809,425,"Lufkin, TX",msa,Texas,2024-02-29,2025-02-28,-0.2
+395248,426,"Zanesville, OH",msa,Ohio,2024-02-29,2025-02-28,1.8
+394907,427,"New Castle, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.6
+394925,428,"Oak Harbor, WA",msa,Washington,2024-02-29,2025-02-28,0.2
+394942,429,"Orangeburg, SC",msa,South Carolina,2024-02-29,2025-02-28,-0.4
+395212,430,"Watertown, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.0
+394847,431,"Meadville, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-1.4
+394568,432,"Elmira, NY",msa,New York,2024-02-29,2025-02-28,-1.0
+394644,433,"Great Falls, MT",msa,Montana,2024-02-29,2025-02-28,1.3
+394776,434,"Laurel, MS",msa,Mississippi,2024-02-29,2025-02-28,-3.4
+395042,435,"Russellville, AR",msa,Arkansas,2024-02-29,2025-02-28,-1.9
+394704,436,"Indiana, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-1.7
+394859,437,"Midland, MI",msa,Michigan,2024-02-29,2025-02-28,1.3
+394755,438,"Kokomo, IN",msa,Indiana,2024-02-29,2025-02-28,0.7
+394395,439,"Bloomsburg, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-2.2
+394941,440,"Opelousas, LA",msa,Louisiana,2024-02-29,2025-02-28,-7.9
+394675,441,"Helena, MT",msa,Montana,2024-02-29,2025-02-28,2.6
+394744,442,"Key West, FL",msa,Florida,2024-02-29,2025-02-28,3.1
+395145,443,"Talladega, AL",msa,Alabama,2024-02-29,2025-02-28,0.9
+395133,444,"Stillwater, OK",msa,Oklahoma,2024-02-29,2025-02-28,-0.7
+394489,445,"Columbus, IN",msa,Indiana,2024-02-29,2025-02-28,0.8
+394345,446,"Athens, TX",msa,Texas,2024-02-29,2025-02-28,-0.3
+394452,447,"Centralia, WA",msa,Washington,2024-02-29,2025-02-28,2.8
+394822,448,"Manitowoc, WI",msa,Wisconsin,2024-02-29,2025-02-28,2.3
+394682,449,"Hinesville, GA",msa,Georgia,2024-02-29,2025-02-28,2.6
+394541,450,"DuBois, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-5.1
+395205,451,"Warsaw, IN",msa,Indiana,2024-02-29,2025-02-28,0.6
+394986,452,"Plattsburgh, NY",msa,New York,2024-02-29,2025-02-28,0.2
+395126,453,"Statesboro, GA",msa,Georgia,2024-02-29,2025-02-28,3.5
+394445,454,"Casper, WY",msa,Wyoming,2024-02-29,2025-02-28,-0.8
+395231,455,"Wilson, NC",msa,North Carolina,2024-02-29,2025-02-28,3.5
+753881,456,"Glenwood Springs, CO",msa,Colorado,2024-02-29,2025-02-28,3.2
+395085,457,"Seneca, SC",msa,South Carolina,2024-02-29,2025-02-28,2.8
+394866,458,"Minot, ND",msa,North Dakota,2024-02-29,2025-02-28,-2.7
+394936,459,"Olean, NY",msa,New York,2024-02-29,2025-02-28,2.6
+394465,460,"Chillicothe, OH",msa,Ohio,2024-02-29,2025-02-28,0.8
+395077,461,"Searcy, AR",msa,Arkansas,2024-02-29,2025-02-28,0.1
+394638,462,"Grand Island, NE",msa,Nebraska,2024-02-29,2025-02-28,0.2
+394994,463,"Port Angeles, WA",msa,Washington,2024-02-29,2025-02-28,1.6
+394350,464,"Auburn, NY",msa,New York,2024-02-29,2025-02-28,1.3
+394699,465,"Huntsville, TX",msa,Texas,2024-02-29,2025-02-28,-1.0
+394738,466,"Keene, NH",msa,New Hampshire,2024-02-29,2025-02-28,4.0
+394674,467,"Heber, UT",msa,Utah,2024-02-29,2025-02-28,5.0
+395010,468,"Quincy, IL",msa,Illinois,2024-02-29,2025-02-28,-3.2
+395062,469,"Sandusky, OH",msa,Ohio,2024-02-29,2025-02-28,0.6
+394593,470,"Findlay, OH",msa,Ohio,2024-02-29,2025-02-28,-0.2
+394614,471,"Frankfort, KY",msa,Kentucky,2024-02-29,2025-02-28,1.5
+394516,472,"Danville, IL",msa,Illinois,2024-02-29,2025-02-28,-3.5
+394298,473,"Aberdeen, WA",msa,Washington,2024-02-29,2025-02-28,2.0
+394999,474,"Portsmouth, OH",msa,Ohio,2024-02-29,2025-02-28,-1.0
+395106,475,"Somerset, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.4
+753928,476,"Wisconsin Rapids, WI",msa,Wisconsin,2024-02-29,2025-02-28,-0.2
+753893,477,"Jefferson, GA",msa,Georgia,2024-02-29,2025-02-28,3.2
+394736,478,"Kapaa, HI",msa,Hawaii,2024-02-29,2025-02-28,1.6
+394955,479,"Palatka, FL",msa,Florida,2024-02-29,2025-02-28,3.9
+394626,480,"Gallup, NM",msa,New Mexico,2024-02-29,2025-02-28,-1.9
+394683,481,"Hobbs, NM",msa,New Mexico,2024-02-29,2025-02-28,-9.0
+395088,482,"Shawnee, OK",msa,Oklahoma,2024-02-29,2025-02-28,3.4
+394884,484,"Mount Airy, NC",msa,North Carolina,2024-02-29,2025-02-28,1.6
+395132,485,"Stevens Point, WI",msa,Wisconsin,2024-02-29,2025-02-28,-1.2
+394647,486,"Greeneville, TN",msa,Tennessee,2024-02-29,2025-02-28,3.4
+394655,488,"Greenwood, SC",msa,South Carolina,2024-02-29,2025-02-28,1.8
+394764,489,"Lake City, FL",msa,Florida,2024-02-29,2025-02-28,3.8
+394752,490,"Klamath Falls, OR",msa,Oregon,2024-02-29,2025-02-28,2.1
+394877,491,"Morehead City, NC",msa,North Carolina,2024-02-29,2025-02-28,2.9
+394472,492,"Clearlake, CA",msa,California,2024-02-29,2025-02-28,-3.4
+394305,493,"Alamogordo, NM",msa,New Mexico,2024-02-29,2025-02-28,2.3
+395027,494,"Roanoke Rapids, NC",msa,North Carolina,2024-02-29,2025-02-28,-0.6
+394587,495,"Farmington, MO",msa,Missouri,2024-02-29,2025-02-28,1.0
+394897,496,"Muskogee, OK",msa,Oklahoma,2024-02-29,2025-02-28,1.8
+394826,497,"Marion, IN",msa,Indiana,2024-02-29,2025-02-28,0.4
+394586,498,"Faribault, MN",msa,Minnesota,2024-02-29,2025-02-28,-1.0
+395021,499,"Richmond, IN",msa,Indiana,2024-02-29,2025-02-28,0.0
+394829,500,"Marquette, MI",msa,Michigan,2024-02-29,2025-02-28,1.1
+394922,501,"North Wilkesboro, NC",msa,North Carolina,2024-02-29,2025-02-28,1.9
+394885,502,"Mount Pleasant, MI",msa,Michigan,2024-02-29,2025-02-28,0.4
+395024,503,"Rio Grande City, TX",msa,Texas,2024-02-29,2025-02-28,-4.4
+394827,504,"Marion, OH",msa,Ohio,2024-02-29,2025-02-28,0.6
+394360,505,"Baraboo, WI",msa,Wisconsin,2024-02-29,2025-02-28,-0.1
+395016,506,"Red Bluff, CA",msa,California,2024-02-29,2025-02-28,-0.7
+394825,507,"Marinette, WI",msa,Wisconsin,2024-02-29,2025-02-28,1.7
+395040,509,"Roswell, NM",msa,New Mexico,2024-02-29,2025-02-28,-3.1
+395092,510,"Shelton, WA",msa,Washington,2024-02-29,2025-02-28,1.9
+394540,511,"Dublin, GA",msa,Georgia,2024-02-29,2025-02-28,-0.1
+394899,512,"Nacogdoches, TX",msa,Texas,2024-02-29,2025-02-28,-0.3
+395105,513,"Somerset, KY",msa,Kentucky,2024-02-29,2025-02-28,0.4
+394496,514,"Coos Bay, OR",msa,Oregon,2024-02-29,2025-02-28,0.8
+394600,515,"Forest City, NC",msa,North Carolina,2024-02-29,2025-02-28,1.6
+394836,516,"Martinsville, VA",msa,Virginia,2024-02-29,2025-02-28,1.5
+395020,517,"Rexburg, ID",msa,Idaho,2024-02-29,2025-02-28,3.6
+394787,518,"Lewiston, ID",msa,Idaho,2024-02-29,2025-02-28,1.6
+394759,519,"Laconia, NH",msa,New Hampshire,2024-02-29,2025-02-28,4.3
+394629,520,"Georgetown, SC",msa,South Carolina,2024-02-29,2025-02-28,1.8
+394343,521,"Athens, OH",msa,Ohio,2024-02-29,2025-02-28,-2.0
+395063,522,"Sanford, NC",msa,North Carolina,2024-02-29,2025-02-28,4.6
+394570,523,"Enid, OK",msa,Oklahoma,2024-02-29,2025-02-28,-3.6
+394889,524,"Mount Vernon, OH",msa,Ohio,2024-02-29,2025-02-28,1.6
+395199,525,"Walla Walla, WA",msa,Washington,2024-02-29,2025-02-28,0.6
+394309,526,"Albemarle, NC",msa,North Carolina,2024-02-29,2025-02-28,3.7
+394701,527,"Hutchinson, KS",msa,Kansas,2024-02-29,2025-02-28,-0.2
+394693,528,"Hudson, NY",msa,New York,2024-02-29,2025-02-28,3.5
+395124,529,"Starkville, MS",msa,Mississippi,2024-02-29,2025-02-28,-2.7
+394443,530,"Carlsbad, NM",msa,New Mexico,2024-02-29,2025-02-28,-4.6
+394631,531,"Gillette, WY",msa,Wyoming,2024-02-29,2025-02-28,-2.4
+395136,532,"Sturgis, MI",msa,Michigan,2024-02-29,2025-02-28,-0.2
+395044,533,"Rutland, VT",msa,Vermont,2024-02-29,2025-02-28,1.1
+394509,534,"Crossville, TN",msa,Tennessee,2024-02-29,2025-02-28,5.2
+395071,536,"Sayre, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-0.4
+395049,537,"Salina, KS",msa,Kansas,2024-02-29,2025-02-28,-0.5
+753903,538,"Marietta, OH",msa,Ohio,2024-02-29,2025-02-28,-2.0
+394591,539,"Fergus Falls, MN",msa,Minnesota,2024-02-29,2025-02-28,-0.2
+394362,540,"Barre, VT",msa,Vermont,2024-02-29,2025-02-28,1.2
+394618,541,"Fremont, OH",msa,Ohio,2024-02-29,2025-02-28,0.3
+394939,542,"Oneonta, NY",msa,New York,2024-02-29,2025-02-28,-0.2
+394490,543,"Columbus, MS",msa,Mississippi,2024-02-29,2025-02-28,-3.2
+394923,544,"Norwalk, OH",msa,Ohio,2024-02-29,2025-02-28,-1.0
+394365,545,"Batavia, NY",msa,New York,2024-02-29,2025-02-28,1.7
+394336,546,"Ardmore, OK",msa,Oklahoma,2024-02-29,2025-02-28,2.0
+394956,547,"Palestine, TX",msa,Texas,2024-02-29,2025-02-28,1.5
+394605,548,"Fort Madison, IA",msa,Iowa,2024-02-29,2025-02-28,-3.2
+394456,549,"Charleston, IL",msa,Illinois,2024-02-29,2025-02-28,-2.2
+394592,550,"Fernley, NV",msa,Nevada,2024-02-29,2025-02-28,-0.3
+394444,551,"Carson City, NV",msa,Nevada,2024-02-29,2025-02-28,0.3
+394551,552,"Eagle Pass, TX",msa,Texas,2024-02-29,2025-02-28,-1.8
+394432,553,"Calhoun, GA",msa,Georgia,2024-02-29,2025-02-28,4.3
+753877,554,"Cullowhee, NC",msa,North Carolina,2024-02-29,2025-02-28,2.4
+394737,555,"Kearney, NE",msa,Nebraska,2024-02-29,2025-02-28,-1.3
+394582,556,"Fairmont, WV",msa,West Virginia,2024-02-29,2025-02-28,-2.1
+394940,557,"Ontario, OR",msa,Oregon,2024-02-29,2025-02-28,5.0
+394621,558,"Gaffney, SC",msa,South Carolina,2024-02-29,2025-02-28,-2.3
+394977,559,"Picayune, MS",msa,Mississippi,2024-02-29,2025-02-28,-1.6
+395131,560,"Sterling, IL",msa,Illinois,2024-02-29,2025-02-28,-0.5
+394411,561,"Branson, MO",msa,Missouri,2024-02-29,2025-02-28,2.5
+394446,562,"Cedar City, UT",msa,Utah,2024-02-29,2025-02-28,1.7
+395216,563,"Waycross, GA",msa,Georgia,2024-02-29,2025-02-28,1.7
+394951,564,"Oxford, MS",msa,Mississippi,2024-02-29,2025-02-28,0.7
+394721,565,"Jasper, IN",msa,Indiana,2024-02-29,2025-02-28,0.1
+394556,566,"Edwards, CO",msa,Colorado,2024-02-29,2025-02-28,4.9
+394547,567,"Durango, CO",msa,Colorado,2024-02-29,2025-02-28,1.6
+394750,568,"Kinston, NC",msa,North Carolina,2024-02-29,2025-02-28,3.3
+753920,569,"Sonora, CA",msa,California,2024-02-29,2025-02-28,-2.8
+395157,570,"Tiffin, OH",msa,Ohio,2024-02-29,2025-02-28,0.7
+394366,571,"Batesville, AR",msa,Arkansas,2024-02-29,2025-02-28,-3.4
+394989,572,"Point Pleasant, WV",msa,Ohio,2024-02-29,2025-02-28,0.0
+394566,573,"Elko, NV",msa,Nevada,2024-02-29,2025-02-28,-1.8
+394517,574,"Danville, KY",msa,Kentucky,2024-02-29,2025-02-28,1.4
+394632,575,"Glasgow, KY",msa,Kentucky,2024-02-29,2025-02-28,1.3
+395122,576,"St. Marys, GA",msa,Georgia,2024-02-29,2025-02-28,2.5
+394402,577,"Boone, NC",msa,North Carolina,2024-02-29,2025-02-28,4.1
+395204,578,"Warrensburg, MO",msa,Missouri,2024-02-29,2025-02-28,0.3
+394634,579,"Gloversville, NY",msa,New York,2024-02-29,2025-02-28,1.1
+394604,580,"Fort Leonard Wood, MO",msa,Missouri,2024-02-29,2025-02-28,0.6
+394993,581,"Poplar Bluff, MO",msa,Missouri,2024-02-29,2025-02-28,-1.9
+394562,582,"Elizabeth City, NC",msa,North Carolina,2024-02-29,2025-02-28,1.3
+394967,583,"Payson, AZ",msa,Arizona,2024-02-29,2025-02-28,3.6
+394344,584,"Athens, TN",msa,Tennessee,2024-02-29,2025-02-28,2.0
+394571,585,"Enterprise, AL",msa,Alabama,2024-02-29,2025-02-28,-0.8
+394339,586,"Ashland, OH",msa,Ohio,2024-02-29,2025-02-28,1.8
+395073,587,"Scottsboro, AL",msa,Alabama,2024-02-29,2025-02-28,0.8
+394861,588,"Milledgeville, GA",msa,Georgia,2024-02-29,2025-02-28,1.4
+394742,589,"Kerrville, TX",msa,Texas,2024-02-29,2025-02-28,-0.4
+394363,590,"Bartlesville, OK",msa,Oklahoma,2024-02-29,2025-02-28,0.1
+394985,591,"Platteville, WI",msa,Wisconsin,2024-02-29,2025-02-28,-0.8
+394503,592,"Corsicana, TX",msa,Texas,2024-02-29,2025-02-28,1.3
+394652,593,"Greenville, OH",msa,Ohio,2024-02-29,2025-02-28,1.4
+395029,594,"Rochelle, IL",msa,Illinois,2024-02-29,2025-02-28,-1.4
+394538,596,"Douglas, GA",msa,Georgia,2024-02-29,2025-02-28,0.7
+394933,597,"Oil City, PA",msa,Pennsylvania,2024-02-29,2025-02-28,0.5
+394838,598,"Mason City, IA",msa,Iowa,2024-02-29,2025-02-28,-0.4
+394717,599,"Jacksonville, TX",msa,Texas,2024-02-29,2025-02-28,3.2
+394625,600,"Galesburg, IL",msa,Illinois,2024-02-29,2025-02-28,-3.9
+394954,601,"Pahrump, NV",msa,Nevada,2024-02-29,2025-02-28,2.0
+394963,602,"Paris, TX",msa,Texas,2024-02-29,2025-02-28,-0.5
+395234,603,"Winona, MN",msa,Minnesota,2024-02-29,2025-02-28,-0.4
+753905,604,"Newport, OR",msa,Oregon,2024-02-29,2025-02-28,2.4
+394878,605,"Morgan City, LA",msa,Louisiana,2024-02-29,2025-02-28,-6.2
+395091,606,"Shelbyville, TN",msa,Tennessee,2024-02-29,2025-02-28,3.1
+394326,607,"Amsterdam, NY",msa,New York,2024-02-29,2025-02-28,2.0
+753911,608,"Ozark, AL",msa,Alabama,2024-02-29,2025-02-28,-0.2
+394316,609,"Alice, TX",msa,Texas,2024-02-29,2025-02-28,-9.9
+394628,610,"Gardnerville Ranchos, NV",msa,Nevada,2024-02-29,2025-02-28,-0.2
+394608,611,"Fort Polk South, LA",msa,Louisiana,2024-02-29,2025-02-28,-4.5
+394437,612,"Ca-¦on City, CO",msa,Colorado,2024-02-29,2025-02-28,1.1
+394903,613,"Natchez, MS",msa,Louisiana,2024-02-29,2025-02-28,-5.2
+394906,614,"New Castle, IN",msa,Indiana,2024-02-29,2025-02-28,2.3
+394478,615,"Clovis, NM",msa,New Mexico,2024-02-29,2025-02-28,-4.1
+394919,616,"Norfolk, NE",msa,Nebraska,2024-02-29,2025-02-28,-0.7
+394431,617,"Cadillac, MI",msa,Michigan,2024-02-29,2025-02-28,-0.4
+395043,618,"Ruston, LA",msa,Louisiana,2024-02-29,2025-02-28,-4.1
+395097,619,"Sidney, OH",msa,Ohio,2024-02-29,2025-02-28,0.2
+395008,620,"Pullman, WA",msa,Washington,2024-02-29,2025-02-28,0.9
+394819,621,"Malone, NY",msa,New York,2024-02-29,2025-02-28,0.6
+394527,622,"Del Rio, TX",msa,Texas,2024-02-29,2025-02-28,0.3
+394391,623,"Blackfoot, ID",msa,Idaho,2024-02-29,2025-02-28,4.7
+395017,624,"Red Wing, MN",msa,Minnesota,2024-02-29,2025-02-28,-1.0
+394918,625,"Nogales, AZ",msa,Arizona,2024-02-29,2025-02-28,3.0
+395144,626,"Tahlequah, OK",msa,Oklahoma,2024-02-29,2025-02-28,2.7
+394739,627,"Kendallville, IN",msa,Indiana,2024-02-29,2025-02-28,1.5
+394876,628,"Montrose, CO",msa,Colorado,2024-02-29,2025-02-28,1.6
+394504,629,"Cortland, NY",msa,New York,2024-02-29,2025-02-28,-0.7
+394887,630,"Mount Sterling, KY",msa,Kentucky,2024-02-29,2025-02-28,0.7
+394477,631,"Clinton, IA",msa,Iowa,2024-02-29,2025-02-28,-1.2
+753916,632,"Sandpoint, ID",msa,Idaho,2024-02-29,2025-02-28,4.5
+753865,633,"Bardstown, KY",msa,Kentucky,2024-02-29,2025-02-28,2.0
+395201,634,"Wapakoneta, OH",msa,Ohio,2024-02-29,2025-02-28,-0.1
+394987,635,"Plymouth, IN",msa,Indiana,2024-02-29,2025-02-28,1.6
+394789,636,"Lewistown, PA",msa,Pennsylvania,2024-02-29,2025-02-28,1.1
+394379,637,"Bemidji, MN",msa,Minnesota,2024-02-29,2025-02-28,-0.1
+394377,638,"Bellefontaine, OH",msa,Ohio,2024-02-29,2025-02-28,0.6
+395087,639,"Seymour, IN",msa,Indiana,2024-02-29,2025-02-28,0.8
+394426,640,"Burley, ID",msa,Idaho,2024-02-29,2025-02-28,3.9
+394548,641,"Durant, OK",msa,Oklahoma,2024-02-29,2025-02-28,2.4
+394883,642,"Moultrie, GA",msa,Georgia,2024-02-29,2025-02-28,-1.0
+394398,643,"Bogalusa, LA",msa,Louisiana,2024-02-29,2025-02-28,-6.8
+394500,644,"Cornelia, GA",msa,Georgia,2024-02-29,2025-02-28,4.9
+753889,645,"Hillsdale, MI",msa,Michigan,2024-02-29,2025-02-28,-0.7
+395155,646,"Thomasville, GA",msa,Georgia,2024-02-29,2025-02-28,0.9
+394961,647,"Paragould, AR",msa,Arkansas,2024-02-29,2025-02-28,-0.2
+394650,648,"Greenville, MS",msa,Mississippi,2024-02-29,2025-02-28,-11.6
+394427,649,"Burlington, IA",msa,Iowa,2024-02-29,2025-02-28,-3.4
+394817,650,"Madisonville, KY",msa,Kentucky,2024-02-29,2025-02-28,0.9
+394850,651,"Menomonie, WI",msa,Wisconsin,2024-02-29,2025-02-28,0.3
+753918,652,"Shawano, WI",msa,Wisconsin,2024-02-29,2025-02-28,1.8
+395189,653,"Vicksburg, MS",msa,Mississippi,2024-02-29,2025-02-28,-4.3
+394375,654,"Bedford, IN",msa,Indiana,2024-02-29,2025-02-28,2.4
+395208,656,"Washington, NC",msa,North Carolina,2024-02-29,2025-02-28,2.1
+394616,657,"Freeport, IL",msa,Illinois,2024-02-29,2025-02-28,1.9
+394667,658,"Harrison, AR",msa,Arkansas,2024-02-29,2025-02-28,2.0
+395037,659,"Rolla, MO",msa,Missouri,2024-02-29,2025-02-28,1.0
+394482,660,"Coldwater, MI",msa,Michigan,2024-02-29,2025-02-28,-2.5
+753904,661,"Marion, NC",msa,North Carolina,2024-02-29,2025-02-28,1.3
+394695,662,"Huntingdon, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-0.3
+394567,663,"Ellensburg, WA",msa,Washington,2024-02-29,2025-02-28,0.4
+394990,664,"Ponca City, OK",msa,Oklahoma,2024-02-29,2025-02-28,-0.5
+394779,665,"Lawrenceburg, TN",msa,Tennessee,2024-02-29,2025-02-28,2.2
+394842,666,"McAlester, OK",msa,Oklahoma,2024-02-29,2025-02-28,0.4
+394886,667,"Mount Pleasant, TX",msa,Texas,2024-02-29,2025-02-28,1.2
+395228,668,"Willmar, MN",msa,Minnesota,2024-02-29,2025-02-28,0.0
+395034,669,"Rockingham, NC",msa,North Carolina,2024-02-29,2025-02-28,-0.2
+394895,670,"Muscatine, IA",msa,Iowa,2024-02-29,2025-02-28,-2.0
+394785,671,"Lewisburg, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-0.2
+394349,672,"Auburn, IN",msa,Indiana,2024-02-29,2025-02-28,0.8
+394545,673,"Duncan, OK",msa,Oklahoma,2024-02-29,2025-02-28,1.6
+395081,674,"Sedalia, MO",msa,Missouri,2024-02-29,2025-02-28,2.9
+394448,675,"Cedartown, GA",msa,Georgia,2024-02-29,2025-02-28,5.1
+394677,676,"Henderson, NC",msa,North Carolina,2024-02-29,2025-02-28,1.8
+394297,677,"Aberdeen, SD",msa,South Dakota,2024-02-29,2025-02-28,-1.2
+395032,678,"Rock Springs, WY",msa,Wyoming,2024-02-29,2025-02-28,-2.8
+394627,679,"Garden City, KS",msa,Kansas,2024-02-29,2025-02-28,-0.2
+395129,680,"Stephenville, TX",msa,Texas,2024-02-29,2025-02-28,2.9
+394449,681,"Celina, OH",msa,Ohio,2024-02-29,2025-02-28,0.9
+395230,682,"Wilmington, OH",msa,Ohio,2024-02-29,2025-02-28,1.5
+394424,683,"Bucyrus, OH",msa,Ohio,2024-02-29,2025-02-28,1.9
+394319,684,"Alma, MI",msa,Michigan,2024-02-29,2025-02-28,-1.2
+394558,685,"El Campo, TX",msa,Texas,2024-02-29,2025-02-28,-2.5
+394891,686,"Mountain Home, AR",msa,Arkansas,2024-02-29,2025-02-28,0.4
+394624,687,"Gainesville, TX",msa,Texas,2024-02-29,2025-02-28,0.4
+395158,688,"Tifton, GA",msa,Georgia,2024-02-29,2025-02-28,-0.4
+394397,689,"Blytheville, AR",msa,Arkansas,2024-02-29,2025-02-28,-1.5
+394845,690,"McMinnville, TN",msa,Tennessee,2024-02-29,2025-02-28,3.9
+394341,691,"Astoria, OR",msa,Oregon,2024-02-29,2025-02-28,1.4
+394409,692,"Bradford, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-2.8
+394574,693,"Espa-¦ola, NM",msa,New Mexico,2024-02-29,2025-02-28,-0.9
+394844,694,"McComb, MS",msa,Mississippi,2024-02-29,2025-02-28,-8.7
+753866,695,"Big Stone Gap, VA",msa,Virginia,2024-02-29,2025-02-28,-0.5
+394833,696,"Marshalltown, IA",msa,Iowa,2024-02-29,2025-02-28,-0.1
+394384,697,"Big Rapids, MI",msa,Michigan,2024-02-29,2025-02-28,0.3
+394354,698,"Austin, MN",msa,Minnesota,2024-02-29,2025-02-28,1.2
+395082,699,"Selinsgrove, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-3.4
+395219,700,"West Plains, MO",msa,Missouri,2024-02-29,2025-02-28,3.3
+394934,701,"Okeechobee, FL",msa,Florida,2024-02-29,2025-02-28,4.8
+394690,702,"Houghton, MI",msa,Michigan,2024-02-29,2025-02-28,-2.5
+394881,703,"Moscow, ID",msa,Idaho,2024-02-29,2025-02-28,2.0
+394476,704,"Clewiston, FL",msa,Florida,2024-02-29,2025-02-28,6.0
+395026,705,"Riverton, WY",msa,Wyoming,2024-02-29,2025-02-28,0.8
+394560,706,"El Dorado, AR",msa,Arkansas,2024-02-29,2025-02-28,-4.1
+395083,707,"Selma, AL",msa,Alabama,2024-02-29,2025-02-28,-6.4
+394981,708,"Pittsburg, KS",msa,Kansas,2024-02-29,2025-02-28,0.9
+394663,709,"Hannibal, MO",msa,Missouri,2024-02-29,2025-02-28,0.8
+395203,710,"Warren, PA",msa,Pennsylvania,2024-02-29,2025-02-28,2.8
+394315,711,"Alexandria, MN",msa,Minnesota,2024-02-29,2025-02-28,-0.4
+395178,712,"Urbana, OH",msa,Ohio,2024-02-29,2025-02-28,0.8
+394654,713,"Greenwood, MS",msa,Mississippi,2024-02-29,2025-02-28,-4.2
+394434,714,"Cambridge, OH",msa,Ohio,2024-02-29,2025-02-28,0.7
+395227,715,"Williston, ND",msa,North Dakota,2024-02-29,2025-02-28,-1.1
+394526,716,"Defiance, OH",msa,Ohio,2024-02-29,2025-02-28,-0.6
+395099,717,"Sikeston, MO",msa,Missouri,2024-02-29,2025-02-28,-4.8
+395046,718,"Safford, AZ",msa,Arizona,2024-02-29,2025-02-28,1.1
+394715,719,"Jacksonville, IL",msa,Illinois,2024-02-29,2025-02-28,-4.3
+394300,720,"Ada, OK",msa,Oklahoma,2024-02-29,2025-02-28,1.0
+394422,721,"Brownwood, TX",msa,Texas,2024-02-29,2025-02-28,-0.7
+394507,722,"Crawfordsville, IN",msa,Indiana,2024-02-29,2025-02-28,1.6
+394801,723,"Logansport, IN",msa,Indiana,2024-02-29,2025-02-28,1.9
+395072,724,"Scottsbluff, NE",msa,Nebraska,2024-02-29,2025-02-28,-0.8
+394904,725,"Natchitoches, LA",msa,Louisiana,2024-02-29,2025-02-28,-6.5
+394914,726,"Newberry, SC",msa,South Carolina,2024-02-29,2025-02-28,0.6
+394799,727,"Lock Haven, PA",msa,Pennsylvania,2024-02-29,2025-02-28,-1.9
+394451,728,"Centralia, IL",msa,Illinois,2024-02-29,2025-02-28,-0.9
+394554,729,"Easton, MD",msa,Maryland,2024-02-29,2025-02-28,-0.3
+394948,730,"Owatonna, MN",msa,Minnesota,2024-02-29,2025-02-28,0.5
+394888,731,"Mount Vernon, IL",msa,Illinois,2024-02-29,2025-02-28,-2.2
+394771,733,"Laramie, WY",msa,Wyoming,2024-02-29,2025-02-28,-0.2
+394894,734,"Murray, KY",msa,Kentucky,2024-02-29,2025-02-28,3.1
+394617,735,"Fremont, NE",msa,Nebraska,2024-02-29,2025-02-28,0.4
+394382,736,"Bennington, VT",msa,Vermont,2024-02-29,2025-02-28,1.9
+395069,738,"Sault Ste. Marie, MI",msa,Michigan,2024-02-29,2025-02-28,-1.9
+394436,739,"Campbellsville, KY",msa,Kentucky,2024-02-29,2025-02-28,1.5
+394550,740,"Dyersburg, TN",msa,Tennessee,2024-02-29,2025-02-28,-1.9
+394573,742,"Escanaba, MI",msa,Michigan,2024-02-29,2025-02-28,0.2
+394840,743,"Mayfield, KY",msa,Kentucky,2024-02-29,2025-02-28,2.8
+394745,744,"Kill Devil Hills, NC",msa,North Carolina,2024-02-29,2025-02-28,3.2
+395137,745,"Sulphur Springs, TX",msa,Texas,2024-02-29,2025-02-28,0.4
+394702,746,"Hutchinson, MN",msa,Minnesota,2024-02-29,2025-02-28,0.2
+394506,747,"Coshocton, OH",msa,Ohio,2024-02-29,2025-02-28,1.4
+394696,748,"Huntington, IN",msa,Indiana,2024-02-29,2025-02-28,0.7
+394522,749,"DeRidder, LA",msa,Louisiana,2024-02-29,2025-02-28,-9.0
+395192,750,"Vincennes, IN",msa,Indiana,2024-02-29,2025-02-28,1.7
+394370,751,"Bay City, TX",msa,Texas,2024-02-29,2025-02-28,-3.4
+394920,752,"North Platte, NE",msa,Nebraska,2024-02-29,2025-02-28,-1.5
+394973,753,"Peru, IN",msa,Indiana,2024-02-29,2025-02-28,0.4
+394992,754,"Pontiac, IL",msa,Illinois,2024-02-29,2025-02-28,-0.7
+394781,755,"Lebanon, MO",msa,Missouri,2024-02-29,2025-02-28,1.5
+394915,756,"Newport, TN",msa,Tennessee,2024-02-29,2025-02-28,0.7
+394525,757,"Decatur, IN",msa,Indiana,2024-02-29,2025-02-28,1.0
+395191,758,"Vidalia, GA",msa,Georgia,2024-02-29,2025-02-28,0.6
+394413,759,"Brenham, TX",msa,Texas,2024-02-29,2025-02-28,-0.3
+395187,760,"Vernal, UT",msa,Utah,2024-02-29,2025-02-28,3.3
+394947,762,"Ottumwa, IA",msa,Iowa,2024-02-29,2025-02-28,1.1
+394430,764,"Butte, MT",msa,Montana,2024-02-29,2025-02-28,5.2
+394499,765,"Corinth, MS",msa,Mississippi,2024-02-29,2025-02-28,-3.1
+394417,766,"Brookhaven, MS",msa,Mississippi,2024-02-29,2025-02-28,-3.9
+394569,767,"Emporia, KS",msa,Kansas,2024-02-29,2025-02-28,1.1
+394713,768,"Jackson, WY",msa,Wyoming,2024-02-29,2025-02-28,5.7
+394385,770,"Big Spring, TX",msa,Texas,2024-02-29,2025-02-28,-6.1
+394557,771,"Effingham, IL",msa,Illinois,2024-02-29,2025-02-28,-1.2
+394536,772,"Dodge City, KS",msa,Kansas,2024-02-29,2025-02-28,2.0
+395211,773,"Watertown, SD",msa,South Dakota,2024-02-29,2025-02-28,0.5
+394331,774,"Angola, IN",msa,Indiana,2024-02-29,2025-02-28,1.0
+394535,775,"Dixon, IL",msa,Illinois,2024-02-29,2025-02-28,-1.8
+394777,776,"Laurinburg, NC",msa,North Carolina,2024-02-29,2025-02-28,3.8
+395149,777,"Taos, NM",msa,New Mexico,2024-02-29,2025-02-28,-2.2
+394419,778,"Brookings, SD",msa,South Dakota,2024-02-29,2025-02-28,-0.6
+394324,779,"Americus, GA",msa,Georgia,2024-02-29,2025-02-28,2.1
+394491,780,"Columbus, NE",msa,Nebraska,2024-02-29,2025-02-28,0.0
+395150,781,"Taylorville, IL",msa,Illinois,2024-02-29,2025-02-28,-3.2
+394335,782,"Arcadia, FL",msa,Florida,2024-02-29,2025-02-28,3.7
+394786,783,"Lewisburg, TN",msa,Tennessee,2024-02-29,2025-02-28,2.7
+395084,784,"Seneca Falls, NY",msa,New York,2024-02-29,2025-02-28,0.7
+394533,785,"Dickinson, ND",msa,North Dakota,2024-02-29,2025-02-28,-3.4
+395207,787,"Washington, IN",msa,Indiana,2024-02-29,2025-02-28,1.2
+395165,788,"Troy, AL",msa,Alabama,2024-02-29,2025-02-28,-2.9
+753902,789,"Malvern, AR",msa,Arkansas,2024-02-29,2025-02-28,-0.9
+394613,790,"Frankfort, IN",msa,Indiana,2024-02-29,2025-02-28,3.0
+394815,791,"Madison, IN",msa,Indiana,2024-02-29,2025-02-28,1.6
+394414,792,"Brevard, NC",msa,North Carolina,2024-02-29,2025-02-28,4.0
+395141,793,"Susanville, CA",msa,California,2024-02-29,2025-02-28,-2.4
+394835,794,"Martin, TN",msa,Tennessee,2024-02-29,2025-02-28,1.5
+394984,795,"Plainview, TX",msa,Texas,2024-02-29,2025-02-28,-3.9
+753878,797,"Dayton, TN",msa,Tennessee,2024-02-29,2025-02-28,2.8
+753892,798,"Jackson, OH",msa,Ohio,2024-02-29,2025-02-28,-0.7
+394433,799,"Cambridge, MD",msa,Maryland,2024-02-29,2025-02-28,0.7
+394962,800,"Paris, TN",msa,Tennessee,2024-02-29,2025-02-28,1.0
+394730,802,"Juneau, AK",msa,Alaska,2024-02-29,2025-02-28,-3.1
+394481,803,"Coffeyville, KS",msa,Kansas,2024-02-29,2025-02-28,-0.9
+394774,804,"Las Vegas, NM",msa,New Mexico,2024-02-29,2025-02-28,-1.8
+394383,805,"Berlin, NH",msa,New Hampshire,2024-02-29,2025-02-28,4.6
+394473,806,"Cleveland, MS",msa,Mississippi,2024-02-29,2025-02-28,-10.5
+394670,807,"Hastings, NE",msa,Nebraska,2024-02-29,2025-02-28,-0.5
+394376,808,"Beeville, TX",msa,Texas,2024-02-29,2025-02-28,-6.7
+394749,809,"Kingsville, TX",msa,Texas,2024-02-29,2025-02-28,-2.9
+395196,810,"Wabash, IN",msa,Indiana,2024-02-29,2025-02-28,0.5
+753871,811,"Breckenridge, CO",msa,Colorado,2024-02-29,2025-02-28,-0.8
+394310,814,"Albert Lea, MN",msa,Minnesota,2024-02-29,2025-02-28,1.2
+395093,815,"Sheridan, WY",msa,Wyoming,2024-02-29,2025-02-28,0.5
+395176,816,"Union City, TN",msa,Tennessee,2024-02-29,2025-02-28,0.1
+394855,817,"Miami, OK",msa,Oklahoma,2024-02-29,2025-02-28,1.1
+394708,818,"Iron Mountain, MI",msa,Michigan,2024-02-29,2025-02-28,-1.1
+394725,819,"Jesup, GA",msa,Georgia,2024-02-29,2025-02-28,1.2
+394846,820,"McPherson, KS",msa,Kansas,2024-02-29,2025-02-28,-1.9
+394751,821,"Kirksville, MO",msa,Missouri,2024-02-29,2025-02-28,-1.6
+753901,822,"Ludington, MI",msa,Michigan,2024-02-29,2025-02-28,1.1
+394356,823,"Bainbridge, GA",msa,Georgia,2024-02-29,2025-02-28,2.9
+394320,824,"Alpena, MI",msa,Michigan,2024-02-29,2025-02-28,-0.2
+395206,825,"Washington Court House, OH",msa,Ohio,2024-02-29,2025-02-28,1.0
+394673,826,"Hays, KS",msa,Kansas,2024-02-29,2025-02-28,-1.7
+394606,827,"Fort Morgan, CO",msa,Colorado,2024-02-29,2025-02-28,0.2
+395185,828,"Van Wert, OH",msa,Ohio,2024-02-29,2025-02-28,1.4
+394740,830,"Kennett, MO",msa,Missouri,2024-02-29,2025-02-28,-9.1
+753926,831,"Weatherford, OK",msa,Oklahoma,2024-02-29,2025-02-28,-1.7
+394892,832,"Mountain Home, ID",msa,Idaho,2024-02-29,2025-02-28,5.6
+394864,833,"Mineral Wells, TX",msa,Texas,2024-02-29,2025-02-28,1.5
+394795,834,"Lincoln, IL",msa,Illinois,2024-02-29,2025-02-28,-4.1
+395100,835,"Silver City, NM",msa,New Mexico,2024-02-29,2025-02-28,-0.9
+753879,836,"Elkins, WV",msa,West Virginia,2024-02-29,2025-02-28,-2.1
+394812,838,"Macomb, IL",msa,Illinois,2024-02-29,2025-02-28,-3.0
+394435,839,"Camden, AR",msa,Arkansas,2024-02-29,2025-02-28,-4.1
+394508,840,"Crescent City, CA",msa,California,2024-02-29,2025-02-28,-1.4
+394921,841,"North Vernon, IN",msa,Indiana,2024-02-29,2025-02-28,1.8
+395154,843,"Thomaston, GA",msa,Georgia,2024-02-29,2025-02-28,7.2
+394642,845,"Grants, NM",msa,New Mexico,2024-02-29,2025-02-28,0.3
+394381,846,"Bennettsville, SC",msa,South Carolina,2024-02-29,2025-02-28,-5.6
+394615,847,"Fredericksburg, TX",msa,Texas,2024-02-29,2025-02-28,0.5
+395159,848,"Toccoa, GA",msa,Georgia,2024-02-29,2025-02-28,5.1
+753923,849,"The Dalles, OR",msa,Oregon,2024-02-29,2025-02-28,0.8
+394649,850,"Greensburg, IN",msa,Indiana,2024-02-29,2025-02-28,1.4
+394706,851,"Indianola, MS",msa,Mississippi,2024-02-29,2025-02-28,-3.9
+394758,852,"La Grande, OR",msa,Oregon,2024-02-29,2025-02-28,1.0
+753909,854,"Ottawa, KS",msa,Kansas,2024-02-29,2025-02-28,2.0
+394912,855,"New Ulm, MN",msa,Minnesota,2024-02-29,2025-02-28,-1.0
+394791,856,"Lexington, NE",msa,Nebraska,2024-02-29,2025-02-28,-0.2
+394643,857,"Great Bend, KS",msa,Kansas,2024-02-29,2025-02-28,-0.3
+395110,858,"Spearfish, SD",msa,South Dakota,2024-02-29,2025-02-28,1.4
+395214,859,"Wauchula, FL",msa,Florida,2024-02-29,2025-02-28,4.9
+394830,860,"Marshall, MN",msa,Minnesota,2024-02-29,2025-02-28,-3.0
+394529,861,"Deming, NM",msa,New Mexico,2024-02-29,2025-02-28,-2.2
+394854,862,"Mexico, MO",msa,Missouri,2024-02-29,2025-02-28,1.3
+394584,863,"Fallon, NV",msa,Nevada,2024-02-29,2025-02-28,0.0
+394322,864,"Altus, OK",msa,Oklahoma,2024-02-29,2025-02-28,-0.9
+395181,865,"Uvalde, TX",msa,Texas,2024-02-29,2025-02-28,-2.8
+753884,866,"Hailey, ID",msa,Idaho,2024-02-29,2025-02-28,4.0
+753921,867,"Steamboat Springs, CO",msa,Colorado,2024-02-29,2025-02-28,6.4
+395138,868,"Summerville, GA",msa,Georgia,2024-02-29,2025-02-28,3.0
+394869,869,"Moberly, MO",msa,Missouri,2024-02-29,2025-02-28,0.8
+394858,870,"Middlesborough, KY",msa,Kentucky,2024-02-29,2025-02-28,-7.3
+395236,871,"Woodward, OK",msa,Oklahoma,2024-02-29,2025-02-28,-4.9
+395004,872,"Prineville, OR",msa,Oregon,2024-02-29,2025-02-28,1.7
+394687,875,"Hood River, OR",msa,Oregon,2024-02-29,2025-02-28,-0.1
+394601,876,"Forrest City, AR",msa,Arkansas,2024-02-29,2025-02-28,-6.3
+394494,877,"Connersville, IN",msa,Indiana,2024-02-29,2025-02-28,2.6
+394868,878,"Mitchell, SD",msa,South Dakota,2024-02-29,2025-02-28,-0.1
+394831,879,"Marshall, MO",msa,Missouri,2024-02-29,2025-02-28,-4.7
+394418,880,"Brookings, OR",msa,Oregon,2024-02-29,2025-02-28,-0.2
+395241,881,"Yankton, SD",msa,South Dakota,2024-02-29,2025-02-28,-2.6
+395198,882,"Wahpeton, ND",msa,North Dakota,2024-02-29,2025-02-28,-1.6
+394818,883,"Magnolia, AR",msa,Arkansas,2024-02-29,2025-02-28,-6.4
+394564,884,"Elk City, OK",msa,Oklahoma,2024-02-29,2025-02-28,-3.8
+394793,885,"Liberal, KS",msa,Kansas,2024-02-29,2025-02-28,-2.2
+395239,885,"Worthington, MN",msa,Minnesota,2024-02-29,2025-02-28,-0.4
+394945,887,"Oskaloosa, IA",msa,Iowa,2024-02-29,2025-02-28,0.2
+394959,888,"Pampa, TX",msa,Texas,2024-02-29,2025-02-28,-3.3
+394470,889,"Clarksdale, MS",msa,Mississippi,2024-02-29,2025-02-28,-5.4
+395130,890,"Sterling, CO",msa,Colorado,2024-02-29,2025-02-28,0.2
+394371,891,"Beatrice, NE",msa,Nebraska,2024-02-29,2025-02-28,0.3
+394718,892,"Jamestown, ND",msa,North Dakota,2024-02-29,2025-02-28,-4.9
+394784,893,"Levelland, TX",msa,Texas,2024-02-29,2025-02-28,-3.9
+394656,894,"Grenada, MS",msa,Mississippi,2024-02-29,2025-02-28,-2.1
+394837,895,"Maryville, MO",msa,Missouri,2024-02-29,2025-02-28,1.0
+394337,896,"Arkadelphia, AR",msa,Arkansas,2024-02-29,2025-02-28,-1.3
+394544,897,"Dumas, TX",msa,Texas,2024-02-29,2025-02-28,-4.6
+394659,898,"Guymon, OK",msa,Oklahoma,2024-02-29,2025-02-28,-1.2
+394403,899,"Borger, TX",msa,Texas,2024-02-29,2025-02-28,-5.1
+394979,900,"Pierre, SD",msa,South Dakota,2024-02-29,2025-02-28,-1.6
+394700,901,"Huron, SD",msa,South Dakota,2024-02-29,2025-02-28,-3.1
+395135,903,"Storm Lake, IA",msa,Iowa,2024-02-29,2025-02-28,0.4
+394498,905,"Cordele, GA",msa,Georgia,2024-02-29,2025-02-28,1.1
+394578,906,"Evanston, WY",msa,Wyoming,2024-02-29,2025-02-28,1.4
+395014,907,"Raymondville, TX",msa,Texas,2024-02-29,2025-02-28,-6.8
+753914,908,"Port Lavaca, TX",msa,Texas,2024-02-29,2025-02-28,-3.0
+753908,909,"Othello, WA",msa,Washington,2024-02-29,2025-02-28,3.1
+753925,910,"Vineyard Haven, MA",msa,Massachusetts,2024-02-29,2025-02-28,3.7
+394965,911,"Parsons, KS",msa,Kansas,2024-02-29,2025-02-28,0.2
+395003,912,"Price, UT",msa,Utah,2024-02-29,2025-02-28,4.7
+394996,915,"Portales, NM",msa,New Mexico,2024-02-29,2025-02-28,-3.6
+394805,916,"Los Alamos, NM",msa,New Mexico,2024-02-29,2025-02-28,1.6
+394678,918,"Hereford, TX",msa,Texas,2024-02-29,2025-02-28,1.2
+394330,920,"Andrews, TX",msa,Texas,2024-02-29,2025-02-28,-3.1
+395112,922,"Spirit Lake, IA",msa,Iowa,2024-02-29,2025-02-28,0.2
+394594,923,"Fitzgerald, GA",msa,Georgia,2024-02-29,2025-02-28,3.3
+753927,924,"Winnemucca, NV",msa,Nevada,2024-02-29,2025-02-28,0.1
+394841,925,"Maysville, KY",msa,Kentucky,2024-02-29,2025-02-28,1.9
+395104,926,"Snyder, TX",msa,Texas,2024-02-29,2025-02-28,-5.4
+394676,927,"Helena, AR",msa,Arkansas,2024-02-29,2025-02-28,-11.0
+395111,928,"Spencer, IA",msa,Iowa,2024-02-29,2025-02-28,-0.9
+394342,929,"Atchison, KS",msa,Kansas,2024-02-29,2025-02-28,3.9
+753880,930,"Fairfield, IA",msa,Iowa,2024-02-29,2025-02-28,-0.8
+395186,932,"Vermillion, SD",msa,South Dakota,2024-02-29,2025-02-28,1.0
+395142,933,"Sweetwater, TX",msa,Texas,2024-02-29,2025-02-28,-7.2
+394968,934,"Pecos, TX",msa,Texas,2024-02-29,2025-02-28,-7.9
+753929,935,"Zapata, TX",msa,Texas,2024-02-29,2025-02-28,-8.1
+394743,936,"Ketchikan, AK",msa,Alaska,2024-02-29,2025-02-28,-2.7
+753874,937,"Craig, CO",msa,Colorado,2024-02-29,2025-02-28,2.3
+395188,938,"Vernon, TX",msa,Texas,2024-02-29,2025-02-28,-3.6
+394767,939,"Lamesa, TX",msa,Texas,2024-02-29,2025-02-28,-8.1

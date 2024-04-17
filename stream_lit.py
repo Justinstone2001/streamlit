@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit.components.v1 as components
 import streamlit as st
 import matplotlib.pyplot as plt
+import plotly.express as px
 
 
 # Paste the copied Pygwalker chart code here
@@ -365,14 +366,28 @@ st.markdown("""
 Explore the interactive maps below, showing detailed information on rental and median sales data across different regions.
 """)
 
+
+# walker = pyg.to_html(rental_sales, spec=vis_spec)
+# components.html(walker, height=1000, scrolling=False)
+
+# rendered_chart = pyg.render(rental_sales, spec=spec)
+
+# components.html(rendered_chart, height=1000, scrolling=False)
+
 # Pygwalker visualizations
 pyg_html_rental = pyg.to_html(rental_sales, spec=vis_spec)
-pyg_html_median = pyg.to_html(median_sales, spec=vis_spec2)
-pyg_html_graph = pyg.to_html(median_sales, spec=vis_spec3)
 
-components.html(pyg_html_graph, height=800, scrolling=True)
+# pyg_html_median = pyg.to_html(median_sales, spec=vis_spec2)
+# pyg_html_graph = pyg.to_html(median_sales, spec=vis_spec3)
+
+# walker_html = pyg.walk(rental_sales, spec="ksf://babson-edu/monthly_rent").to_html()
+
+# Display the visualization in Streamlit
+# components.html(walker_html, height=800, scrolling=True)
+
 components.html(pyg_html_rental, height=800, scrolling=True)
-components.html(pyg_html_median, height=800, scrolling=True)
+#components.html(pyg_html_graph, height=800, scrolling=True)
+# components.html(pyg_html_median, height=800, scrolling=True)
 
 
 # # Using columns to place the Pygwalker charts side by side

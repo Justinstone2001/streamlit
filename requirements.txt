@@ -2,3 +2,4 @@ pygwalker
 pandas
 matplotlib
 streamlit
+plotly
