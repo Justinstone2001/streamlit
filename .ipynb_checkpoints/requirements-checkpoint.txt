@@ -1,7 +1,0 @@
-pygwalker
-pandas
-matplotlib
-streamlit
-plotly
-seaborn
-os
