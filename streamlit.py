@@ -4,9 +4,12 @@ import pandas as pd
 import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
+import os
 
 # Read and preprocess data
-rental_sales = pd.read_csv("Cleaned_Data/state_rentals_excluding_hawaii_alaska.csv")
+csv_path = os.path.abspath("Cleaned_Data/state_rentals_excluding_hawaii_alaska.csv")
+
+rental_sales = pd.read_csv(csv_path)
 rental_sales['Date Recorded'] = pd.to_datetime(rental_sales['Date Recorded'])
 median_sales = pd.read_csv('Cleaned_Data/median_sales_excluding_hawaii_alaska.csv')
 predicted_sales = pd.read_csv('Cleaned_Data/cleaned_state_home_forecast.csv')
